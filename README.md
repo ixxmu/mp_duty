@@ -25,6 +25,7 @@ TOKEN: 你的github api token，需要有repo权限。
 REPO: fork后的repo名，格式如 'duty-machine/archives'。
 ```
 6. 在vercel的build histories里点击redeploy，使配置的环境变量生效。
+重新部署找了半天没找到
 
 ## 问题反馈及建议
 请到这个仓库发送issue： https://github.com/duty-machine/discuss 。
