@@ -19,6 +19,7 @@ register_website(
     title = document.css('#activity-name').first.content.strip
     author = document.css('#js_name').first.content.strip
     content = document.css('#js_content').first
+    time = document.css('#publish_time').first.content.strip
 
     content.traverse{|x|
       x.remove_class
@@ -34,6 +35,7 @@ register_website(
     {
       title: title,
       author: author,
+      time: time,
       content: content.to_html.lines.map(&:strip).join
     }
   }
