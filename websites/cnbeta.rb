@@ -14,12 +14,13 @@ register_website(
     document = Nokogiri::HTML(html)
 
     title = document.css('div.title').first.content
-    author = ''
+    author = 'cnbeta'
     content = document.css('#artibody').first
 
     {
       title: title,
       author: author,
+      labels: author,
       content: content.to_html.lines.map(&:strip).join
     }
   }
