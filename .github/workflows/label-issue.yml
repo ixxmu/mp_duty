@@ -15,3 +15,4 @@ jobs:
           labels: |
             fetched
             生信技能树
+            测试
