@@ -1,0 +1,16 @@
+name: "Set Issue Label and Assignee"
+on:
+  issues:
+    types: [closed]
+  pull_request:
+    typed: [opened]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Naturalclar/issue-action@v2.0.2
+        with:
+          title-or-body: "body"
+          parameters: '[ {"keywords": ["生信技能树"], "labels": ["生信技能树"], "assignees": ["username"]}]'
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
