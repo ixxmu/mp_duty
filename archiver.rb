@@ -50,13 +50,13 @@ def run token, repo
       if title == 'archive_request'
         article = fetch_article(body)
         client.add_comment(repo, number, "#{article[:title]} by #{article[:author]}\n------\n#{article[:content]}")
-        client.update_issue(repo, number, title: article[:title], labels: [ article[:author], 'basicR' ] )
+        client.update_issue(repo, number, title: article[:title], labels: [ article[:author], 'fetched' ] )
       else
         raise 'invalid request'
       end
     rescue
       client.add_comment(repo, number, $!.inspect)
-      client.update_issue(repo, number, labels: ['error','错误'])
+      client.update_issue(repo, number, labels: ['error'])
     ensure
       client.close_issue(repo, number)
     end
