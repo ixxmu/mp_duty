@@ -1,16 +1,17 @@
-name: "Set Issue Label and Assignee"
+name: Add Labels
+
 on:
-  issues:
-    types: [closed]
   pull_request:
-    typed: [opened]
+    types: closed
 
 jobs:
-  test:
+  add_labels:
     runs-on: ubuntu-latest
     steps:
-      - uses: Naturalclar/issue-action@v2.0.2
+      - uses: actions/checkout@v2
+      - uses: actions-ecosystem/action-add-labels@v1
+        if: ${{ startsWith(github.event.comment.body, 'by 生信技能树') }}
         with:
-          title-or-body: "body"
-          parameters: '[ {"keywords": ["生信技能树"], "labels": ["生信技能树"], "assignees": ["username"]}]'
-          github-token: "${{ secrets.GITHUB_TOKEN }}"
+          labels: |
+            fetched
+            生信技能树
