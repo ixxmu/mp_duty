@@ -2,7 +2,7 @@ name: Add Labels
 
 on:
   pull_request:
-    types: closed
+    types: [ closed ]
 
 jobs:
   add_labels:
