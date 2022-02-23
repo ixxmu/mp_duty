@@ -15,7 +15,7 @@ jobs:
       with:
         ruby-version: 2.6
         bundler-cache: true
-      run: |
+    - run: |
         bundle exec rake
       env:
         TOKEN: ${{ github.token }}
