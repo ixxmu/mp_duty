@@ -1,8 +1,8 @@
 name: Add Labels
 
 on:
-  pull_request:
-    types: [ closed ]
+ issues:
+    types: [closed]
 
 jobs:
   add_labels:
