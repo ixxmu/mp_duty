@@ -1,6 +1,6 @@
 ## 简介
 
-> 已经更新了最新流程，并添加自动标签
+> 已经更新了最新流程，貌似更快了，并添加自动标签
 
 这是一个使用github issue为网路上的文章存档的工具，可以将文章转为issue进行持久保存。文章的抓取使用github actions实现。抓取效果见https://github.com/duty-machine/archives/issues?q=label%3Afetched+is%3Aclosed 。
 
