@@ -13,6 +13,7 @@
 * telegra.ph
 * chinadigitaltimes.net
 * mp.weixin.qq.com
+* cnbeta 手机版
 
 ## fork指南
 
