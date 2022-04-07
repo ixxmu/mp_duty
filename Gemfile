@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gem 'nokogiri'
 gem 'octokit'
-gem 'rake'
 gem 'frontmatter'
+gem 'rake'
