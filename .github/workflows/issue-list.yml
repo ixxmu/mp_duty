@@ -27,6 +27,16 @@ jobs:
           labels: "单细胞天地,fetched"
           creator: "ixxmu"
           per_page: 10
+          
+      - name: 3Auto Issue List in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- 3issueTable -->"
+          state: "closed"
+          labels: "果子学生信,fetched"
+          creator: "ixxmu"
+          per_page: 10
       - name: add-and-commit
         uses: EndBug/add-and-commit@v4
         with:
