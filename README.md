@@ -31,13 +31,13 @@
 <!-- 3issueTable -->
 
 1. [用ggplot2来画带有对角线的热图](https://github.com/ixxmu/mp_duty/issues/2035) [![YuLabSMU](https://img.shields.io/github/labels/ixxmu/mp_duty/YuLabSMU)](https://github.com/ixxmu/mp_duty/labels/YuLabSMU)
-2. [理解 Quntile Normalization](https://github.com/ixxmu/mp_duty/issues/1885) 
-3. [又是神器！基于单基因批量相关性分析的GSEA](https://github.com/ixxmu/mp_duty/issues/1829) 
-4. [CRISPR-Cas9脱靶检测方法大全。](https://github.com/ixxmu/mp_duty/issues/1377) 
-5. [CRISPR-Cas9脱靶都脱得这么有特点。](https://github.com/ixxmu/mp_duty/issues/1376) 
-6. [挺神奇的，认真准备背景知识后，Cell没那么难懂了。](https://github.com/ixxmu/mp_duty/issues/1303) 
-7. [读文献之前要做哪些准备啊，每个人的习惯不一样，但是一定要准备。](https://github.com/ixxmu/mp_duty/issues/1292) 
-8. [使用CRISPR/Cas9的朋友注意啦，Cas9激活P53并富集P53突变](https://github.com/ixxmu/mp_duty/issues/1291) 
-9. [多个时间点的ROC曲线还可以这样画！](https://github.com/ixxmu/mp_duty/issues/1289) 
-10. [这是一次让人爱上文献阅读的更新，基因编辑中TP53又整了什么幺蛾子！](https://github.com/ixxmu/mp_duty/issues/1255) 
+2. [写个geom_rectriangle图层画对角线热图](https://github.com/ixxmu/mp_duty/issues/2034) [![BioMedR](https://img.shields.io/github/labels/ixxmu/mp_duty/BioMedR)](https://github.com/ixxmu/mp_duty/labels/BioMedR)
+3. [理解 Quntile Normalization](https://github.com/ixxmu/mp_duty/issues/1885) 
+4. [又是神器！基于单基因批量相关性分析的GSEA](https://github.com/ixxmu/mp_duty/issues/1829) 
+5. [CRISPR-Cas9脱靶检测方法大全。](https://github.com/ixxmu/mp_duty/issues/1377) 
+6. [CRISPR-Cas9脱靶都脱得这么有特点。](https://github.com/ixxmu/mp_duty/issues/1376) 
+7. [挺神奇的，认真准备背景知识后，Cell没那么难懂了。](https://github.com/ixxmu/mp_duty/issues/1303) 
+8. [读文献之前要做哪些准备啊，每个人的习惯不一样，但是一定要准备。](https://github.com/ixxmu/mp_duty/issues/1292) 
+9. [使用CRISPR/Cas9的朋友注意啦，Cas9激活P53并富集P53突变](https://github.com/ixxmu/mp_duty/issues/1291) 
+10. [多个时间点的ROC曲线还可以这样画！](https://github.com/ixxmu/mp_duty/issues/1289) 
 <!-- 3issueTable -->
