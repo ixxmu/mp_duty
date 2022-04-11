@@ -19,12 +19,12 @@ jobs:
         bundle exec rake
   
     - name: Auto Issue List in README
-      uses: zhang0ZGC/issue-list-readme@master
+      uses: ixxmu/issue-list-readme@master
       with:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         pattern: "<!-- issueTable -->"
         state: "all"
-        labels: "单细胞天地"
+        labels: "生信技能树,单细胞天地,生信菜鸟团"
         creator: "github-actions"
         per_page: 12
     - name: add-and-commit
