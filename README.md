@@ -11,4 +11,7 @@
 8. [使用NMF代替层次聚类](https://github.com/ixxmu/mp_duty/issues/1979) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 9. [SWNE，单细胞的一种高维数据集可视化方法](https://github.com/ixxmu/mp_duty/issues/1976) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 10. [SWNE，单细胞的一种高维数据集可视化方法](https://github.com/ixxmu/mp_duty/issues/1975) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
+11. [小鼠肠道损伤修复过程中的空间转录图谱](https://github.com/ixxmu/mp_duty/issues/1972) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
+12. [forestploter: 分组创建具有置信区间的多列森林图](https://github.com/ixxmu/mp_duty/issues/1971) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
+13. [Highcharter包制作交互图表](https://github.com/ixxmu/mp_duty/issues/1968) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 <!-- issueTable -->
