@@ -1,4 +1,4 @@
-## 📝Latest Issues1
+## 📝生信技能树
 <!-- 1issueTable -->
 
 1. [SWNE，单细胞的一种高维数据集可视化方法](https://github.com/ixxmu/mp_duty/issues/2048) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
@@ -17,7 +17,7 @@
 14. [使用rvest从COSMIC中获取突变表格](https://github.com/ixxmu/mp_duty/issues/1964) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 15. [明码标价之单细胞转录组的质控降维聚类分群和生物学注释](https://github.com/ixxmu/mp_duty/issues/1962) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 <!-- 1issueTable -->
-## 📝Latest Issues2
+## 📝单细胞天地
 <!-- 2issueTable -->
 
 1. [单细胞分析十八般武艺11：xCell](https://github.com/ixxmu/mp_duty/issues/2025) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
