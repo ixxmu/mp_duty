@@ -14,5 +14,5 @@ jobs:
     with:
       GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
       pattern: '<!-- issueTable -->' # suffixing "Demo" for this readme
-      labels: 'fetched'
+      labels: '生信技能树','生信菜鸟团','单细胞天地'
       state: 'all'
