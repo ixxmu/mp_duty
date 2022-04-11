@@ -10,7 +10,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: Auto Issue List in README
-        uses: ixxmu/issue-list-readme@master
+        uses: zhang0ZGC/issue-list-readme@master
         with:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           pattern: "<!-- issueTable -->"
