@@ -1,7 +1,7 @@
 name: "rewriteReadme"
 on:
- label:
-    types: [created, deleted, edited]
+ issues:
+    types: [closed,labeled]
 
 jobs:
   test:
