@@ -1,7 +1,7 @@
 ## 📝Latest Issues
 <!-- issueTable -->
 
-1. [测试法士大夫](https://github.com/ixxmu/mp_duty/issues/2015) [![error](https://img.shields.io/github/labels/ixxmu/mp_duty/error)](https://github.com/ixxmu/mp_duty/labels/error)
+1. [使用NMF代替层次聚类](https://github.com/ixxmu/mp_duty/issues/2017) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 2. [两次单细胞差异分析后的结果进行相关性散点图绘制](https://github.com/ixxmu/mp_duty/issues/2014) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 3. [听说你还缺PBMC单细胞数据](https://github.com/ixxmu/mp_duty/issues/1999) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 4. [两次单细胞差异分析后的结果进行相关性散点图绘制](https://github.com/ixxmu/mp_duty/issues/1991) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
