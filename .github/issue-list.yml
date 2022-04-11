@@ -15,7 +15,7 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           pattern: "<!-- issueTable -->"
           state: "closed"
-          labels: "生信技能树"
+          labels: "生信技能树","单细胞天地"
           creator: "ixxmu"
           per_page: 10
       - name: add-and-commit
