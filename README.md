@@ -1,4 +1,4 @@
-## 📝[![生信技能树]](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
+## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
 1. [SWNE，单细胞的一种高维数据集可视化方法](https://github.com/ixxmu/mp_duty/issues/2048) 
