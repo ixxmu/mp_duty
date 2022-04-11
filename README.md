@@ -1,1 +1,2 @@
-
+## 📝Latest Blog Posts
+<!-- issueTable -->
