@@ -1,7 +1,7 @@
 name: "rewriteReadme"
 on:
   issues:
-    types: [labeled, unlabeled]
+    types: [closed]
 
 jobs:
   test:
@@ -14,9 +14,9 @@ jobs:
         with:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           pattern: "<!-- issueTable -->"
-          state: "closed"
+          state: "all"
           labels: '生信技能树,单细胞天地,生信菜鸟团'
-          creator: "github-actions"
+          creator: "ixxmu"
           per_page: 15
       - name: add-and-commit
         uses: EndBug/add-and-commit@v4
