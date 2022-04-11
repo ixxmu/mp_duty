@@ -1,2 +1,2 @@
-## 📝Latest Blog Posts
+## 📝Latest Issues
 <!-- issueTable -->
