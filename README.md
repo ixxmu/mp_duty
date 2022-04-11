@@ -30,7 +30,7 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [用ggplot2来画带有对角线的热图。](https://github.com/ixxmu/mp_duty/issues/2035) [![YuLabSMU](https://img.shields.io/github/labels/ixxmu/mp_duty/YuLabSMU)](https://github.com/ixxmu/mp_duty/labels/YuLabSMU)
+1. [用ggplot2来画带有对角线的热图](https://github.com/ixxmu/mp_duty/issues/2035) [![YuLabSMU](https://img.shields.io/github/labels/ixxmu/mp_duty/YuLabSMU)](https://github.com/ixxmu/mp_duty/labels/YuLabSMU)
 2. [理解 Quntile Normalization](https://github.com/ixxmu/mp_duty/issues/1885) 
 3. [又是神器！基于单基因批量相关性分析的GSEA](https://github.com/ixxmu/mp_duty/issues/1829) 
 4. [CRISPR-Cas9脱靶检测方法大全。](https://github.com/ixxmu/mp_duty/issues/1377) 
