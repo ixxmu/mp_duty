@@ -26,3 +26,8 @@
 9. [OSCA单细胞数据分析笔记6—Normalization](https://github.com/ixxmu/mp_duty/issues/1957) 
 10. [OSCA单细胞数据分析笔记-5 Quality control](https://github.com/ixxmu/mp_duty/issues/1956) 
 <!-- 2issueTable -->
+
+## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
+<!-- 3issueTable -->
+
+<!-- 3issueTable -->
