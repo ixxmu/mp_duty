@@ -1,7 +1,7 @@
 name: "rewriteReadme"
 on:
   issues:
-    types: [labeled, unlabeled]
+    types: [closed]
 
 jobs:
   test:
@@ -14,7 +14,7 @@ jobs:
         with:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           pattern: "<!-- issueTable -->"
-          state: "all"
+          state: "closed"
           labels: '生信技能树,单细胞天地,生信菜鸟团'
           creator: "ixxmu"
           per_page: 15
