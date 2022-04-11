@@ -13,7 +13,7 @@ jobs:
         uses: zhang0ZGC/issue-list-readme@master
         with:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          pattern: "<!-- issueTable -->"
+          pattern: "<!-- 1issueTable -->"
           state: "closed"
           labels: "生信技能树"
           creator: "ixxmu"
@@ -22,7 +22,7 @@ jobs:
         uses: zhang0ZGC/issue-list-readme@master
         with:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          pattern: "<!-- issueTable -->"
+          pattern: "<!-- 2issueTable -->"
           state: "closed"
           labels: "单细胞天地"
           creator: "ixxmu"
