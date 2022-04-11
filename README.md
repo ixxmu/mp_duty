@@ -1,4 +1,4 @@
-## 📝生信技能树
+## 📝[![生信技能树](https://img.shields.io/github/labels/aiokr/aiooo/笔记)](https://github.com/aiokr/aiooo/labels/笔记)
 <!-- 1issueTable -->
 
 1. [SWNE，单细胞的一种高维数据集可视化方法](https://github.com/ixxmu/mp_duty/issues/2048) 
