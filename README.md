@@ -12,7 +12,7 @@
 9. [使用NMF代替层次聚类](https://github.com/ixxmu/mp_duty/issues/1979) 
 10. [小鼠肠道损伤修复过程中的空间转录图谱](https://github.com/ixxmu/mp_duty/issues/1972) 
 <!-- 1issueTable -->
-## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
+## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
 1. [单细胞分析十八般武艺11：xCell](https://github.com/ixxmu/mp_duty/issues/2025) 
