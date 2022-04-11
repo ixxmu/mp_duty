@@ -25,7 +25,7 @@ jobs:
         pattern: "<!-- issueTable -->"
         state: "all"
         labels: "生信技能树,单细胞天地,生信菜鸟团"
-        creator: "github-actions"
+        creator: "ixxmu"
         per_page: 12
     - name: add-and-commit
       uses: EndBug/add-and-commit@v4
