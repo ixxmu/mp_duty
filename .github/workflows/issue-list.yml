@@ -1,8 +1,8 @@
 name: "rewriteReadme"
 on:
-  label:
-    types: [created, edited, deleted]
-
+  issues:
+    types: [opened, labeled, closed]
+    
 jobs:
   test:
     runs-on: ubuntu-latest
