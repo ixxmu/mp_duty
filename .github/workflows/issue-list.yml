@@ -9,13 +9,22 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-      - name: Auto Issue List in README
+      - name: 1Auto Issue List in README
         uses: zhang0ZGC/issue-list-readme@master
         with:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           pattern: "<!-- issueTable -->"
           state: "closed"
           labels: "生信技能树"
+          creator: "ixxmu"
+          per_page: 15
+      - name: 2Auto Issue List in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- issueTable -->"
+          state: "closed"
+          labels: "单细胞天地"
           creator: "ixxmu"
           per_page: 15
       - name: add-and-commit
