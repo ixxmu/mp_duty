@@ -1,7 +1,7 @@
 name: "rewriteReadme"
 on:
-  issues:
-    types: [labeled]
+  label:
+    types: [created, edited, deleted]
 
 jobs:
   test:
@@ -17,7 +17,7 @@ jobs:
           state: "closed"
           labels: "生信技能树"
           creator: "ixxmu"
-          per_page: 13
+          per_page: 14
       - name: add-and-commit
         uses: EndBug/add-and-commit@v4
         with:
