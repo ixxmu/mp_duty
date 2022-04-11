@@ -16,7 +16,7 @@ jobs:
           pattern: "<!-- issueTable -->"
           state: "closed"
           labels: 'fetched,单细胞天地'
-          assignee: "github-actions"
+          creator: "ixxmu"
           per_page: 15
       - name: add-and-commit
         uses: EndBug/add-and-commit@v4
