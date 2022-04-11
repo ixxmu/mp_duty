@@ -1,0 +1,30 @@
+name: "rewriteReadme"
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Auto Issue List in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- issueTable -->"
+          state: "closed"
+          labels: "生信技能树"
+          creator: "ixxmu"
+          per_page: 10
+      - name: add-and-commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: README.md has been re-written
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
