@@ -15,4 +15,5 @@
 12. [forestploter: 分组创建具有置信区间的多列森林图](https://github.com/ixxmu/mp_duty/issues/1971) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 13. [Highcharter包制作交互图表](https://github.com/ixxmu/mp_duty/issues/1968) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 14. [使用R包PreMSIm根据基因表达量来预测微卫星不稳定](https://github.com/ixxmu/mp_duty/issues/1965) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
+15. [使用rvest从COSMIC中获取突变表格](https://github.com/ixxmu/mp_duty/issues/1964) [![fetched](https://img.shields.io/github/labels/ixxmu/mp_duty/fetched)](https://github.com/ixxmu/mp_duty/labels/fetched)
 <!-- issueTable -->
