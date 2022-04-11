@@ -1,0 +1,5 @@
+---
+BUNDLE_PATH: "/home/runner/work/mp_duty/mp_duty/vendor/bundle"
+BUNDLE_DEPLOYMENT: "true"
+BUNDLE_FROZEN: "true"
+BUNDLE_JOBS: "4"
