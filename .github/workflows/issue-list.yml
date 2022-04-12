@@ -15,6 +15,7 @@ jobs:
           POST_TITLE: ${{ github.event.issue.title }}
           POST_BODY: ${{ github.event.issue.comment }}
         run: |
+          sudo chown $USER:$GROUPS $GITHUB_WORKSPACE
           preprocess_bin="$GITHUB_WORKSPACE/frontmatterify"
           save_to="content/posts/$POST_TITLE"
           mkdir "$save_to"
