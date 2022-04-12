@@ -9,45 +9,6 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-      
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-
-      - name: Update title
-        env:
-          POST_TITLE: ${{ github.event.issue.title }}
-        id: title
-        run: |
-          POST_TITLE=$(echo "$POST_TITLE" | tr " " "-")
-          echo "::set-output name=title::$(echo "$POST_TITLE")"
-     
-      - name: Generate Post
-        env:
-          POST_TITLE: ${{ steps.title.outputs.title }}
-          POST_BODY: ${{ github.event.issue.body }}
-          # POST_labels: ${{ github.event.comment.body }}
-        run: |
-          sudo chown $USER:$GROUPS $GITHUB_WORKSPACE
-          preprocess_bin="$PWD/frontmatterify"
-          save_to="content/posts"
-          # mkdir "$save_to"
-          cd "$save_to"
-          $preprocess_bin > ${{ steps.date.outputs.date }}-${POST_TITLE}.md << EOF
-          $POST_BODY
-          EOF
-          
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          delete-branch: true
-          title: "publish: ${{ github.event.issue.title}}"
-          body: |
-            Automagically sprouted for publishing.
-            Merging will publish to: https://xxxx.xx/posts/${{ github.event.issue.title }}
-            Closes #${{ github.event.issue.number }}
-          reviewers: "${{ github.repository_owner }}"
-          commit-message: "post: ${{ github.event.issue.title }}"
           
       - name: 1Auto Issue List in README
         uses: zhang0ZGC/issue-list-readme@master
