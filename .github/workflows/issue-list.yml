@@ -9,11 +9,23 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
+      
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Update title
+        env:
+          POST_TITLE: ${{ github.event.issue.title }}
+        id: title
+        run: |
+          POST_TITLE=$(echo "$POST_TITLE" | tr " " "-")
+          echo "::set-output name=title::$(echo "$POST_TITLE")"
      
       - name: Generate Post
         env:
-          POST_TITLE: ${{ github.event.issue.title }}
-          POST_BODY: ${{ github.event.comment.body }}
+          POST_TITLE: ${{ steps.title.outputs.title }}
+          POST_BODY: ${{ github.event.issue.body }}
           # POST_labels: ${{ github.event.comment.body }}
         run: |
           sudo chown $USER:$GROUPS $GITHUB_WORKSPACE
@@ -21,7 +33,7 @@ jobs:
           save_to="content/posts"
           # mkdir "$save_to"
           cd "$save_to"
-          sudo $GITHUB_WORKSPACE/frontmatterify > index.md << EOF
+          $preprocess_bin > ${{ steps.date.outputs.date }}-${POST_TITLE}.md << EOF
           $POST_BODY
           EOF
           
