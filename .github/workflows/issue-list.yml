@@ -13,7 +13,7 @@ jobs:
       - name: Generate Post
         env:
           POST_TITLE: ${{ github.event.issue.title }}
-          POST_BODY: ${{ github.event.issue.body }}
+          POST_BODY: ${{ github.event.issue.comment }}
         run: |
           preprocess_bin="./frontmatterify"
           save_to="content/posts/$POST_TITLE"
