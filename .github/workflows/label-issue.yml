@@ -2,7 +2,7 @@ name: Add Labels
 
 on:
  issues:
-    types: [labeled, closed]
+    types: [closed]
 
 jobs:
   add_labels:
