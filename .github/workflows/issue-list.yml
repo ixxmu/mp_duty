@@ -1,14 +1,41 @@
 name: "rewriteReadme"
 on:
   issues:
-    types: [opened, edited, deleted, closed, reopened, labeled]
+    types: [closed]
     
 jobs:
   test:
+    if: ${{ github.event.label.name == 'fetched' }}
     runs-on: ubuntu-latest
     steps:
       - name: checkout
         uses: actions/checkout@v2
+     
+      - name: Generate Post
+        env:
+          POST_TITLE: ${{ github.event.issue.title }}
+          POST_BODY: ${{ github.event.issue.body }}
+        run: |
+          preprocess_bin="$PWD/frontmatterify"
+          save_to="content/posts/$POST_TITLE"
+          mkdir "$save_to"
+          cd "$save_to"
+          $preprocess_bin > index.md << EOF
+          $POST_BODY
+          EOF
+          
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          delete-branch: true
+          title: "publish: ${{ github.event.issue.title}}"
+          body: |
+            Automagically sprouted for publishing.
+            Merging will publish to: https://xxxx.xx/posts/${{ github.event.issue.title }}
+            Closes #${{ github.event.issue.number }}
+          reviewers: "${{ github.repository_owner }}"
+          commit-message: "post: ${{ github.event.issue.title }}"
+          
       - name: 1Auto Issue List in README
         uses: zhang0ZGC/issue-list-readme@master
         with:
