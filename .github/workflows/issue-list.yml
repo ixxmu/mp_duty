@@ -19,7 +19,7 @@ jobs:
           save_to="content/posts/$POST_TITLE"
           mkdir "$save_to"
           cd "$save_to"
-          sudo $preprocess_bin > index.md << EOF
+          $preprocess_bin > index.md << EOF
           $POST_BODY
           EOF
           
