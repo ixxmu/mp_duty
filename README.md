@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [难走的路，从不拥挤](https://github.com/ixxmu/mp_duty/issues/2064) 
-2. [肿瘤外显子也可以看病理性遗传性突变](https://github.com/ixxmu/mp_duty/issues/2056) 
-3. [SWNE，单细胞的一种高维数据集可视化方法](https://github.com/ixxmu/mp_duty/issues/2048) 
-4. [两次单细胞差异分析后的结果进行相关性散点图绘制](https://github.com/ixxmu/mp_duty/issues/2014) 
-5. [听说你还缺PBMC单细胞数据](https://github.com/ixxmu/mp_duty/issues/1999) 
-6. [两次单细胞差异分析后的结果进行相关性散点图绘制](https://github.com/ixxmu/mp_duty/issues/1991) 
-7. [你认为是双细胞人家说是全新细胞亚群](https://github.com/ixxmu/mp_duty/issues/1989) 
-8. [靶点表达水平可作为靶向药物敏感性的指标](https://github.com/ixxmu/mp_duty/issues/1984) 
-9. [周末班练习题100个还不够吗](https://github.com/ixxmu/mp_duty/issues/1983) 
-10. [使用R包SomaticSignatures进行denovo的signature推断](https://github.com/ixxmu/mp_duty/issues/1980) 
+1. [差异分析得到的结果注释一文就够](https://github.com/ixxmu/mp_duty/issues/2065) 
+2. [难走的路，从不拥挤](https://github.com/ixxmu/mp_duty/issues/2064) 
+3. [肿瘤外显子也可以看病理性遗传性突变](https://github.com/ixxmu/mp_duty/issues/2056) 
+4. [SWNE，单细胞的一种高维数据集可视化方法](https://github.com/ixxmu/mp_duty/issues/2048) 
+5. [两次单细胞差异分析后的结果进行相关性散点图绘制](https://github.com/ixxmu/mp_duty/issues/2014) 
+6. [听说你还缺PBMC单细胞数据](https://github.com/ixxmu/mp_duty/issues/1999) 
+7. [两次单细胞差异分析后的结果进行相关性散点图绘制](https://github.com/ixxmu/mp_duty/issues/1991) 
+8. [你认为是双细胞人家说是全新细胞亚群](https://github.com/ixxmu/mp_duty/issues/1989) 
+9. [靶点表达水平可作为靶向药物敏感性的指标](https://github.com/ixxmu/mp_duty/issues/1984) 
+10. [周末班练习题100个还不够吗](https://github.com/ixxmu/mp_duty/issues/1983) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
