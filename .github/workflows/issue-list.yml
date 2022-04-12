@@ -17,7 +17,7 @@ jobs:
           # POST_labels: ${{ github.event.comment.body }}
         run: |
           sudo chown $USER:$GROUPS $GITHUB_WORKSPACE
-          preprocess_bin="$GITHUB_WORKSPACE/frontmatterify"
+          preprocess_bin="$PWD/frontmatterify"
           save_to="content/posts"
           # mkdir "$save_to"
           cd "$save_to"
