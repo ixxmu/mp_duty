@@ -1,7 +1,6 @@
 name: "rewriteReadme"
 on:
-  issues:
-    types: [opened, labeled, closed]
+  workflow_dispatch:
     
 jobs:
   test:
