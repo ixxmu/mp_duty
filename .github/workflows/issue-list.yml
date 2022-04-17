@@ -1,6 +1,9 @@
 name: "rewriteReadme"
 on:
   workflow_dispatch:
+   schedule:
+    - cron: 0 */24 * * *
+
     
 jobs:
   test:
