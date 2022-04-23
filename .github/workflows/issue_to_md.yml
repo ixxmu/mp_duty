@@ -1,0 +1,34 @@
+name: "Convert issues to markdowns"
+on:
+  issue_comment:
+    types:
+      - created
+    
+jobs:
+  convert_issues_to_markdown_job:
+  if: "contains(github.event.label.name, '生信技能树')"
+    runs-on: ubuntu-latest
+    name: Convert issues to markdowns.
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: Fetch issues and generate markdowns
+        uses: skyfe79/hugo-with-github-issues@v1.2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repo: 'mp_duty'
+          owner: 'ixxmu'
+          # skip-author: 'utterances-bot'
+          use-issue-seperator: 'false'
+          output: 'content/posts'
+      - name: Commit files
+        run: |
+          git config --local user.email "skyfe79@gmail.com"
+          git config --local user.name "sungcheol kim"
+          git add .
+          git commit -m "Add Posts"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
