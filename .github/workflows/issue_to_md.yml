@@ -1,6 +1,6 @@
 name: "Convert issues to markdowns"
 on:
-    issues:
+ issues:
        types: [closed]
     
 jobs:
