@@ -6,8 +6,8 @@ on:
     
 jobs:
   convert_issues_to_markdown_job:
-  if: "contains(github.event.label.name, '生信技能树')"
     runs-on: ubuntu-latest
+    if: "contains(github.event.label.name, '生信技能树')"
     name: Convert issues to markdowns.
     steps:
       - name: checkout
