@@ -1,8 +1,6 @@
 name: "Convert issues to markdowns"
 on:
-  issue_comment:
-    types:
-      - created
+  workflow_dispatch:
     
 jobs:
   convert_issues_to_markdown_job:
