@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [TCGA癌症数据挖掘之预后模型建立和评价](https://github.com/ixxmu/mp_duty/issues/2112) 
-2. [数不胜数的单细胞文献全代码大放送](https://github.com/ixxmu/mp_duty/issues/2111) 
-3. [单细胞还能拉上转录因子？？？](https://github.com/ixxmu/mp_duty/issues/2107) 
-4. [logTPM能做差异分析吗](https://github.com/ixxmu/mp_duty/issues/2102) [![果子学生信](https://img.shields.io/github/labels/ixxmu/mp_duty/果子学生信)](https://github.com/ixxmu/mp_duty/labels/果子学生信)
-5. [单细胞还能拉上转录因子？？？](https://github.com/ixxmu/mp_duty/issues/2101) 
-6. [R包开发第一课之流程速览](https://github.com/ixxmu/mp_duty/issues/2068) 
-7. [差异分析得到的结果注释一文就够](https://github.com/ixxmu/mp_duty/issues/2065) 
-8. [难走的路，从不拥挤](https://github.com/ixxmu/mp_duty/issues/2064) 
-9. [肿瘤外显子也可以看病理性遗传性突变](https://github.com/ixxmu/mp_duty/issues/2056) 
-10. [SWNE，单细胞的一种高维数据集可视化方法](https://github.com/ixxmu/mp_duty/issues/2048) 
+1. [药物预测R包之pRRophetic](https://github.com/ixxmu/mp_duty/issues/2130) 
+2. [跟着生信技能树，学习 CIBERSORT](https://github.com/ixxmu/mp_duty/issues/2129) 
+3. [使用R语言的parallel包调用多个线程加快数据处理进度](https://github.com/ixxmu/mp_duty/issues/2128) 
+4. [解决SCENIC流程的多线程问题](https://github.com/ixxmu/mp_duty/issues/2127) 
+5. [比较copykat和infercnv这两个从单细胞转录组数据推断肿瘤拷贝数变异技术差异](https://github.com/ixxmu/mp_duty/issues/2126) 
+6. [轻松一挖就节约10万经费](https://github.com/ixxmu/mp_duty/issues/2125) 
+7. [TCGA癌症数据挖掘之预后模型建立和评价](https://github.com/ixxmu/mp_duty/issues/2112) 
+8. [数不胜数的单细胞文献全代码大放送](https://github.com/ixxmu/mp_duty/issues/2111) 
+9. [单细胞还能拉上转录因子？？？](https://github.com/ixxmu/mp_duty/issues/2107) 
+10. [logTPM能做差异分析吗](https://github.com/ixxmu/mp_duty/issues/2102) [![果子学生信](https://img.shields.io/github/labels/ixxmu/mp_duty/果子学生信)](https://github.com/ixxmu/mp_duty/labels/果子学生信)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
