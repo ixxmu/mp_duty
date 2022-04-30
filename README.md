@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [TCGA癌症数据挖掘之预后模型建立和评价](https://github.com/ixxmu/mp_duty/issues/2141) 
-2. [gsea或者gsva所需要的gmt文件](https://github.com/ixxmu/mp_duty/issues/2140) 
-3. [对象何必到处乱找，自己创造即可](https://github.com/ixxmu/mp_duty/issues/2137) 
-4. [单细胞转录组数据的批量GSVA代码](https://github.com/ixxmu/mp_duty/issues/2136) 
-5. [药物预测R包之pRRophetic](https://github.com/ixxmu/mp_duty/issues/2130) 
-6. [跟着生信技能树，学习 CIBERSORT](https://github.com/ixxmu/mp_duty/issues/2129) 
-7. [使用R语言的parallel包调用多个线程加快数据处理进度](https://github.com/ixxmu/mp_duty/issues/2128) 
-8. [解决SCENIC流程的多线程问题](https://github.com/ixxmu/mp_duty/issues/2127) 
-9. [比较copykat和infercnv这两个从单细胞转录组数据推断肿瘤拷贝数变异技术差异](https://github.com/ixxmu/mp_duty/issues/2126) 
-10. [轻松一挖就节约10万经费](https://github.com/ixxmu/mp_duty/issues/2125) 
+1. [WGCNA原理及实操](https://github.com/ixxmu/mp_duty/issues/2153) 
+2. [TCGA癌症数据挖掘之预后模型建立和评价](https://github.com/ixxmu/mp_duty/issues/2141) 
+3. [gsea或者gsva所需要的gmt文件](https://github.com/ixxmu/mp_duty/issues/2140) 
+4. [对象何必到处乱找，自己创造即可](https://github.com/ixxmu/mp_duty/issues/2137) 
+5. [单细胞转录组数据的批量GSVA代码](https://github.com/ixxmu/mp_duty/issues/2136) 
+6. [药物预测R包之pRRophetic](https://github.com/ixxmu/mp_duty/issues/2130) 
+7. [跟着生信技能树，学习 CIBERSORT](https://github.com/ixxmu/mp_duty/issues/2129) 
+8. [使用R语言的parallel包调用多个线程加快数据处理进度](https://github.com/ixxmu/mp_duty/issues/2128) 
+9. [解决SCENIC流程的多线程问题](https://github.com/ixxmu/mp_duty/issues/2127) 
+10. [比较copykat和infercnv这两个从单细胞转录组数据推断肿瘤拷贝数变异技术差异](https://github.com/ixxmu/mp_duty/issues/2126) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
