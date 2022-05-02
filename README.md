@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2159) 
-2. [单细胞差异分析方法评测](https://github.com/ixxmu/mp_duty/issues/2158) 
-3. [WGCNA原理及实操](https://github.com/ixxmu/mp_duty/issues/2153) 
-4. [TCGA癌症数据挖掘之预后模型建立和评价](https://github.com/ixxmu/mp_duty/issues/2141) 
-5. [gsea或者gsva所需要的gmt文件](https://github.com/ixxmu/mp_duty/issues/2140) 
-6. [对象何必到处乱找，自己创造即可](https://github.com/ixxmu/mp_duty/issues/2137) 
-7. [单细胞转录组数据的批量GSVA代码](https://github.com/ixxmu/mp_duty/issues/2136) 
-8. [药物预测R包之pRRophetic](https://github.com/ixxmu/mp_duty/issues/2130) 
-9. [跟着生信技能树，学习 CIBERSORT](https://github.com/ixxmu/mp_duty/issues/2129) 
-10. [使用R语言的parallel包调用多个线程加快数据处理进度](https://github.com/ixxmu/mp_duty/issues/2128) 
+1. [速度上吊打FindAllMarkers的单细胞亚群特异性高表达基因查询算法](https://github.com/ixxmu/mp_duty/issues/2161) 
+2. [好物推荐 | 谷歌浏览器插件（gene info）](https://github.com/ixxmu/mp_duty/issues/2160) 
+3. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2159) 
+4. [单细胞差异分析方法评测](https://github.com/ixxmu/mp_duty/issues/2158) 
+5. [WGCNA原理及实操](https://github.com/ixxmu/mp_duty/issues/2153) 
+6. [TCGA癌症数据挖掘之预后模型建立和评价](https://github.com/ixxmu/mp_duty/issues/2141) 
+7. [gsea或者gsva所需要的gmt文件](https://github.com/ixxmu/mp_duty/issues/2140) 
+8. [对象何必到处乱找，自己创造即可](https://github.com/ixxmu/mp_duty/issues/2137) 
+9. [单细胞转录组数据的批量GSVA代码](https://github.com/ixxmu/mp_duty/issues/2136) 
+10. [药物预测R包之pRRophetic](https://github.com/ixxmu/mp_duty/issues/2130) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
