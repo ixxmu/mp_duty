@@ -15,16 +15,16 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [开刊词 ||单细胞切病理](https://github.com/ixxmu/mp_duty/issues/2156) 
-2. [乳腺上皮细胞单细胞亚群](https://github.com/ixxmu/mp_duty/issues/2113) 
-3. [肿瘤异质性研究的天花板（立体空间，单细胞，多组学）](https://github.com/ixxmu/mp_duty/issues/2110) 
-4. [单细胞分析十八般武艺11：xCell](https://github.com/ixxmu/mp_duty/issues/2025) 
-5. [单个样品测序了近2万个单细胞怎么办](https://github.com/ixxmu/mp_duty/issues/1993) 
-6. [什么，你想要的单细胞亚群比例太少了？](https://github.com/ixxmu/mp_duty/issues/1992) 
-7. [听说你还缺PBMC单细胞数据](https://github.com/ixxmu/mp_duty/issues/1977) 
-8. [单细胞分析十八般武艺：NMF](https://github.com/ixxmu/mp_duty/issues/1967) 
-9. [SPOTlight || 用NMF解卷积空间表达数据](https://github.com/ixxmu/mp_duty/issues/1960) 
-10. [单细胞分析十八般武艺11：xCell](https://github.com/ixxmu/mp_duty/issues/1959) 
+1. [单细胞切病理 || 免疫与炎症](https://github.com/ixxmu/mp_duty/issues/2175) 
+2. [单细胞切病理 ||疾病转归](https://github.com/ixxmu/mp_duty/issues/2173) [![病理](https://img.shields.io/github/labels/ixxmu/mp_duty/病理)](https://github.com/ixxmu/mp_duty/labels/病理)
+3. [开刊词 ||单细胞切病理](https://github.com/ixxmu/mp_duty/issues/2156) 
+4. [乳腺上皮细胞单细胞亚群](https://github.com/ixxmu/mp_duty/issues/2113) 
+5. [肿瘤异质性研究的天花板（立体空间，单细胞，多组学）](https://github.com/ixxmu/mp_duty/issues/2110) 
+6. [单细胞分析十八般武艺11：xCell](https://github.com/ixxmu/mp_duty/issues/2025) 
+7. [单个样品测序了近2万个单细胞怎么办](https://github.com/ixxmu/mp_duty/issues/1993) 
+8. [什么，你想要的单细胞亚群比例太少了？](https://github.com/ixxmu/mp_duty/issues/1992) 
+9. [听说你还缺PBMC单细胞数据](https://github.com/ixxmu/mp_duty/issues/1977) 
+10. [单细胞分析十八般武艺：NMF](https://github.com/ixxmu/mp_duty/issues/1967) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
