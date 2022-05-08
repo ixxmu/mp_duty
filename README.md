@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [为什么一个单细胞亚群既有T细胞也有B细胞的标记基因呢](https://github.com/ixxmu/mp_duty/issues/2183) 
-2. [一文打通单细胞上游：从软件部署到上游分析](https://github.com/ixxmu/mp_duty/issues/2169) 
-3. [了解绘制条形图和折线图的细节](https://github.com/ixxmu/mp_duty/issues/2166) 
-4. [速度上吊打FindAllMarkers的单细胞亚群特异性高表达基因查询算法](https://github.com/ixxmu/mp_duty/issues/2161) 
-5. [好物推荐 | 谷歌浏览器插件（gene info）](https://github.com/ixxmu/mp_duty/issues/2160) 
-6. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2159) 
-7. [单细胞差异分析方法评测](https://github.com/ixxmu/mp_duty/issues/2158) 
-8. [WGCNA原理及实操](https://github.com/ixxmu/mp_duty/issues/2153) 
-9. [TCGA癌症数据挖掘之预后模型建立和评价](https://github.com/ixxmu/mp_duty/issues/2141) 
-10. [gsea或者gsva所需要的gmt文件](https://github.com/ixxmu/mp_duty/issues/2140) 
+1. [人类衰老状态的血液免疫单细胞图谱](https://github.com/ixxmu/mp_duty/issues/2188) 
+2. [为什么一个单细胞亚群既有T细胞也有B细胞的标记基因呢](https://github.com/ixxmu/mp_duty/issues/2183) 
+3. [一文打通单细胞上游：从软件部署到上游分析](https://github.com/ixxmu/mp_duty/issues/2169) 
+4. [了解绘制条形图和折线图的细节](https://github.com/ixxmu/mp_duty/issues/2166) 
+5. [速度上吊打FindAllMarkers的单细胞亚群特异性高表达基因查询算法](https://github.com/ixxmu/mp_duty/issues/2161) 
+6. [好物推荐 | 谷歌浏览器插件（gene info）](https://github.com/ixxmu/mp_duty/issues/2160) 
+7. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2159) 
+8. [单细胞差异分析方法评测](https://github.com/ixxmu/mp_duty/issues/2158) 
+9. [WGCNA原理及实操](https://github.com/ixxmu/mp_duty/issues/2153) 
+10. [TCGA癌症数据挖掘之预后模型建立和评价](https://github.com/ixxmu/mp_duty/issues/2141) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
