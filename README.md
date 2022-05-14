@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [万里挑一的重要突变会是什么呢？](https://github.com/ixxmu/mp_duty/issues/2211) 
-2. [TCGA等大样本量差异分析该使用DEseq2还是edgeR呢？](https://github.com/ixxmu/mp_duty/issues/2202) 
-3. [WGCNA最佳案例-癌症分子亚型特异性模块](https://github.com/ixxmu/mp_duty/issues/2200) 
-4. [人类衰老状态的血液免疫单细胞图谱](https://github.com/ixxmu/mp_duty/issues/2188) 
-5. [为什么一个单细胞亚群既有T细胞也有B细胞的标记基因呢](https://github.com/ixxmu/mp_duty/issues/2183) 
-6. [一文打通单细胞上游：从软件部署到上游分析](https://github.com/ixxmu/mp_duty/issues/2169) 
-7. [了解绘制条形图和折线图的细节](https://github.com/ixxmu/mp_duty/issues/2166) 
-8. [速度上吊打FindAllMarkers的单细胞亚群特异性高表达基因查询算法](https://github.com/ixxmu/mp_duty/issues/2161) 
-9. [好物推荐 | 谷歌浏览器插件（gene info）](https://github.com/ixxmu/mp_duty/issues/2160) 
-10. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2159) 
+1. [什么，你需要1T内存！！！](https://github.com/ixxmu/mp_duty/issues/2214) 
+2. [万里挑一的重要突变会是什么呢？](https://github.com/ixxmu/mp_duty/issues/2211) 
+3. [TCGA等大样本量差异分析该使用DEseq2还是edgeR呢？](https://github.com/ixxmu/mp_duty/issues/2202) 
+4. [WGCNA最佳案例-癌症分子亚型特异性模块](https://github.com/ixxmu/mp_duty/issues/2200) 
+5. [人类衰老状态的血液免疫单细胞图谱](https://github.com/ixxmu/mp_duty/issues/2188) 
+6. [为什么一个单细胞亚群既有T细胞也有B细胞的标记基因呢](https://github.com/ixxmu/mp_duty/issues/2183) 
+7. [一文打通单细胞上游：从软件部署到上游分析](https://github.com/ixxmu/mp_duty/issues/2169) 
+8. [了解绘制条形图和折线图的细节](https://github.com/ixxmu/mp_duty/issues/2166) 
+9. [速度上吊打FindAllMarkers的单细胞亚群特异性高表达基因查询算法](https://github.com/ixxmu/mp_duty/issues/2161) 
+10. [好物推荐 | 谷歌浏览器插件（gene info）](https://github.com/ixxmu/mp_duty/issues/2160) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
