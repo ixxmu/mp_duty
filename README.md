@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [为什么 bulk RNA-seq 差异表达在单细胞世界中不是最有用的](https://github.com/ixxmu/mp_duty/issues/2251) 
-2. [单细胞数据清洗的这5个步骤你会做吗？](https://github.com/ixxmu/mp_duty/issues/2250) 
-3. [DAY6: 第十一章 分面 & 第十二章 配色](https://github.com/ixxmu/mp_duty/issues/2242) 
-4. [获取基因有效长度的N种方法](https://github.com/ixxmu/mp_duty/issues/2235) 
-5. [10x官网下载pbmc3k数据集走RNA速率上下游分析实战](https://github.com/ixxmu/mp_duty/issues/2230) 
-6. [哪有什么对错呢](https://github.com/ixxmu/mp_duty/issues/2227) 
-7. [单细胞转录因子分析之SCENIC流程](https://github.com/ixxmu/mp_duty/issues/2224) 
-8. [简单直接的拟时序分析方法，R包SCORPIUS推荐](https://github.com/ixxmu/mp_duty/issues/2221) 
-9. [单细胞亚群比例变化和表达量差异分析](https://github.com/ixxmu/mp_duty/issues/2219) 
-10. [空间单细胞取巧办法](https://github.com/ixxmu/mp_duty/issues/2216) 
+1. [10X这样的单细胞转录组里面的非编码基因信息很难挖掘](https://github.com/ixxmu/mp_duty/issues/2257) 
+2. [单细胞转录组数据的批量GSVA代码](https://github.com/ixxmu/mp_duty/issues/2256) [![付费](https://img.shields.io/github/labels/ixxmu/mp_duty/付费)](https://github.com/ixxmu/mp_duty/labels/付费)
+3. [为什么 bulk RNA-seq 差异表达在单细胞世界中不是最有用的](https://github.com/ixxmu/mp_duty/issues/2251) 
+4. [单细胞数据清洗的这5个步骤你会做吗？](https://github.com/ixxmu/mp_duty/issues/2250) 
+5. [DAY6: 第十一章 分面 & 第十二章 配色](https://github.com/ixxmu/mp_duty/issues/2242) 
+6. [获取基因有效长度的N种方法](https://github.com/ixxmu/mp_duty/issues/2235) 
+7. [10x官网下载pbmc3k数据集走RNA速率上下游分析实战](https://github.com/ixxmu/mp_duty/issues/2230) 
+8. [哪有什么对错呢](https://github.com/ixxmu/mp_duty/issues/2227) 
+9. [单细胞转录因子分析之SCENIC流程](https://github.com/ixxmu/mp_duty/issues/2224) 
+10. [简单直接的拟时序分析方法，R包SCORPIUS推荐](https://github.com/ixxmu/mp_duty/issues/2221) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
