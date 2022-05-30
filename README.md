@@ -15,16 +15,16 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [解析食管鳞癌化疗病人的单细胞转录组](https://github.com/ixxmu/mp_duty/issues/2203) 
-2. [单细胞切病理 || 免疫与炎症](https://github.com/ixxmu/mp_duty/issues/2175) 
-3. [单细胞切病理 ||疾病转归](https://github.com/ixxmu/mp_duty/issues/2173) [![病理](https://img.shields.io/github/labels/ixxmu/mp_duty/病理)](https://github.com/ixxmu/mp_duty/labels/病理)
-4. [开刊词 ||单细胞切病理](https://github.com/ixxmu/mp_duty/issues/2156) 
-5. [乳腺上皮细胞单细胞亚群](https://github.com/ixxmu/mp_duty/issues/2113) 
-6. [肿瘤异质性研究的天花板（立体空间，单细胞，多组学）](https://github.com/ixxmu/mp_duty/issues/2110) 
-7. [单细胞分析十八般武艺11：xCell](https://github.com/ixxmu/mp_duty/issues/2025) 
-8. [单个样品测序了近2万个单细胞怎么办](https://github.com/ixxmu/mp_duty/issues/1993) 
-9. [什么，你想要的单细胞亚群比例太少了？](https://github.com/ixxmu/mp_duty/issues/1992) 
-10. [听说你还缺PBMC单细胞数据](https://github.com/ixxmu/mp_duty/issues/1977) 
+1. [只能下载bam文件的10x单细胞转录组项目数据处理](https://github.com/ixxmu/mp_duty/issues/2279) 
+2. [解析食管鳞癌化疗病人的单细胞转录组](https://github.com/ixxmu/mp_duty/issues/2203) 
+3. [单细胞切病理 || 免疫与炎症](https://github.com/ixxmu/mp_duty/issues/2175) 
+4. [单细胞切病理 ||疾病转归](https://github.com/ixxmu/mp_duty/issues/2173) [![病理](https://img.shields.io/github/labels/ixxmu/mp_duty/病理)](https://github.com/ixxmu/mp_duty/labels/病理)
+5. [开刊词 ||单细胞切病理](https://github.com/ixxmu/mp_duty/issues/2156) 
+6. [乳腺上皮细胞单细胞亚群](https://github.com/ixxmu/mp_duty/issues/2113) 
+7. [肿瘤异质性研究的天花板（立体空间，单细胞，多组学）](https://github.com/ixxmu/mp_duty/issues/2110) 
+8. [单细胞分析十八般武艺11：xCell](https://github.com/ixxmu/mp_duty/issues/2025) 
+9. [单个样品测序了近2万个单细胞怎么办](https://github.com/ixxmu/mp_duty/issues/1993) 
+10. [什么，你想要的单细胞亚群比例太少了？](https://github.com/ixxmu/mp_duty/issues/1992) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
