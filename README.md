@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2301) 
-2. [|报错|甲基化第三步deltaBeta ≈ logFC](https://github.com/ixxmu/mp_duty/issues/2288) 
-3. [基于支持向量机模型的TNBC的分子亚型预测](https://github.com/ixxmu/mp_duty/issues/2287) 
-4. [表达量矩阵差异分析决定上下调基因的阈值](https://github.com/ixxmu/mp_duty/issues/2270) 
-5. [10X这样的单细胞转录组里面的非编码基因信息很难挖掘](https://github.com/ixxmu/mp_duty/issues/2257) 
-6. [单细胞转录组数据的批量GSVA代码](https://github.com/ixxmu/mp_duty/issues/2256) [![付费](https://img.shields.io/github/labels/ixxmu/mp_duty/付费)](https://github.com/ixxmu/mp_duty/labels/付费)
-7. [为什么 bulk RNA-seq 差异表达在单细胞世界中不是最有用的](https://github.com/ixxmu/mp_duty/issues/2251) 
-8. [单细胞数据清洗的这5个步骤你会做吗？](https://github.com/ixxmu/mp_duty/issues/2250) 
-9. [DAY6: 第十一章 分面 & 第十二章 配色](https://github.com/ixxmu/mp_duty/issues/2242) 
-10. [获取基因有效长度的N种方法](https://github.com/ixxmu/mp_duty/issues/2235) 
+1. [​cytoscape的十大插件之七CytoCluster](https://github.com/ixxmu/mp_duty/issues/2320) 
+2. [如何选择聚类模块数目](https://github.com/ixxmu/mp_duty/issues/2319) 
+3. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2301) 
+4. [|报错|甲基化第三步deltaBeta ≈ logFC](https://github.com/ixxmu/mp_duty/issues/2288) 
+5. [基于支持向量机模型的TNBC的分子亚型预测](https://github.com/ixxmu/mp_duty/issues/2287) 
+6. [表达量矩阵差异分析决定上下调基因的阈值](https://github.com/ixxmu/mp_duty/issues/2270) 
+7. [10X这样的单细胞转录组里面的非编码基因信息很难挖掘](https://github.com/ixxmu/mp_duty/issues/2257) 
+8. [单细胞转录组数据的批量GSVA代码](https://github.com/ixxmu/mp_duty/issues/2256) [![付费](https://img.shields.io/github/labels/ixxmu/mp_duty/付费)](https://github.com/ixxmu/mp_duty/labels/付费)
+9. [为什么 bulk RNA-seq 差异表达在单细胞世界中不是最有用的](https://github.com/ixxmu/mp_duty/issues/2251) 
+10. [单细胞数据清洗的这5个步骤你会做吗？](https://github.com/ixxmu/mp_duty/issues/2250) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
