@@ -3,14 +3,14 @@
 
 1. [一文掌握SVM用法（基于R语言）](https://github.com/ixxmu/mp_duty/issues/2337) 
 2. [一个通路居然在上下调基因集里面都富集到了](https://github.com/ixxmu/mp_duty/issues/2330) 
-3. [难者不会，会者不难](https://github.com/ixxmu/mp_duty/issues/2329) 
-4. [难者不会，会者不难](https://github.com/ixxmu/mp_duty/issues/2328) 
-5. [​cytoscape的十大插件之七CytoCluster](https://github.com/ixxmu/mp_duty/issues/2320) 
-6. [如何选择聚类模块数目](https://github.com/ixxmu/mp_duty/issues/2319) 
-7. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2301) 
-8. [|报错|甲基化第三步deltaBeta ≈ logFC](https://github.com/ixxmu/mp_duty/issues/2288) 
-9. [基于支持向量机模型的TNBC的分子亚型预测](https://github.com/ixxmu/mp_duty/issues/2287) 
-10. [表达量矩阵差异分析决定上下调基因的阈值](https://github.com/ixxmu/mp_duty/issues/2270) 
+3. [难者不会，会者不难](https://github.com/ixxmu/mp_duty/issues/2328) 
+4. [​cytoscape的十大插件之七CytoCluster](https://github.com/ixxmu/mp_duty/issues/2320) 
+5. [如何选择聚类模块数目](https://github.com/ixxmu/mp_duty/issues/2319) 
+6. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2301) 
+7. [|报错|甲基化第三步deltaBeta ≈ logFC](https://github.com/ixxmu/mp_duty/issues/2288) 
+8. [基于支持向量机模型的TNBC的分子亚型预测](https://github.com/ixxmu/mp_duty/issues/2287) 
+9. [表达量矩阵差异分析决定上下调基因的阈值](https://github.com/ixxmu/mp_duty/issues/2270) 
+10. [10X这样的单细胞转录组里面的非编码基因信息很难挖掘](https://github.com/ixxmu/mp_duty/issues/2257) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
