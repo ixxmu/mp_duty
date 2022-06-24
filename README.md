@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [癌基因都是肿瘤的风险因子吗](https://github.com/ixxmu/mp_duty/issues/2355) 
-2. [读书期间做点生信实战项目还是蛮重要的](https://github.com/ixxmu/mp_duty/issues/2349) 
-3. [一文掌握SVM用法（基于R语言）](https://github.com/ixxmu/mp_duty/issues/2337) 
-4. [一个通路居然在上下调基因集里面都富集到了](https://github.com/ixxmu/mp_duty/issues/2330) 
-5. [难者不会，会者不难](https://github.com/ixxmu/mp_duty/issues/2328) 
-6. [​cytoscape的十大插件之七CytoCluster](https://github.com/ixxmu/mp_duty/issues/2320) 
-7. [如何选择聚类模块数目](https://github.com/ixxmu/mp_duty/issues/2319) 
-8. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2301) 
-9. [|报错|甲基化第三步deltaBeta ≈ logFC](https://github.com/ixxmu/mp_duty/issues/2288) 
-10. [基于支持向量机模型的TNBC的分子亚型预测](https://github.com/ixxmu/mp_duty/issues/2287) 
+1. [眼馋Y叔的可视化函数却还想使用DAVID结果肿么办](https://github.com/ixxmu/mp_duty/issues/2373) 
+2. [癌基因都是肿瘤的风险因子吗](https://github.com/ixxmu/mp_duty/issues/2355) 
+3. [读书期间做点生信实战项目还是蛮重要的](https://github.com/ixxmu/mp_duty/issues/2349) 
+4. [一文掌握SVM用法（基于R语言）](https://github.com/ixxmu/mp_duty/issues/2337) 
+5. [一个通路居然在上下调基因集里面都富集到了](https://github.com/ixxmu/mp_duty/issues/2330) 
+6. [难者不会，会者不难](https://github.com/ixxmu/mp_duty/issues/2328) 
+7. [​cytoscape的十大插件之七CytoCluster](https://github.com/ixxmu/mp_duty/issues/2320) 
+8. [如何选择聚类模块数目](https://github.com/ixxmu/mp_duty/issues/2319) 
+9. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2301) 
+10. [|报错|甲基化第三步deltaBeta ≈ logFC](https://github.com/ixxmu/mp_duty/issues/2288) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
