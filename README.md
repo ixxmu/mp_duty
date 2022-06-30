@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2396) 
-2. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2395) 
-3. [眼馋Y叔的可视化函数却还想使用DAVID结果肿么办](https://github.com/ixxmu/mp_duty/issues/2373) 
-4. [癌基因都是肿瘤的风险因子吗](https://github.com/ixxmu/mp_duty/issues/2355) 
-5. [读书期间做点生信实战项目还是蛮重要的](https://github.com/ixxmu/mp_duty/issues/2349) 
-6. [一文掌握SVM用法（基于R语言）](https://github.com/ixxmu/mp_duty/issues/2337) 
-7. [一个通路居然在上下调基因集里面都富集到了](https://github.com/ixxmu/mp_duty/issues/2330) 
-8. [难者不会，会者不难](https://github.com/ixxmu/mp_duty/issues/2328) 
-9. [​cytoscape的十大插件之七CytoCluster](https://github.com/ixxmu/mp_duty/issues/2320) 
-10. [如何选择聚类模块数目](https://github.com/ixxmu/mp_duty/issues/2319) 
+1. [所有的肿瘤都有恶性增殖的特性吗](https://github.com/ixxmu/mp_duty/issues/2404) 
+2. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2396) 
+3. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2395) 
+4. [眼馋Y叔的可视化函数却还想使用DAVID结果肿么办](https://github.com/ixxmu/mp_duty/issues/2373) 
+5. [癌基因都是肿瘤的风险因子吗](https://github.com/ixxmu/mp_duty/issues/2355) 
+6. [读书期间做点生信实战项目还是蛮重要的](https://github.com/ixxmu/mp_duty/issues/2349) 
+7. [一文掌握SVM用法（基于R语言）](https://github.com/ixxmu/mp_duty/issues/2337) 
+8. [一个通路居然在上下调基因集里面都富集到了](https://github.com/ixxmu/mp_duty/issues/2330) 
+9. [难者不会，会者不难](https://github.com/ixxmu/mp_duty/issues/2328) 
+10. [​cytoscape的十大插件之七CytoCluster](https://github.com/ixxmu/mp_duty/issues/2320) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
