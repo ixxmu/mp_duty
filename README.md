@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2416) 
-2. [所有的肿瘤都有恶性增殖的特性吗](https://github.com/ixxmu/mp_duty/issues/2404) 
-3. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2396) 
-4. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2395) 
-5. [眼馋Y叔的可视化函数却还想使用DAVID结果肿么办](https://github.com/ixxmu/mp_duty/issues/2373) 
-6. [癌基因都是肿瘤的风险因子吗](https://github.com/ixxmu/mp_duty/issues/2355) 
-7. [读书期间做点生信实战项目还是蛮重要的](https://github.com/ixxmu/mp_duty/issues/2349) 
-8. [一文掌握SVM用法（基于R语言）](https://github.com/ixxmu/mp_duty/issues/2337) 
-9. [一个通路居然在上下调基因集里面都富集到了](https://github.com/ixxmu/mp_duty/issues/2330) 
-10. [难者不会，会者不难](https://github.com/ixxmu/mp_duty/issues/2328) 
+1. [M1和M2的巨噬细胞差异就在CD86和CD163吗](https://github.com/ixxmu/mp_duty/issues/2417) 
+2. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2416) 
+3. [所有的肿瘤都有恶性增殖的特性吗](https://github.com/ixxmu/mp_duty/issues/2404) 
+4. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2396) 
+5. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2395) 
+6. [眼馋Y叔的可视化函数却还想使用DAVID结果肿么办](https://github.com/ixxmu/mp_duty/issues/2373) 
+7. [癌基因都是肿瘤的风险因子吗](https://github.com/ixxmu/mp_duty/issues/2355) 
+8. [读书期间做点生信实战项目还是蛮重要的](https://github.com/ixxmu/mp_duty/issues/2349) 
+9. [一文掌握SVM用法（基于R语言）](https://github.com/ixxmu/mp_duty/issues/2337) 
+10. [一个通路居然在上下调基因集里面都富集到了](https://github.com/ixxmu/mp_duty/issues/2330) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
