@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [你的富集结果还用气泡图表示？？](https://github.com/ixxmu/mp_duty/issues/2424) 
-2. [大鼠表达量芯片数据处理](https://github.com/ixxmu/mp_duty/issues/2423) 
-3. [结肠腺癌细胞系过表达apoM的芯片数据分析](https://github.com/ixxmu/mp_duty/issues/2422) 
-4. [M1和M2的巨噬细胞差异就在CD86和CD163吗](https://github.com/ixxmu/mp_duty/issues/2417) 
-5. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2416) 
-6. [所有的肿瘤都有恶性增殖的特性吗](https://github.com/ixxmu/mp_duty/issues/2404) 
-7. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2396) 
-8. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2395) 
-9. [眼馋Y叔的可视化函数却还想使用DAVID结果肿么办](https://github.com/ixxmu/mp_duty/issues/2373) 
-10. [癌基因都是肿瘤的风险因子吗](https://github.com/ixxmu/mp_duty/issues/2355) 
+1. [使用R包RTCGA把TCGA数据本地化](https://github.com/ixxmu/mp_duty/issues/2436) 
+2. [肿瘤免疫和基质的四象限分类](https://github.com/ixxmu/mp_duty/issues/2435) 
+3. [你的富集结果还用气泡图表示？？](https://github.com/ixxmu/mp_duty/issues/2424) 
+4. [大鼠表达量芯片数据处理](https://github.com/ixxmu/mp_duty/issues/2423) 
+5. [结肠腺癌细胞系过表达apoM的芯片数据分析](https://github.com/ixxmu/mp_duty/issues/2422) 
+6. [M1和M2的巨噬细胞差异就在CD86和CD163吗](https://github.com/ixxmu/mp_duty/issues/2417) 
+7. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2416) 
+8. [所有的肿瘤都有恶性增殖的特性吗](https://github.com/ixxmu/mp_duty/issues/2404) 
+9. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2396) 
+10. [哈佛课程笔记-理解DEseq2差异分析原理](https://github.com/ixxmu/mp_duty/issues/2395) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
