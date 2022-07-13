@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [拟时序分析就是差异分析的细节剖析](https://github.com/ixxmu/mp_duty/issues/2460) 
-2. [比较不同的对单细胞转录组数据normalization方法](https://github.com/ixxmu/mp_duty/issues/2459) 
-3. [使用R包RTCGA把TCGA数据本地化](https://github.com/ixxmu/mp_duty/issues/2436) 
-4. [肿瘤免疫和基质的四象限分类](https://github.com/ixxmu/mp_duty/issues/2435) 
-5. [你的富集结果还用气泡图表示？？](https://github.com/ixxmu/mp_duty/issues/2424) 
-6. [大鼠表达量芯片数据处理](https://github.com/ixxmu/mp_duty/issues/2423) 
-7. [结肠腺癌细胞系过表达apoM的芯片数据分析](https://github.com/ixxmu/mp_duty/issues/2422) 
-8. [M1和M2的巨噬细胞差异就在CD86和CD163吗](https://github.com/ixxmu/mp_duty/issues/2417) 
-9. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2416) 
-10. [所有的肿瘤都有恶性增殖的特性吗](https://github.com/ixxmu/mp_duty/issues/2404) 
+1. [使用curatedTCGAData下载TCGA数据库信息好用吗](https://github.com/ixxmu/mp_duty/issues/2467) 
+2. [拟时序分析就是差异分析的细节剖析](https://github.com/ixxmu/mp_duty/issues/2460) 
+3. [比较不同的对单细胞转录组数据normalization方法](https://github.com/ixxmu/mp_duty/issues/2459) 
+4. [使用R包RTCGA把TCGA数据本地化](https://github.com/ixxmu/mp_duty/issues/2436) 
+5. [肿瘤免疫和基质的四象限分类](https://github.com/ixxmu/mp_duty/issues/2435) 
+6. [你的富集结果还用气泡图表示？？](https://github.com/ixxmu/mp_duty/issues/2424) 
+7. [大鼠表达量芯片数据处理](https://github.com/ixxmu/mp_duty/issues/2423) 
+8. [结肠腺癌细胞系过表达apoM的芯片数据分析](https://github.com/ixxmu/mp_duty/issues/2422) 
+9. [M1和M2的巨噬细胞差异就在CD86和CD163吗](https://github.com/ixxmu/mp_duty/issues/2417) 
+10. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2416) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
