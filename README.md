@@ -15,16 +15,16 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [从原始数据到计数矩阵](https://github.com/ixxmu/mp_duty/issues/2472) 
-2. [MS4A基因家族在哪些单细胞亚群特异性高表达呢](https://github.com/ixxmu/mp_duty/issues/2462) 
-3. [一定要阳性吗](https://github.com/ixxmu/mp_duty/issues/2353) 
-4. [超百万个单细胞的数据集越来越多了](https://github.com/ixxmu/mp_duty/issues/2327) 
-5. [单细胞集大成者的seurat包的可视化本质上是ggplot2语法](https://github.com/ixxmu/mp_duty/issues/2311) 
-6. [各个单细胞亚群的差异基因数量投射到umap图](https://github.com/ixxmu/mp_duty/issues/2308) 
-7. [scRNA-seq marker identification(二)](https://github.com/ixxmu/mp_duty/issues/2303) 
-8. [只能下载bam文件的10x单细胞转录组项目数据处理](https://github.com/ixxmu/mp_duty/issues/2279) 
-9. [解析食管鳞癌化疗病人的单细胞转录组](https://github.com/ixxmu/mp_duty/issues/2203) 
-10. [单细胞切病理 || 免疫与炎症](https://github.com/ixxmu/mp_duty/issues/2175) 
+1. [深度神经网络学习对单细胞数据进行清洗去噪](https://github.com/ixxmu/mp_duty/issues/2484) 
+2. [从原始数据到计数矩阵](https://github.com/ixxmu/mp_duty/issues/2472) 
+3. [MS4A基因家族在哪些单细胞亚群特异性高表达呢](https://github.com/ixxmu/mp_duty/issues/2462) 
+4. [一定要阳性吗](https://github.com/ixxmu/mp_duty/issues/2353) 
+5. [超百万个单细胞的数据集越来越多了](https://github.com/ixxmu/mp_duty/issues/2327) 
+6. [单细胞集大成者的seurat包的可视化本质上是ggplot2语法](https://github.com/ixxmu/mp_duty/issues/2311) 
+7. [各个单细胞亚群的差异基因数量投射到umap图](https://github.com/ixxmu/mp_duty/issues/2308) 
+8. [scRNA-seq marker identification(二)](https://github.com/ixxmu/mp_duty/issues/2303) 
+9. [只能下载bam文件的10x单细胞转录组项目数据处理](https://github.com/ixxmu/mp_duty/issues/2279) 
+10. [解析食管鳞癌化疗病人的单细胞转录组](https://github.com/ixxmu/mp_duty/issues/2203) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
