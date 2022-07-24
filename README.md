@@ -31,13 +31,13 @@
 <!-- 3issueTable -->
 
 1. [研究生的重要技能: 如何烧开一壶水？](https://github.com/ixxmu/mp_duty/issues/2511) 
-2. [研究生的重要技能: 如何烧开一壶水？](https://github.com/ixxmu/mp_duty/issues/2509) 
-3. [TCGA数据库构建生存预测模型之lasso回归](https://github.com/ixxmu/mp_duty/issues/2473) 
-4. [墙裂推荐！统计方法如何选以及全代码作图实现。](https://github.com/ixxmu/mp_duty/issues/2465) 
-5. [「小技巧」如何给Seurat瘦瘦身](https://github.com/ixxmu/mp_duty/issues/2419) 
-6. [视频小教程：审稿人说我图太单薄，我决定给点颜色看看，满意了吧。](https://github.com/ixxmu/mp_duty/issues/2350) 
-7. [你是人间四月天，放个烟花来看看。](https://github.com/ixxmu/mp_duty/issues/2291) 
-8. [科研人员有时候也会焦虑到头疼，他们止痛靠艺术.gif](https://github.com/ixxmu/mp_duty/issues/2290) 
-9. [我一直以为奥林匹克水立方上面的格子是乱画的。](https://github.com/ixxmu/mp_duty/issues/2289) 
-10. [精准薅羊毛~, 假如你研究的基因恰巧还有个敲减数据，赚到盆满钵满！](https://github.com/ixxmu/mp_duty/issues/2265) 
+2. [TCGA数据库构建生存预测模型之lasso回归](https://github.com/ixxmu/mp_duty/issues/2473) 
+3. [墙裂推荐！统计方法如何选以及全代码作图实现。](https://github.com/ixxmu/mp_duty/issues/2465) 
+4. [「小技巧」如何给Seurat瘦瘦身](https://github.com/ixxmu/mp_duty/issues/2419) 
+5. [视频小教程：审稿人说我图太单薄，我决定给点颜色看看，满意了吧。](https://github.com/ixxmu/mp_duty/issues/2350) 
+6. [你是人间四月天，放个烟花来看看。](https://github.com/ixxmu/mp_duty/issues/2291) 
+7. [科研人员有时候也会焦虑到头疼，他们止痛靠艺术.gif](https://github.com/ixxmu/mp_duty/issues/2290) 
+8. [我一直以为奥林匹克水立方上面的格子是乱画的。](https://github.com/ixxmu/mp_duty/issues/2289) 
+9. [精准薅羊毛~, 假如你研究的基因恰巧还有个敲减数据，赚到盆满钵满！](https://github.com/ixxmu/mp_duty/issues/2265) 
+10. [ssgsea算法在量化免疫浸润时的运用以及原理](https://github.com/ixxmu/mp_duty/issues/2264) 
 <!-- 3issueTable -->
