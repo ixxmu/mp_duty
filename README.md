@@ -15,16 +15,16 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [单细胞分群很勉强就对了](https://github.com/ixxmu/mp_duty/issues/2531) [![合集](https://img.shields.io/github/labels/ixxmu/mp_duty/合集)](https://github.com/ixxmu/mp_duty/labels/合集)
-2. [健康人的呼吸道的单细胞图谱](https://github.com/ixxmu/mp_duty/issues/2502) 
-3. [整个单细胞数据集进行拟时序分析合理吗？](https://github.com/ixxmu/mp_duty/issues/2501) 
-4. [深度神经网络学习对单细胞数据进行清洗去噪](https://github.com/ixxmu/mp_duty/issues/2484) 
-5. [从原始数据到计数矩阵](https://github.com/ixxmu/mp_duty/issues/2472) 
-6. [MS4A基因家族在哪些单细胞亚群特异性高表达呢](https://github.com/ixxmu/mp_duty/issues/2462) 
-7. [一定要阳性吗](https://github.com/ixxmu/mp_duty/issues/2353) 
-8. [超百万个单细胞的数据集越来越多了](https://github.com/ixxmu/mp_duty/issues/2327) 
-9. [单细胞集大成者的seurat包的可视化本质上是ggplot2语法](https://github.com/ixxmu/mp_duty/issues/2311) 
-10. [各个单细胞亚群的差异基因数量投射到umap图](https://github.com/ixxmu/mp_duty/issues/2308) 
+1. [scRNAtoolVis 0.0.3 版本更新](https://github.com/ixxmu/mp_duty/issues/2559) 
+2. [单细胞分群很勉强就对了](https://github.com/ixxmu/mp_duty/issues/2531) [![合集](https://img.shields.io/github/labels/ixxmu/mp_duty/合集)](https://github.com/ixxmu/mp_duty/labels/合集)
+3. [健康人的呼吸道的单细胞图谱](https://github.com/ixxmu/mp_duty/issues/2502) 
+4. [整个单细胞数据集进行拟时序分析合理吗？](https://github.com/ixxmu/mp_duty/issues/2501) 
+5. [深度神经网络学习对单细胞数据进行清洗去噪](https://github.com/ixxmu/mp_duty/issues/2484) 
+6. [从原始数据到计数矩阵](https://github.com/ixxmu/mp_duty/issues/2472) 
+7. [MS4A基因家族在哪些单细胞亚群特异性高表达呢](https://github.com/ixxmu/mp_duty/issues/2462) 
+8. [一定要阳性吗](https://github.com/ixxmu/mp_duty/issues/2353) 
+9. [超百万个单细胞的数据集越来越多了](https://github.com/ixxmu/mp_duty/issues/2327) 
+10. [单细胞集大成者的seurat包的可视化本质上是ggplot2语法](https://github.com/ixxmu/mp_duty/issues/2311) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
