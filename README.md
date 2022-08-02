@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [从单细胞博士论文开始了解数据分析常见图表](https://github.com/ixxmu/mp_duty/issues/2543) 
-2. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2542) 
-3. [IGV查看拷贝数变异需要的segment文件格式解析](https://github.com/ixxmu/mp_duty/issues/2504) 
-4. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2499) 
-5. [原发肿瘤和转移瘤的哪个多组学层面的差异大?](https://github.com/ixxmu/mp_duty/issues/2498) 
-6. [先差异后GSEA呢还是先ssGSEA后差异呢](https://github.com/ixxmu/mp_duty/issues/2497) 
-7. [ggplot的aes和aes_string的差异](https://github.com/ixxmu/mp_duty/issues/2496) 
-8. [影响差异分析后的火山图的对称性的因素有哪些？](https://github.com/ixxmu/mp_duty/issues/2481) 
-9. [听说你的拟时序图跑的像蜈蚣](https://github.com/ixxmu/mp_duty/issues/2480) 
-10. [整个单细胞数据集进行拟时序分析合理吗？](https://github.com/ixxmu/mp_duty/issues/2479) 
+1. [一次曲折且昂贵的单细胞公共数据获取与上游处理](https://github.com/ixxmu/mp_duty/issues/2564) 
+2. [从单细胞博士论文开始了解数据分析常见图表](https://github.com/ixxmu/mp_duty/issues/2543) 
+3. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2542) 
+4. [IGV查看拷贝数变异需要的segment文件格式解析](https://github.com/ixxmu/mp_duty/issues/2504) 
+5. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2499) 
+6. [原发肿瘤和转移瘤的哪个多组学层面的差异大?](https://github.com/ixxmu/mp_duty/issues/2498) 
+7. [先差异后GSEA呢还是先ssGSEA后差异呢](https://github.com/ixxmu/mp_duty/issues/2497) 
+8. [ggplot的aes和aes_string的差异](https://github.com/ixxmu/mp_duty/issues/2496) 
+9. [影响差异分析后的火山图的对称性的因素有哪些？](https://github.com/ixxmu/mp_duty/issues/2481) 
+10. [听说你的拟时序图跑的像蜈蚣](https://github.com/ixxmu/mp_duty/issues/2480) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
