@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [基于singleR和人工审查的单细胞亚群命名比较](https://github.com/ixxmu/mp_duty/issues/2567) 
-2. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2566) [![热图](https://img.shields.io/github/labels/ixxmu/mp_duty/热图)](https://github.com/ixxmu/mp_duty/labels/热图) [![NMF](https://img.shields.io/github/labels/ixxmu/mp_duty/NMF)](https://github.com/ixxmu/mp_duty/labels/NMF)
-3. [使用NMF代替层次聚类](https://github.com/ixxmu/mp_duty/issues/2565) 
-4. [一次曲折且昂贵的单细胞公共数据获取与上游处理](https://github.com/ixxmu/mp_duty/issues/2564) 
-5. [从单细胞博士论文开始了解数据分析常见图表](https://github.com/ixxmu/mp_duty/issues/2543) 
-6. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2542) 
-7. [IGV查看拷贝数变异需要的segment文件格式解析](https://github.com/ixxmu/mp_duty/issues/2504) 
-8. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2499) 
-9. [原发肿瘤和转移瘤的哪个多组学层面的差异大?](https://github.com/ixxmu/mp_duty/issues/2498) 
-10. [先差异后GSEA呢还是先ssGSEA后差异呢](https://github.com/ixxmu/mp_duty/issues/2497) 
+1. [为什么会有好看的单细胞降维聚类分群的数据分析结果](https://github.com/ixxmu/mp_duty/issues/2572) 
+2. [基于singleR和人工审查的单细胞亚群命名比较](https://github.com/ixxmu/mp_duty/issues/2567) 
+3. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2566) [![热图](https://img.shields.io/github/labels/ixxmu/mp_duty/热图)](https://github.com/ixxmu/mp_duty/labels/热图) [![NMF](https://img.shields.io/github/labels/ixxmu/mp_duty/NMF)](https://github.com/ixxmu/mp_duty/labels/NMF)
+4. [使用NMF代替层次聚类](https://github.com/ixxmu/mp_duty/issues/2565) 
+5. [一次曲折且昂贵的单细胞公共数据获取与上游处理](https://github.com/ixxmu/mp_duty/issues/2564) 
+6. [从单细胞博士论文开始了解数据分析常见图表](https://github.com/ixxmu/mp_duty/issues/2543) 
+7. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2542) 
+8. [IGV查看拷贝数变异需要的segment文件格式解析](https://github.com/ixxmu/mp_duty/issues/2504) 
+9. [Mfuzz做转录变化的时间趋势分析后对每个趋势分组挑一个代表性基因](https://github.com/ixxmu/mp_duty/issues/2499) 
+10. [原发肿瘤和转移瘤的哪个多组学层面的差异大?](https://github.com/ixxmu/mp_duty/issues/2498) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
