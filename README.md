@@ -1,16 +1,16 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2592) 
-2. [生存分析的图你也要拼接吗](https://github.com/ixxmu/mp_duty/issues/2591) 
-3. [为什么会有好看的单细胞降维聚类分群的数据分析结果](https://github.com/ixxmu/mp_duty/issues/2572) 
-4. [基于singleR和人工审查的单细胞亚群命名比较](https://github.com/ixxmu/mp_duty/issues/2567) 
-5. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2566) [![热图](https://img.shields.io/github/labels/ixxmu/mp_duty/热图)](https://github.com/ixxmu/mp_duty/labels/热图) [![NMF](https://img.shields.io/github/labels/ixxmu/mp_duty/NMF)](https://github.com/ixxmu/mp_duty/labels/NMF)
-6. [使用NMF代替层次聚类](https://github.com/ixxmu/mp_duty/issues/2565) 
-7. [一次曲折且昂贵的单细胞公共数据获取与上游处理](https://github.com/ixxmu/mp_duty/issues/2564) 
-8. [从单细胞博士论文开始了解数据分析常见图表](https://github.com/ixxmu/mp_duty/issues/2543) 
-9. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2542) 
-10. [IGV查看拷贝数变异需要的segment文件格式解析](https://github.com/ixxmu/mp_duty/issues/2504) 
+1. [生存分析的图你也要拼接吗](https://github.com/ixxmu/mp_duty/issues/2596) 
+2. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2592) 
+3. [生存分析的图你也要拼接吗](https://github.com/ixxmu/mp_duty/issues/2591) 
+4. [为什么会有好看的单细胞降维聚类分群的数据分析结果](https://github.com/ixxmu/mp_duty/issues/2572) 
+5. [基于singleR和人工审查的单细胞亚群命名比较](https://github.com/ixxmu/mp_duty/issues/2567) 
+6. [单细胞热图我要整整齐齐](https://github.com/ixxmu/mp_duty/issues/2566) [![热图](https://img.shields.io/github/labels/ixxmu/mp_duty/热图)](https://github.com/ixxmu/mp_duty/labels/热图) [![NMF](https://img.shields.io/github/labels/ixxmu/mp_duty/NMF)](https://github.com/ixxmu/mp_duty/labels/NMF)
+7. [使用NMF代替层次聚类](https://github.com/ixxmu/mp_duty/issues/2565) 
+8. [一次曲折且昂贵的单细胞公共数据获取与上游处理](https://github.com/ixxmu/mp_duty/issues/2564) 
+9. [从单细胞博士论文开始了解数据分析常见图表](https://github.com/ixxmu/mp_duty/issues/2543) 
+10. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2542) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
