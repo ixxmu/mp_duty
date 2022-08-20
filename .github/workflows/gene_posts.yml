@@ -1,7 +1,7 @@
 name: generate my blog posts
 on:
   issues:
-    types: [opened, edited]
+    types: [labeled, unlabeled ]
 jobs:
   run:
     runs-on: ubuntu-latest
