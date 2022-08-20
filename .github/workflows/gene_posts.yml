@@ -14,5 +14,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           created_at: ${{ github.event.issue.created_at }}
           title: ${{ github.event.issue.title }}
-          body: ${{ steps.check.outputs.comment_body }}
+          body: ${{ github.event.comment.body }}
           actor: ${{ github.actor }}
