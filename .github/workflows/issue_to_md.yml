@@ -1,7 +1,7 @@
 name: "Convert issues to markdowns"
 on:
   issues:
-  types: [labeled, unlabeled ]
+   types: [labeled, unlabeled ]
     
 jobs:
   convert_issues_to_markdown_job:
