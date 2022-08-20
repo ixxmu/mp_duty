@@ -12,7 +12,7 @@ jobs:
       with:
         repo: ${{ github.repository }}
         org: ${{ github.repository_owner }}
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.REPO_TOKEN  }}
         out: issues
     - name: Archive production artifacts
       uses: actions/upload-artifact@v2
