@@ -10,5 +10,5 @@ jobs:
       - name: Example Action
         uses: ONGOING-Z/transfer-issue-to-md-file@v1.0.1
         with:
-          my-token: ${{ secrets.MY_TOKEN }}
+          my-token: ${{ secrets.GITHUB_TOKEN }}
           path: "_posts2"
