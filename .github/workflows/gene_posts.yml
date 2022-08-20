@@ -10,7 +10,7 @@ jobs:
       - uses: ixxmu/turn-issues-to-posts-action@master
         with:
           branch: "master" # default to main
-          dir: "_posts" # default to _posts
+          dir: "docs" # default to _posts
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           created_at: ${{ github.event.issue.created_at }}
           updated_at: ${{ github.event.issue.updated_at }}
