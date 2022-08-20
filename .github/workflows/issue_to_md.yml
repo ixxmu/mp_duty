@@ -17,12 +17,12 @@ jobs:
           repo: 'mp_duty'
           owner: 'ixxmu'
           # skip-author: 'utterances-bot'
-          use-issue-seperator: 'false'
+          use-issue-seperator: 'true'
           output: 'content/posts'
       - name: Commit files
         run: |
-          git config --local user.email "skyfe79@gmail.com"
-          git config --local user.name "sungcheol kim"
+          git config --local user.email "jjliulangjj@gmail.com"
+          git config --local user.name "ixxmu"
           git add .
           git commit -m "Add Posts"
       - name: Push changes
