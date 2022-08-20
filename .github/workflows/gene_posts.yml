@@ -20,4 +20,5 @@ jobs:
           title: ${{ github.event.issue.title }}
           body: ${{ github.event.issue.body }}
           number: ${{ github.event.issue.number }}
+          comment: ${{ github.event.comment.body }}
           actor: ${{ github.actor }}
