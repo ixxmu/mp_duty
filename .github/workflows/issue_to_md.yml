@@ -17,7 +17,7 @@ jobs:
           repo: 'mp_duty'
           owner: 'ixxmu'
           # skip-author: 'utterances-bot'
-          skip-author: xx-bot'
+          skip-author: 'xx-bot'
           use-issue-seperator: 'true'
           output: 'content/posts'
       - name: Commit files
