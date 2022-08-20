@@ -1,7 +1,7 @@
 name: generate ai wiki
 on:
   issues:
-    types: [opened, edited, labeled]
+    types: [closed, edited, labeled]
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -10,7 +10,7 @@ jobs:
       - uses: ixxmu/turn-issues-to-posts-action@main
         with:
           branch: "main" # default to main
-          dir: "docs" # default to _posts
+          dir: "_posts" # default to _posts
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           created_at: ${{ github.event.issue.created_at }}
           updated_at: ${{ github.event.issue.updated_at }}
