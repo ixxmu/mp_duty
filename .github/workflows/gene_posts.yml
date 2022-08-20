@@ -1,20 +1,21 @@
-name: generate my blog posts
+name: generate ai wiki
 on:
   issues:
-    types: [labeled, unlabeled]
-  issue_comment:
-    types: [created, edited, labeled]
+    types: [opened, edited, labeled]
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: wayou/turn-issues-to-posts-action@v1.2.5
+      - uses: junxnone/wiki_issue2md@main
         with:
-          branch: "master"
-          dir: "_posts"
+          branch: "main" # default to main
+          dir: "docs" # default to _posts
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           created_at: ${{ github.event.issue.created_at }}
+          updated_at: ${{ github.event.issue.updated_at }}
+          label_name: ${{ github.event.label.name }}
           title: ${{ github.event.issue.title }}
-          body: ${{ github.event.comment.body }}
+          body: ${{ github.event.issue.body }}
+          number: ${{ github.event.issue.number }}
           actor: ${{ github.actor }}
