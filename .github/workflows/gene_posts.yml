@@ -1,7 +1,9 @@
 name: generate my blog posts
 on:
+  issues:
+    types: [labeled, unlabeled]
   issue_comment:
-    types: [created, edited]
+    types: [created, edited, labeled]
 jobs:
   run:
     runs-on: ubuntu-latest
