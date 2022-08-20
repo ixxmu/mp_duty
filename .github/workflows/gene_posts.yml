@@ -1,7 +1,6 @@
 name: generate ai wiki
 on:
-  issues:
-    types: [closed, edited, labeled]
+  issue_comment
 jobs:
   run:
     runs-on: ubuntu-latest
