@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: junxnone/wiki_issue2md@main
+      - uses: ixxmu/turn-issues-to-posts-action@main
         with:
           branch: "main" # default to main
           dir: "docs" # default to _posts
