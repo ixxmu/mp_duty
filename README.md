@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [GSEA分析后的通路上调还是下调呢](https://github.com/ixxmu/mp_duty/issues/2613) 
-2. [我可能发现了发cancer discovery的秘密](https://github.com/ixxmu/mp_duty/issues/2604) 
-3. [生存分析的图你也要拼接吗](https://github.com/ixxmu/mp_duty/issues/2596) 
-4. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2592) 
-5. [生存分析的图你也要拼接吗](https://github.com/ixxmu/mp_duty/issues/2591) 
+1. [不知道单细胞亚群特异性标记基因的出处？](https://github.com/ixxmu/mp_duty/issues/2627) 
+2. [GSEA分析后的通路上调还是下调呢](https://github.com/ixxmu/mp_duty/issues/2613) 
+3. [我可能发现了发cancer discovery的秘密](https://github.com/ixxmu/mp_duty/issues/2604) 
+4. [生存分析的图你也要拼接吗](https://github.com/ixxmu/mp_duty/issues/2596) 
+5. [你研究的基因凭什么重要（这才是数据挖掘的用武之地）](https://github.com/ixxmu/mp_duty/issues/2592) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
