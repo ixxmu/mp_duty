@@ -3,7 +3,7 @@ on:
   pull_request:
     types: [opened,closed]
   issue_comment:
-    types: [closed]
+    types: [edited,opened]
 jobs:
   run:
     runs-on: ubuntu-latest
