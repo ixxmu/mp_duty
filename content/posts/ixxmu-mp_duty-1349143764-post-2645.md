@@ -2,7 +2,7 @@
 title: "“你了解那么多数据，是想干什么？”"
 date: 2022-08-24T09:31:13Z
 draft: false
-tags: ["fetched","张佳玮写字的地方","3D"]
+tags: ["fetched","张佳玮写字的地方"]
 ---
 
 https://mp.weixin.qq.com/s/MosC5nrKVZFQBN8_pHPv7w
