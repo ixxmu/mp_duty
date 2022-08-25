@@ -11,13 +11,13 @@ jobs:
       - name: checkout
         uses: actions/checkout@v1
       - name: Fetch issues and generate markdowns
-        uses: skyfe79/hugo-with-github-issues@v1.2
+        uses: skyfe79/hugo-with-github-issues@v1.7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           repo: 'mp_duty'
           owner: 'ixxmu'
           # skip-author: 'utterances-bot'
-          skip-author: 'xx-bot'
+          # skip-author: 'xx-bot'
           use-issue-seperator: 'true'
           output: 'content/posts'
       - name: Commit files
