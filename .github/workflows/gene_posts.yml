@@ -1,14 +1,26 @@
-name: generate ai wiki
+name: generate a Markdown file
 on:
-  pull_request:
-    types: [opened,closed]
-  issue_comment:
-    types: [edited,opened]
+  issues:
+    types: [closed]
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Find Comment
+        uses: peter-evans/find-comment@v2.0.0
+        id: bot
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          # issue-number: 1
+          # comment-author: "github-actions[bot]"
+          comment-author: "ixxmu"
+          # body-includes: This is a QR code for access to the preview app.
+          
+      - name: Print Comment ID & Author
+        run: |
+          echo ${{ steps.bot.outputs.comment-id }}
+          echo ${{ steps.bot.outputs.comment-author }}
       - uses: ixxmu/turn-issues-to-posts-action@master
         with:
           branch: "master" # default to main
@@ -16,9 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           created_at: ${{ github.event.issue.created_at }}
           updated_at: ${{ github.event.issue.updated_at }}
-          label_name: ${{ github.event.label.name }}
+          label_name: ${{ toJson(github.event.issue.labels.*.name) }}
           title: ${{ github.event.issue.title }}
-          body: ${{ github.event.issue.body }}
+          body: ${{ steps.bot.outputs.comment-body }}
           number: ${{ github.event.issue.number }}
-          comment: ${{ github.event.comment.body }}
+          comment: ${{ github.event.issue.body  }}
           actor: ${{ github.actor }}
