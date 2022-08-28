@@ -6,7 +6,7 @@ tags: [
   "fetched",
   "小白鱼的生统笔记"
 ]
-categories: ["Duty"]
+categories: ["Acdemic"]
 ---
 使用R包goseq进行GO富集分析 by 小白鱼的生统笔记
 ------
