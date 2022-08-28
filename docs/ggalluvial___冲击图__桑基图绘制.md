@@ -6,7 +6,7 @@ tags: [
   "fetched",
   "木舟笔记"
 ]
-categories: ["Duty"]
+categories: ["Academic"]
 ---
 ggalluvial | 冲击图/ 桑基图绘制 by 木舟笔记
 ------
