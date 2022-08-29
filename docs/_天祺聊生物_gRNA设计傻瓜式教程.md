@@ -1,5 +1,5 @@
 ---
-title: "[天祺聊生物]gRNA设计傻瓜式教程"
+title: "gRNA设计傻瓜式教程"
 date: 2022-08-29T09:45:56Z
 draft: ["false"]
 tags: [
