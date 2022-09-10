@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [基因表达量预测药物反应的R包pRRophetic近期报错解决方案](https://github.com/ixxmu/mp_duty/issues/2691) 
-2. [ChIP-seq原始数据，我想下就下](https://github.com/ixxmu/mp_duty/issues/2650) 
-3. [研究生的重要技能: 如何烧开一壶水？](https://github.com/ixxmu/mp_duty/issues/2511) 
-4. [TCGA数据库构建生存预测模型之lasso回归](https://github.com/ixxmu/mp_duty/issues/2473) 
-5. [墙裂推荐！统计方法如何选以及全代码作图实现。](https://github.com/ixxmu/mp_duty/issues/2465) 
+1. [ChIP-seq FastQ文件怎么变成BAM](https://github.com/ixxmu/mp_duty/issues/2714) 
+2. [基因表达量预测药物反应的R包pRRophetic近期报错解决方案](https://github.com/ixxmu/mp_duty/issues/2691) 
+3. [ChIP-seq原始数据，我想下就下](https://github.com/ixxmu/mp_duty/issues/2650) 
+4. [研究生的重要技能: 如何烧开一壶水？](https://github.com/ixxmu/mp_duty/issues/2511) 
+5. [TCGA数据库构建生存预测模型之lasso回归](https://github.com/ixxmu/mp_duty/issues/2473) 
 <!-- 3issueTable -->
