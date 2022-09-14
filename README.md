@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [你想在GSEA可视化图中标注几个基因？](https://github.com/ixxmu/mp_duty/issues/2648) 
-2. [drug set enrichment analysis using clusterProfiler](https://github.com/ixxmu/mp_duty/issues/2626) 
-3. [drug set enrichment analysis using clusterProfiler](https://github.com/ixxmu/mp_duty/issues/2615) 
-4. [CBNplot：将富集分析结果和临床特征相关联](https://github.com/ixxmu/mp_duty/issues/2614) 
-5. [文章发表：基于癌症干性识别索拉非尼的耐药机制](https://github.com/ixxmu/mp_duty/issues/2558) 
+1. [GSEA富集到的通路相关信息有没有？](https://github.com/ixxmu/mp_duty/issues/2735) 
+2. [你想在GSEA可视化图中标注几个基因？](https://github.com/ixxmu/mp_duty/issues/2648) 
+3. [drug set enrichment analysis using clusterProfiler](https://github.com/ixxmu/mp_duty/issues/2626) 
+4. [drug set enrichment analysis using clusterProfiler](https://github.com/ixxmu/mp_duty/issues/2615) 
+5. [CBNplot：将富集分析结果和临床特征相关联](https://github.com/ixxmu/mp_duty/issues/2614) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
