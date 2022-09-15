@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [有人跟我说，拥有了wget就拥有了一切](https://github.com/ixxmu/mp_duty/issues/2730) 
-2. [ChIP-seq FastQ文件怎么变成BAM](https://github.com/ixxmu/mp_duty/issues/2714) 
-3. [基因表达量预测药物反应的R包pRRophetic近期报错解决方案](https://github.com/ixxmu/mp_duty/issues/2691) 
-4. [ChIP-seq原始数据，我想下就下](https://github.com/ixxmu/mp_duty/issues/2650) 
-5. [研究生的重要技能: 如何烧开一壶水？](https://github.com/ixxmu/mp_duty/issues/2511) 
+1. [以Counts转TPM为例, 感受一下生信自学中阳性对照的重要性](https://github.com/ixxmu/mp_duty/issues/2738) 
+2. [有人跟我说，拥有了wget就拥有了一切](https://github.com/ixxmu/mp_duty/issues/2730) 
+3. [ChIP-seq FastQ文件怎么变成BAM](https://github.com/ixxmu/mp_duty/issues/2714) 
+4. [基因表达量预测药物反应的R包pRRophetic近期报错解决方案](https://github.com/ixxmu/mp_duty/issues/2691) 
+5. [ChIP-seq原始数据，我想下就下](https://github.com/ixxmu/mp_duty/issues/2650) 
 <!-- 3issueTable -->
