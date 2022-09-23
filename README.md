@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [转录组由我不由天](https://github.com/ixxmu/mp_duty/issues/2743) 
-2. [批量使用基于Python的Scrublet工具去除双细胞](https://github.com/ixxmu/mp_duty/issues/2742) 
-3. [比较三种机器学习模型（随机森林，支持向量机，逻辑回归）的分类效果](https://github.com/ixxmu/mp_duty/issues/2708) 
-4. [WGCNA原理及实操](https://github.com/ixxmu/mp_duty/issues/2699) 
-5. [小队列的肿瘤外显子临床预后意义](https://github.com/ixxmu/mp_duty/issues/2682) 
+1. [肺癌EGFR突变与否你以为是两个分组吗](https://github.com/ixxmu/mp_duty/issues/2763) 
+2. [解决monocle中orderCells报错的一波三折](https://github.com/ixxmu/mp_duty/issues/2762) 
+3. [转录组由我不由天](https://github.com/ixxmu/mp_duty/issues/2743) 
+4. [批量使用基于Python的Scrublet工具去除双细胞](https://github.com/ixxmu/mp_duty/issues/2742) 
+5. [比较三种机器学习模型（随机森林，支持向量机，逻辑回归）的分类效果](https://github.com/ixxmu/mp_duty/issues/2708) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
