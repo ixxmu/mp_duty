@@ -1,6 +1,6 @@
 ---
 title: "RNAseq不同测序平台比较"
-date: 2022-10-09T04:57:28Z
+date: 2022-10-09T05:06:51Z
 draft: ["false"]
 tags: [
   "fetched",
