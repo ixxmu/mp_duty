@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [转录因子列表哪家全](https://github.com/ixxmu/mp_duty/issues/2838) 
-2. [单细胞层面的表达量差异分析到底如何做](https://github.com/ixxmu/mp_duty/issues/2802) 
-3. [大规模-高通量-多组学-居然只能把食管癌分成两个亚型](https://github.com/ixxmu/mp_duty/issues/2801) 
-4. [肺癌EGFR突变与否你以为是两个分组吗](https://github.com/ixxmu/mp_duty/issues/2763) 
-5. [解决monocle中orderCells报错的一波三折](https://github.com/ixxmu/mp_duty/issues/2762) 
+1. [各个单细胞亚群的特异性基因集合的打分能准确划分其亚群吗？](https://github.com/ixxmu/mp_duty/issues/2889) 
+2. [转录因子列表哪家全](https://github.com/ixxmu/mp_duty/issues/2838) 
+3. [单细胞层面的表达量差异分析到底如何做](https://github.com/ixxmu/mp_duty/issues/2802) 
+4. [大规模-高通量-多组学-居然只能把食管癌分成两个亚型](https://github.com/ixxmu/mp_duty/issues/2801) 
+5. [肺癌EGFR突变与否你以为是两个分组吗](https://github.com/ixxmu/mp_duty/issues/2763) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
