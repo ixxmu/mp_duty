@@ -11,11 +11,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3.1.0
-    - uses: ruby/setup-ruby@v1.115.3
+    - uses: ruby/setup-ruby@v1.123.0
       with:
         ruby-version: 2.6
         bundler-cache: true
-    - run: |
+    - run:
         bundle exec rake
       env:
         TOKEN: ${{ secrets.DUTY_TOKEN }}
