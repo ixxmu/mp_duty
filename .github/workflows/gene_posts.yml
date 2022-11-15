@@ -19,7 +19,7 @@ jobs:
           # body-includes: This is a QR code for access to the preview app.
           
       - name: Print Comment ID & Author
-        run: |
+        run:
           echo ${{ steps.bot.outputs.comment-id }}
           echo ${{ steps.bot.outputs.comment-author }}
       - uses: ixxmu/turn-issues-to-posts-action@master
