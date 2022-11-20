@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2899) 
-2. [各个单细胞亚群的特异性基因集合的打分能准确划分其亚群吗？](https://github.com/ixxmu/mp_duty/issues/2889) 
-3. [转录因子列表哪家全](https://github.com/ixxmu/mp_duty/issues/2838) 
-4. [单细胞层面的表达量差异分析到底如何做](https://github.com/ixxmu/mp_duty/issues/2802) 
-5. [大规模-高通量-多组学-居然只能把食管癌分成两个亚型](https://github.com/ixxmu/mp_duty/issues/2801) 
+1. [LASSO回归也可以用来做单细胞分类](https://github.com/ixxmu/mp_duty/issues/2921) 
+2. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2899) 
+3. [各个单细胞亚群的特异性基因集合的打分能准确划分其亚群吗？](https://github.com/ixxmu/mp_duty/issues/2889) 
+4. [转录因子列表哪家全](https://github.com/ixxmu/mp_duty/issues/2838) 
+5. [单细胞层面的表达量差异分析到底如何做](https://github.com/ixxmu/mp_duty/issues/2802) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
