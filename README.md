@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [一次搞定所有的富集分析](https://github.com/ixxmu/mp_duty/issues/2807) 
-2. [画个小圈圈](https://github.com/ixxmu/mp_duty/issues/2764) 
-3. [GSEA富集到的通路相关信息有没有？](https://github.com/ixxmu/mp_duty/issues/2735) 
-4. [你想在GSEA可视化图中标注几个基因？](https://github.com/ixxmu/mp_duty/issues/2648) 
-5. [drug set enrichment analysis using clusterProfiler](https://github.com/ixxmu/mp_duty/issues/2626) 
+1. [ggtreeExtra被严重低估了](https://github.com/ixxmu/mp_duty/issues/2929) 
+2. [一次搞定所有的富集分析](https://github.com/ixxmu/mp_duty/issues/2807) 
+3. [画个小圈圈](https://github.com/ixxmu/mp_duty/issues/2764) 
+4. [GSEA富集到的通路相关信息有没有？](https://github.com/ixxmu/mp_duty/issues/2735) 
+5. [你想在GSEA可视化图中标注几个基因？](https://github.com/ixxmu/mp_duty/issues/2648) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
