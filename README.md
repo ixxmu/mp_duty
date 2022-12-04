@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [马上都2023了，但是CNS级别单细胞文章仍然是使用monocle2](https://github.com/ixxmu/mp_duty/issues/2962) 
-2. [放化疗前后直肠癌基因组图谱差异](https://github.com/ixxmu/mp_duty/issues/2925) 
-3. [单细胞水平的拟时序分析看肿瘤进化关系](https://github.com/ixxmu/mp_duty/issues/2924) 
-4. [LASSO回归也可以用来做单细胞分类](https://github.com/ixxmu/mp_duty/issues/2921) 
-5. [药物预测之认识表达量矩阵和药物IC50](https://github.com/ixxmu/mp_duty/issues/2899) 
+1. [谁给你的勇气删除全部的核糖体线粒体基因](https://github.com/ixxmu/mp_duty/issues/2965) 
+2. [香浓熵值判断你的单细胞亚群是否有样品特异性](https://github.com/ixxmu/mp_duty/issues/2964) 
+3. [两次差异分析结果的比较不要局限于韦恩图](https://github.com/ixxmu/mp_duty/issues/2963) 
+4. [马上都2023了，但是CNS级别单细胞文章仍然是使用monocle2](https://github.com/ixxmu/mp_duty/issues/2962) 
+5. [放化疗前后直肠癌基因组图谱差异](https://github.com/ixxmu/mp_duty/issues/2925) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
