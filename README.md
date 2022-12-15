@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [癌症研究中单细胞数据分析的5个难点](https://github.com/ixxmu/mp_duty/issues/2994) 
-2. [单细胞转录组计算肿瘤纯度应该是金标准吗？](https://github.com/ixxmu/mp_duty/issues/2986) 
-3. [单细胞层面的表达量差异分析到底如何做](https://github.com/ixxmu/mp_duty/issues/2983) 
-4. [操纵相关性](https://github.com/ixxmu/mp_duty/issues/2973) 
-5. [谁给你的勇气删除全部的核糖体线粒体基因](https://github.com/ixxmu/mp_duty/issues/2965) 
+1. [把MsigDB数据库的全部通路转为gsva分析要求的输入格式](https://github.com/ixxmu/mp_duty/issues/3000) 
+2. [单细胞各个亚群特异性高表达基因的数据库注释（包括GO,KEGG,ReactomePA）](https://github.com/ixxmu/mp_duty/issues/2999) 
+3. [癌症研究中单细胞数据分析的5个难点](https://github.com/ixxmu/mp_duty/issues/2994) 
+4. [单细胞转录组计算肿瘤纯度应该是金标准吗？](https://github.com/ixxmu/mp_duty/issues/2986) 
+5. [单细胞层面的表达量差异分析到底如何做](https://github.com/ixxmu/mp_duty/issues/2983) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
