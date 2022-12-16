@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [文章发表：Current Protocols | ChIPseeker R 包操作指南](https://github.com/ixxmu/mp_duty/issues/2998) 
-2. [用ggtreeExtra展示细菌的丰度分布](https://github.com/ixxmu/mp_duty/issues/2997) 
-3. [ggtreeExtra被严重低估了](https://github.com/ixxmu/mp_duty/issues/2929) 
-4. [一次搞定所有的富集分析](https://github.com/ixxmu/mp_duty/issues/2807) 
-5. [画个小圈圈](https://github.com/ixxmu/mp_duty/issues/2764) 
+1. [用clusterProfiler一行代码对单细胞的marker genes做功能富集分析](https://github.com/ixxmu/mp_duty/issues/3001) 
+2. [文章发表：Current Protocols | ChIPseeker R 包操作指南](https://github.com/ixxmu/mp_duty/issues/2998) 
+3. [用ggtreeExtra展示细菌的丰度分布](https://github.com/ixxmu/mp_duty/issues/2997) 
+4. [ggtreeExtra被严重低估了](https://github.com/ixxmu/mp_duty/issues/2929) 
+5. [一次搞定所有的富集分析](https://github.com/ixxmu/mp_duty/issues/2807) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
