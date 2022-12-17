@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [【无用的知识增加了】如何安装一个R包](https://github.com/ixxmu/mp_duty/issues/2985) 
-2. [ssgsea算法在量化免疫浸润时的运用以及原理](https://github.com/ixxmu/mp_duty/issues/2901) 
-3. [Morris水迷宫的数据分析。](https://github.com/ixxmu/mp_duty/issues/2900) 
-4. [以Counts转TPM为例, 感受一下生信自学中阳性对照的重要性](https://github.com/ixxmu/mp_duty/issues/2738) 
-5. [有人跟我说，拥有了wget就拥有了一切](https://github.com/ixxmu/mp_duty/issues/2730) 
+1. [NAR文章上线| GPSAdb,给你的数据分析加入基因扰动信息。](https://github.com/ixxmu/mp_duty/issues/3007) 
+2. [【无用的知识增加了】如何安装一个R包](https://github.com/ixxmu/mp_duty/issues/2985) 
+3. [ssgsea算法在量化免疫浸润时的运用以及原理](https://github.com/ixxmu/mp_duty/issues/2901) 
+4. [Morris水迷宫的数据分析。](https://github.com/ixxmu/mp_duty/issues/2900) 
+5. [以Counts转TPM为例, 感受一下生信自学中阳性对照的重要性](https://github.com/ixxmu/mp_duty/issues/2738) 
 <!-- 3issueTable -->
