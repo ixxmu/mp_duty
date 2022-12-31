@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [不知道单细胞亚群特异性标记基因的出处？](https://github.com/ixxmu/mp_duty/issues/3030) 
-2. [单细胞各个亚群基因按照平均表达量排序后gsea分析](https://github.com/ixxmu/mp_duty/issues/3029) 
-3. [把MsigDB数据库的全部通路转为gsva分析要求的输入格式](https://github.com/ixxmu/mp_duty/issues/3000) 
-4. [单细胞各个亚群特异性高表达基因的数据库注释（包括GO,KEGG,ReactomePA）](https://github.com/ixxmu/mp_duty/issues/2999) 
-5. [癌症研究中单细胞数据分析的5个难点](https://github.com/ixxmu/mp_duty/issues/2994) 
+1. [使用MuSiC以及MuSiC2来根据单细胞转录组结果推断bulk转录组细胞比例](https://github.com/ixxmu/mp_duty/issues/3041) 
+2. [不知道单细胞亚群特异性标记基因的出处？](https://github.com/ixxmu/mp_duty/issues/3030) 
+3. [单细胞各个亚群基因按照平均表达量排序后gsea分析](https://github.com/ixxmu/mp_duty/issues/3029) 
+4. [把MsigDB数据库的全部通路转为gsva分析要求的输入格式](https://github.com/ixxmu/mp_duty/issues/3000) 
+5. [单细胞各个亚群特异性高表达基因的数据库注释（包括GO,KEGG,ReactomePA）](https://github.com/ixxmu/mp_duty/issues/2999) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
