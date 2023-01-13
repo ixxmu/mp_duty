@@ -1,6 +1,6 @@
 ---
 title: "利用转录因子构建调控网络“ 新星 ”：NetAct"
-date: 2023-01-10T23:37:09Z
+date: 2023-01-13T02:53:16Z
 draft: ["false"]
 tags: [
   "fetched",
