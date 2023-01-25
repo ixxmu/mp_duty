@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [如何优雅的给单细胞转录组fastq文件改名](https://github.com/ixxmu/mp_duty/issues/3098) 
-2. [umap的单细胞可视化效果比tSNE好](https://github.com/ixxmu/mp_duty/issues/3097) 
-3. [血液免疫细胞比例估算准确度如何？](https://github.com/ixxmu/mp_duty/issues/3082) 
-4. [基因敲除前后的单细胞转录组已经成为了标配了吗](https://github.com/ixxmu/mp_duty/issues/3078) 
-5. [比较copykat和infercnv这两个从单细胞转录组数据推断肿瘤拷贝数变异技术差异](https://github.com/ixxmu/mp_duty/issues/3071) 
+1. [你愿意为这样发育不全的生命科学奉献一生吗](https://github.com/ixxmu/mp_duty/issues/3123) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker)
+2. [如何优雅的给单细胞转录组fastq文件改名](https://github.com/ixxmu/mp_duty/issues/3098) 
+3. [umap的单细胞可视化效果比tSNE好](https://github.com/ixxmu/mp_duty/issues/3097) 
+4. [血液免疫细胞比例估算准确度如何？](https://github.com/ixxmu/mp_duty/issues/3082) 
+5. [基因敲除前后的单细胞转录组已经成为了标配了吗](https://github.com/ixxmu/mp_duty/issues/3078) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
