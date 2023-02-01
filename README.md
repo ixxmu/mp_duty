@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [五年高考三年模拟的R包](https://github.com/ixxmu/mp_duty/issues/3137) 
-2. [人皮肤衰老单细胞转录组数据之HRA000395](https://github.com/ixxmu/mp_duty/issues/3136) 
-3. [CNS子刊思路大放送](https://github.com/ixxmu/mp_duty/issues/3134) 
-4. [单细胞天地公众号2022的推文汇总](https://github.com/ixxmu/mp_duty/issues/3133) 
-5. [你愿意为这样发育不全的生命科学奉献一生吗](https://github.com/ixxmu/mp_duty/issues/3123) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker)
+1. [R版BBKNN整合去批次](https://github.com/ixxmu/mp_duty/issues/3149) 
+2. [五年高考三年模拟的R包](https://github.com/ixxmu/mp_duty/issues/3137) 
+3. [人皮肤衰老单细胞转录组数据之HRA000395](https://github.com/ixxmu/mp_duty/issues/3136) 
+4. [CNS子刊思路大放送](https://github.com/ixxmu/mp_duty/issues/3134) 
+5. [单细胞天地公众号2022的推文汇总](https://github.com/ixxmu/mp_duty/issues/3133) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
