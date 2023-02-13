@@ -18,6 +18,9 @@ jobs:
           comment-author: "ixxmu"
           # body-includes: This is a QR code for access to the preview app.
           
+      - name: Set current date as env variable
+        run: echo "NOW=$(date +'%Y-%m')" >> $GITHUB_ENV 
+
       - name: Print Comment ID & Author
         run:
           echo ${{ steps.bot.outputs.comment-id }}
@@ -25,7 +28,7 @@ jobs:
       - uses: ixxmu/turn-issues-to-posts-action@master
         with:
           branch: "master" # default to main
-          dir: "docs" # default to _posts
+          dir: "docs/$NOW" # default to _posts
           categories: "Acdemic"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           created_at: ${{ github.event.issue.created_at }}
