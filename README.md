@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [坚持是为了优雅的放弃](https://github.com/ixxmu/mp_duty/issues/3188) 
-2. [R版BBKNN整合去批次](https://github.com/ixxmu/mp_duty/issues/3149) 
-3. [五年高考三年模拟的R包](https://github.com/ixxmu/mp_duty/issues/3137) 
-4. [人皮肤衰老单细胞转录组数据之HRA000395](https://github.com/ixxmu/mp_duty/issues/3136) 
-5. [CNS子刊思路大放送](https://github.com/ixxmu/mp_duty/issues/3134) 
+1. [华大基因单细胞团队的这个差异分析后的热图真奇怪](https://github.com/ixxmu/mp_duty/issues/3193) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+2. [学徒抽丝剥茧想搞清楚这个转录组数据问题出在哪里](https://github.com/ixxmu/mp_duty/issues/3192) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+3. [坚持是为了优雅的放弃](https://github.com/ixxmu/mp_duty/issues/3188) 
+4. [R版BBKNN整合去批次](https://github.com/ixxmu/mp_duty/issues/3149) 
+5. [五年高考三年模拟的R包](https://github.com/ixxmu/mp_duty/issues/3137) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
