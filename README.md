@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [每个月10到100万怎么感兴趣的人这么少？](https://github.com/ixxmu/mp_duty/issues/3263) 
-2. [跨平台不同单细胞转录组数据集整合王者算法（harmony）](https://github.com/ixxmu/mp_duty/issues/3260) 
-3. [为什么要拼图](https://github.com/ixxmu/mp_duty/issues/3216) 
-4. [华大基因单细胞团队的这个差异分析后的热图真奇怪](https://github.com/ixxmu/mp_duty/issues/3193) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-5. [学徒抽丝剥茧想搞清楚这个转录组数据问题出在哪里](https://github.com/ixxmu/mp_duty/issues/3192) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+1. [单细胞混样品测序后数据拆分（Cell Hashing技术）](https://github.com/ixxmu/mp_duty/issues/3268) 
+2. [每个月10到100万怎么感兴趣的人这么少？](https://github.com/ixxmu/mp_duty/issues/3263) 
+3. [跨平台不同单细胞转录组数据集整合王者算法（harmony）](https://github.com/ixxmu/mp_duty/issues/3260) 
+4. [为什么要拼图](https://github.com/ixxmu/mp_duty/issues/3216) 
+5. [华大基因单细胞团队的这个差异分析后的热图真奇怪](https://github.com/ixxmu/mp_duty/issues/3193) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
