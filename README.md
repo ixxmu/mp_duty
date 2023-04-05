@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [把compareCluster富集后缺失的组显示出来](https://github.com/ixxmu/mp_duty/issues/3290) 
-2. [理解 Quntile Normalization](https://github.com/ixxmu/mp_duty/issues/3283) 
-3. [把compareCluster富集后缺失的组显示出来](https://github.com/ixxmu/mp_duty/issues/3242) 
-4. [给你一份批量数据处理的学习笔记，感受一下编程的魅力！](https://github.com/ixxmu/mp_duty/issues/3204) 
-5. [NAR文章上线| GPSAdb,给你的数据分析加入基因扰动信息。](https://github.com/ixxmu/mp_duty/issues/3007) 
+1. [ssgsea算法在量化免疫浸润时的运用以及原理](https://github.com/ixxmu/mp_duty/issues/3326) 
+2. [以Counts转TPM为例, 感受一下生信自学中阳性对照的重要性](https://github.com/ixxmu/mp_duty/issues/3325) 
+3. [做通路富集分析的时候究竟输入多少个基因？](https://github.com/ixxmu/mp_duty/issues/3324) 
+4. [把compareCluster富集后缺失的组显示出来](https://github.com/ixxmu/mp_duty/issues/3290) 
+5. [理解 Quntile Normalization](https://github.com/ixxmu/mp_duty/issues/3283) 
 <!-- 3issueTable -->
