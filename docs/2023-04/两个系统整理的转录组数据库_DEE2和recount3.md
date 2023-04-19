@@ -1,6 +1,6 @@
 ---
 title: "两个系统整理的转录组数据库：DEE2和recount3"
-date: 2023-04-19T05:04:43Z
+date: 2023-04-19T12:22:36Z
 draft: ["false"]
 tags: [
   "fetched",
