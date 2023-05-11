@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [z-score的标准化究竟怎么弄？](https://github.com/ixxmu/mp_duty/issues/3396) 
-2. [果子51劳动节R语言科学数据挖掘课程招生简章来啦!](https://github.com/ixxmu/mp_duty/issues/3332) 
-3. [ssgsea算法在量化免疫浸润时的运用以及原理](https://github.com/ixxmu/mp_duty/issues/3326) 
-4. [以Counts转TPM为例, 感受一下生信自学中阳性对照的重要性](https://github.com/ixxmu/mp_duty/issues/3325) 
-5. [做通路富集分析的时候究竟输入多少个基因？](https://github.com/ixxmu/mp_duty/issues/3324) 
+1. [小课题也可以拓展一下，小鼠组织的免疫浸润如何量化？](https://github.com/ixxmu/mp_duty/issues/3407) 
+2. [z-score的标准化究竟怎么弄？](https://github.com/ixxmu/mp_duty/issues/3396) 
+3. [果子51劳动节R语言科学数据挖掘课程招生简章来啦!](https://github.com/ixxmu/mp_duty/issues/3332) 
+4. [ssgsea算法在量化免疫浸润时的运用以及原理](https://github.com/ixxmu/mp_duty/issues/3326) 
+5. [以Counts转TPM为例, 感受一下生信自学中阳性对照的重要性](https://github.com/ixxmu/mp_duty/issues/3325) 
 <!-- 3issueTable -->
