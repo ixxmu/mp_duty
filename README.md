@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [基于Seurat的单细胞对象使用ShinyCell自动化生成网页](https://github.com/ixxmu/mp_duty/issues/3413) 
-2. [使用CytoTRACE来辅助monocle确定发育顺序和起始点](https://github.com/ixxmu/mp_duty/issues/3405) 
-3. [大数据背后的规律需要细致的挖掘出来](https://github.com/ixxmu/mp_duty/issues/3394) 
-4. [一个基因上面有多个探针最后只能选一个吗](https://github.com/ixxmu/mp_duty/issues/3393) 
-5. [说好的内参基因稳定不变呢？它确差异表达了吗？](https://github.com/ixxmu/mp_duty/issues/3392) 
+1. [肺癌的各种上皮细胞都会恶化吗](https://github.com/ixxmu/mp_duty/issues/3420) 
+2. [基于Seurat的单细胞对象使用ShinyCell自动化生成网页](https://github.com/ixxmu/mp_duty/issues/3413) 
+3. [使用CytoTRACE来辅助monocle确定发育顺序和起始点](https://github.com/ixxmu/mp_duty/issues/3405) 
+4. [大数据背后的规律需要细致的挖掘出来](https://github.com/ixxmu/mp_duty/issues/3394) 
+5. [一个基因上面有多个探针最后只能选一个吗](https://github.com/ixxmu/mp_duty/issues/3393) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
