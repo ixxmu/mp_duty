@@ -1,6 +1,6 @@
 ---
 title: "明明PCA区分非常好，但是差异基因数量很少？"
-date: 2023-05-17T04:48:33Z
+date: 2023-05-19T04:17:00Z
 draft: ["false"]
 tags: [
   "fetched",
