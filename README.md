@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [以自己的皮脂腺痣作为科研材料](https://github.com/ixxmu/mp_duty/issues/3464) 
-2. [featureCounts和DEXseq做基于外显子定量的可变剪切](https://github.com/ixxmu/mp_duty/issues/3453) 
-3. [肝癌单细胞转录组数据之SRP318499](https://github.com/ixxmu/mp_duty/issues/3452) 
-4. [单细胞亚群细分这样弄可能不妥](https://github.com/ixxmu/mp_duty/issues/3442) 
-5. [肺癌的各种上皮细胞都会恶化吗](https://github.com/ixxmu/mp_duty/issues/3420) 
+1. [肺癌的各种上皮细胞都会恶化吗](https://github.com/ixxmu/mp_duty/issues/3466) 
+2. [以自己的皮脂腺痣作为科研材料](https://github.com/ixxmu/mp_duty/issues/3464) 
+3. [featureCounts和DEXseq做基于外显子定量的可变剪切](https://github.com/ixxmu/mp_duty/issues/3453) 
+4. [肝癌单细胞转录组数据之SRP318499](https://github.com/ixxmu/mp_duty/issues/3452) 
+5. [单细胞亚群细分这样弄可能不妥](https://github.com/ixxmu/mp_duty/issues/3442) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
