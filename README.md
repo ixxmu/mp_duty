@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [Windows下新装R的极简指南](https://github.com/ixxmu/mp_duty/issues/3253) 
-2. [《R语言科学编程及仿真》读书笔记](https://github.com/ixxmu/mp_duty/issues/3141) 
-3. [用ggplot2画3D](https://github.com/ixxmu/mp_duty/issues/3054) 
-4. [compareCluster过于超前了](https://github.com/ixxmu/mp_duty/issues/3015) 
-5. [用clusterProfiler一行代码对单细胞的marker genes做功能富集分析](https://github.com/ixxmu/mp_duty/issues/3001) 
+1. [当clusterProfiler遇见stringdb...](https://github.com/ixxmu/mp_duty/issues/3492) 
+2. [Windows下新装R的极简指南](https://github.com/ixxmu/mp_duty/issues/3253) 
+3. [《R语言科学编程及仿真》读书笔记](https://github.com/ixxmu/mp_duty/issues/3141) 
+4. [用ggplot2画3D](https://github.com/ixxmu/mp_duty/issues/3054) 
+5. [compareCluster过于超前了](https://github.com/ixxmu/mp_duty/issues/3015) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
