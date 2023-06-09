@@ -1,0 +1,15 @@
+---
+title: "enrichKEGG咋又不能用了？"
+date: 2023-06-09T07:01:56Z
+draft: ["false"]
+tags: [
+  "fetched",
+  "果子学生信"
+]
+categories: ["Acdemic"]
+---
+enrichKEGG咋又不能用了？ by 果子学生信
+------
+<div><p><span>今天有朋友反应使用Y叔的clusterProfiler的enrichKEGG遇到了如下报错<br></span></p><p><img data-galleryid="" data-ratio="0.3212962962962963" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/I101ibe9h7rNOVxZ3se2fKQEUuyf3Cz7ooAIystaqxTxojaNicDwkqia2FiaVaOJfU4uYsib9wocZF71wLjdXRiaswibA/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" data-type="png" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_png/I101ibe9h7rNOVxZ3se2fKQEUuyf3Cz7ooAIystaqxTxojaNicDwkqia2FiaVaOJfU4uYsib9wocZF71wLjdXRiaswibA/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1"></p><p><span>之前KEGG出现了问题，Y叔连夜修代码，让clusterProfiler能够正常。</span></p><p><span>但是这次问题，真的不算是Y叔的锅了，这次是KEGG网站的证书过期了，导致R语言无法正常下载了。</span></p><p><img data-galleryid="" data-ratio="0.23703703703703705" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/I101ibe9h7rNOVxZ3se2fKQEUuyf3Cz7oPTrzRia3pwmsUtDwHUphxA0MqUMsVsyGicpBxq8tPkVktLIFrUFwdDZQ/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" data-type="png" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_png/I101ibe9h7rNOVxZ3se2fKQEUuyf3Cz7oPTrzRia3pwmsUtDwHUphxA0MqUMsVsyGicpBxq8tPkVktLIFrUFwdDZQ/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1"></p><p><span>那么咋办呢？<br></span></p><p><span>第一个方法，等！估计过几天就有人反馈了，然后就恢复正常了。</span></p><p><span>我已经发过邮件了，等待回信中。</span></p><p><span>第二个方法，强制上！通过阅读clusterProfiler的文章，可以知道Y叔是通过参数clusterProfiler.download.method 来获取下载方式，默认是libcurl。 只要我们换成curl，并加上一个额外参数，就能强行下载了。</span></p><p><img data-galleryid="" data-ratio="0.41944444444444445" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/I101ibe9h7rNOVxZ3se2fKQEUuyf3Cz7oh6H5mVCPSib7B7aXa2VdicRmL2nLicXOricucg86pKVicsw8exzicSTjxvnw/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" data-type="png" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_png/I101ibe9h7rNOVxZ3se2fKQEUuyf3Cz7oh6H5mVCPSib7B7aXa2VdicRmL2nLicXOricucg86pKVicsw8exzicSTjxvnw/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1"></p><p>但是这一方法，我只在mac上测试过，Linux和windows不确定能不能行。<span></span></p><p>方法3，本地制备KEGG.db。默认情况下enrichKEGG会在线获取数据，但是如果设置<span>use_internal_data</span><span>=TRUE，就可以使用本地的数据进行分析。</span></p><p>不过问题来了，这个本地数据怎么制备呢？可以参考如下两篇文章。</p><p><a target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI1MjU5MjMzNA==&amp;mid=2247487763&amp;idx=1&amp;sn=add2b8f98f6e954ff78554d4ccb1f602&amp;scene=21#wechat_redirect" textvalue="多物种批量下载KEGG数据并做成KEGG.db包" linktype="text" imgurl="" imgdata="null" tab="innerlink" data-linktype="2">多物种批量下载KEGG数据并做成KEGG.db包</a><br></p><p><a target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI1MjU5MjMzNA==&amp;mid=2247487705&amp;idx=1&amp;sn=8657bbaba95355f051aa69401ae9c35c&amp;scene=21#wechat_redirect" textvalue="KEGG数据本地化，再也不用担心网络问题了" linktype="text" imgurl="" imgdata="null" tab="innerlink" data-linktype="2">KEGG数据本地化，再也不用担心网络问题了</a></p><p><br></p><p><br></p><p><mp-style-type data-value="3"></mp-style-type></p></div>  
+<hr>
+<a href="https://mp.weixin.qq.com/s/qjJWYt-xCXztygUhbjEmkw",target="_blank" rel="noopener noreferrer">原文链接</a>
