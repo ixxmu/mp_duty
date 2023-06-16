@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [单细胞水平什么程度的表达才算是阳性呢](https://github.com/ixxmu/mp_duty/issues/3527) 
-2. [细分特定单细胞亚群的时候混入了其它亚群的解决方案](https://github.com/ixxmu/mp_duty/issues/3526) 
-3. [10X单细胞转录组原始测序数据的Cell Ranger流程（仅需800元）](https://github.com/ixxmu/mp_duty/issues/3518) 
-4. [单细胞转录组的普通降维聚类分群流程（仅需800元）](https://github.com/ixxmu/mp_duty/issues/3512) 
-5. [基因是否具有单细胞亚群特异性居然是靠肉眼看](https://github.com/ixxmu/mp_duty/issues/3487) 
+1. [CD4和CD8的T细胞在单细胞转录组水平本来就很难确定亚群和名字](https://github.com/ixxmu/mp_duty/issues/3531) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker) [![免疫列表](https://img.shields.io/github/labels/ixxmu/mp_duty/免疫列表)](https://github.com/ixxmu/mp_duty/labels/免疫列表)
+2. [单细胞水平什么程度的表达才算是阳性呢](https://github.com/ixxmu/mp_duty/issues/3527) 
+3. [细分特定单细胞亚群的时候混入了其它亚群的解决方案](https://github.com/ixxmu/mp_duty/issues/3526) 
+4. [10X单细胞转录组原始测序数据的Cell Ranger流程（仅需800元）](https://github.com/ixxmu/mp_duty/issues/3518) 
+5. [单细胞转录组的普通降维聚类分群流程（仅需800元）](https://github.com/ixxmu/mp_duty/issues/3512) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
