@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [小鼠的5个样品的10x技术单细胞转录组上游定量（文末赠送全套代码）](https://github.com/ixxmu/mp_duty/issues/3550) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-2. [CD4和CD8的T细胞在单细胞转录组水平本来就很难确定亚群和名字](https://github.com/ixxmu/mp_duty/issues/3531) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker) [![免疫列表](https://img.shields.io/github/labels/ixxmu/mp_duty/免疫列表)](https://github.com/ixxmu/mp_duty/labels/免疫列表)
-3. [单细胞水平什么程度的表达才算是阳性呢](https://github.com/ixxmu/mp_duty/issues/3527) 
-4. [细分特定单细胞亚群的时候混入了其它亚群的解决方案](https://github.com/ixxmu/mp_duty/issues/3526) 
-5. [10X单细胞转录组原始测序数据的Cell Ranger流程（仅需800元）](https://github.com/ixxmu/mp_duty/issues/3518) 
+1. [Nature | 陈兴宇等揭示男性Y染色体缺失促进肿瘤生长并影响肿瘤免疫](https://github.com/ixxmu/mp_duty/issues/3554) 
+2. [小鼠的5个样品的10x技术单细胞转录组上游定量（文末赠送全套代码）](https://github.com/ixxmu/mp_duty/issues/3550) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+3. [CD4和CD8的T细胞在单细胞转录组水平本来就很难确定亚群和名字](https://github.com/ixxmu/mp_duty/issues/3531) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker) [![免疫列表](https://img.shields.io/github/labels/ixxmu/mp_duty/免疫列表)](https://github.com/ixxmu/mp_duty/labels/免疫列表)
+4. [单细胞水平什么程度的表达才算是阳性呢](https://github.com/ixxmu/mp_duty/issues/3527) 
+5. [细分特定单细胞亚群的时候混入了其它亚群的解决方案](https://github.com/ixxmu/mp_duty/issues/3526) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
