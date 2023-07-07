@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [不应该让单细胞定量成为数据复用的阻碍](https://github.com/ixxmu/mp_duty/issues/3582) 
-2. [Python的转录组学分析框架与生态](https://github.com/ixxmu/mp_duty/issues/3575) 
-3. [estimate或者CIBERSORT结果真的是很好的临床预后指标吗](https://github.com/ixxmu/mp_duty/issues/3567) 
-4. [Nature | 陈兴宇等揭示男性Y染色体缺失促进肿瘤生长并影响肿瘤免疫](https://github.com/ixxmu/mp_duty/issues/3554) 
-5. [小鼠的5个样品的10x技术单细胞转录组上游定量（文末赠送全套代码）](https://github.com/ixxmu/mp_duty/issues/3550) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+1. [什么情况下我会把科研思路给你](https://github.com/ixxmu/mp_duty/issues/3593) 
+2. [R语言里面如何高效开发R包](https://github.com/ixxmu/mp_duty/issues/3592) 
+3. [不应该让单细胞定量成为数据复用的阻碍](https://github.com/ixxmu/mp_duty/issues/3582) 
+4. [Python的转录组学分析框架与生态](https://github.com/ixxmu/mp_duty/issues/3575) 
+5. [estimate或者CIBERSORT结果真的是很好的临床预后指标吗](https://github.com/ixxmu/mp_duty/issues/3567) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
