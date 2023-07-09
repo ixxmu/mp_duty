@@ -1,6 +1,6 @@
 ---
 title: "SoupX——去除RNA污染"
-date: 2023-07-09T15:10:27Z
+date: 2023-07-09T15:12:24Z
 draft: ["false"]
 tags: [
   "fetched",
