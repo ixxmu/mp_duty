@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [表达量是否有差异你说了算](https://github.com/ixxmu/mp_duty/issues/3621) 
-2. [现代生物学领域的生物信息学权重高吗](https://github.com/ixxmu/mp_duty/issues/3607) 
-3. [什么情况下我会把科研思路给你](https://github.com/ixxmu/mp_duty/issues/3593) 
-4. [R语言里面如何高效开发R包](https://github.com/ixxmu/mp_duty/issues/3592) 
-5. [不应该让单细胞定量成为数据复用的阻碍](https://github.com/ixxmu/mp_duty/issues/3582) 
+1. [TCGA的28篇教程-GTEx数据库-TCGA数据挖掘的好帮手](https://github.com/ixxmu/mp_duty/issues/3625) 
+2. [TCGA数据库LUSC亚型批量差异分析](https://github.com/ixxmu/mp_duty/issues/3623) 
+3. [表达量是否有差异你说了算](https://github.com/ixxmu/mp_duty/issues/3621) 
+4. [现代生物学领域的生物信息学权重高吗](https://github.com/ixxmu/mp_duty/issues/3607) 
+5. [什么情况下我会把科研思路给你](https://github.com/ixxmu/mp_duty/issues/3593) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
