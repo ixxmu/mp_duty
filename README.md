@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [你确定你研究的是成纤维细胞吗](https://github.com/ixxmu/mp_duty/issues/3650) 
-2. [TCGA的28篇教程-CNV全攻略](https://github.com/ixxmu/mp_duty/issues/3630) 
-3. [（重磅！价值一千元的R代码送给你）芯片探针序列的基因组注释](https://github.com/ixxmu/mp_duty/issues/3627) 
-4. [TCGA的28篇教程-GTEx数据库-TCGA数据挖掘的好帮手](https://github.com/ixxmu/mp_duty/issues/3625) 
-5. [TCGA数据库LUSC亚型批量差异分析](https://github.com/ixxmu/mp_duty/issues/3623) 
+1. [这样的诊断模型才优秀](https://github.com/ixxmu/mp_duty/issues/3653) 
+2. [TCGA数据库的normal样本不够可以拿GTEx来凑](https://github.com/ixxmu/mp_duty/issues/3652) 
+3. [你确定你研究的是成纤维细胞吗](https://github.com/ixxmu/mp_duty/issues/3650) 
+4. [TCGA的28篇教程-CNV全攻略](https://github.com/ixxmu/mp_duty/issues/3630) 
+5. [（重磅！价值一千元的R代码送给你）芯片探针序列的基因组注释](https://github.com/ixxmu/mp_duty/issues/3627) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
