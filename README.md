@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [转录组测序数据分析的基础和进阶](https://github.com/ixxmu/mp_duty/issues/3663) 
-2. [这样的诊断模型才优秀](https://github.com/ixxmu/mp_duty/issues/3653) 
-3. [TCGA数据库的normal样本不够可以拿GTEx来凑](https://github.com/ixxmu/mp_duty/issues/3652) 
-4. [你确定你研究的是成纤维细胞吗](https://github.com/ixxmu/mp_duty/issues/3650) 
-5. [TCGA的28篇教程-CNV全攻略](https://github.com/ixxmu/mp_duty/issues/3630) 
+1. [花同样的钱却只拿到十分之一的单细胞数量亏不亏](https://github.com/ixxmu/mp_duty/issues/3676) 
+2. [花同样的钱却只拿到十分之一的单细胞数量亏不亏](https://github.com/ixxmu/mp_duty/issues/3675) 
+3. [生物信息学权威期刊Bioinformatics发文量最大的是谁](https://github.com/ixxmu/mp_duty/issues/3674) 
+4. [转录组测序数据分析的基础和进阶](https://github.com/ixxmu/mp_duty/issues/3663) 
+5. [这样的诊断模型才优秀](https://github.com/ixxmu/mp_duty/issues/3653) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
