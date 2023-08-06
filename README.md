@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [clusterProfiler开始支持Pathway Common](https://github.com/ixxmu/mp_duty/issues/3691) 
-2. [简简单单讲insertion size](https://github.com/ixxmu/mp_duty/issues/3642) 
-3. [ggplotify + aplot 大法好](https://github.com/ixxmu/mp_duty/issues/3564) 
-4. [当clusterProfiler遇见stringdb...](https://github.com/ixxmu/mp_duty/issues/3492) 
-5. [Windows下新装R的极简指南](https://github.com/ixxmu/mp_duty/issues/3253) 
+1. [ggplot2版本的oncoplot来了](https://github.com/ixxmu/mp_duty/issues/3701) 
+2. [clusterProfiler开始支持Pathway Common](https://github.com/ixxmu/mp_duty/issues/3691) 
+3. [简简单单讲insertion size](https://github.com/ixxmu/mp_duty/issues/3642) 
+4. [ggplotify + aplot 大法好](https://github.com/ixxmu/mp_duty/issues/3564) 
+5. [当clusterProfiler遇见stringdb...](https://github.com/ixxmu/mp_duty/issues/3492) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
