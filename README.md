@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [看完还不会来揍/找我 | TCGA 与 GTEx 数据库联合分析 | 附完整代码 + 注释](https://github.com/ixxmu/mp_duty/issues/3727) 
-2. [发医学影像学领域顶级期刊Radiology的技术不了解一下吗](https://github.com/ixxmu/mp_duty/issues/3715) 
-3. [TP53一定是抑癌基因吗](https://github.com/ixxmu/mp_duty/issues/3696) 
-4. [单细胞天地需要你](https://github.com/ixxmu/mp_duty/issues/3688) 
-5. [哈佛大学生物信息中心的单细胞系列教程翻译整理合辑](https://github.com/ixxmu/mp_duty/issues/3686) 
+1. [单细胞多组学数据分析不会分析](https://github.com/ixxmu/mp_duty/issues/3731) 
+2. [刷了一下历年的中国生物信息学十大进展](https://github.com/ixxmu/mp_duty/issues/3730) 
+3. [看完还不会来揍/找我 | TCGA 与 GTEx 数据库联合分析 | 附完整代码 + 注释](https://github.com/ixxmu/mp_duty/issues/3727) 
+4. [发医学影像学领域顶级期刊Radiology的技术不了解一下吗](https://github.com/ixxmu/mp_duty/issues/3715) 
+5. [TP53一定是抑癌基因吗](https://github.com/ixxmu/mp_duty/issues/3696) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
