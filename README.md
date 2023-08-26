@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [科研利器：如何使用CRISPR screening实现精准的大海捞针？](https://github.com/ixxmu/mp_duty/issues/3684) 
-2. [精彩！洲更的Linux服务器管理直播课来了！](https://github.com/ixxmu/mp_duty/issues/3659) 
-3. [enrichKEGG咋又不能用了？](https://github.com/ixxmu/mp_duty/issues/3499) 
-4. [小课题也可以拓展一下，小鼠组织的免疫浸润如何量化？](https://github.com/ixxmu/mp_duty/issues/3407) 
-5. [z-score的标准化究竟怎么弄？](https://github.com/ixxmu/mp_duty/issues/3396) 
+1. [又是神器！基于单基因批量相关性分析的GSEA](https://github.com/ixxmu/mp_duty/issues/3772) 
+2. [科研利器：如何使用CRISPR screening实现精准的大海捞针？](https://github.com/ixxmu/mp_duty/issues/3684) 
+3. [精彩！洲更的Linux服务器管理直播课来了！](https://github.com/ixxmu/mp_duty/issues/3659) 
+4. [enrichKEGG咋又不能用了？](https://github.com/ixxmu/mp_duty/issues/3499) 
+5. [小课题也可以拓展一下，小鼠组织的免疫浸润如何量化？](https://github.com/ixxmu/mp_duty/issues/3407) 
 <!-- 3issueTable -->
