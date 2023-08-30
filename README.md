@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [药物预测之差异基因为什么不行](https://github.com/ixxmu/mp_duty/issues/3742) 
-2. [3款经典转录组测序差异分析R包的一致性如何](https://github.com/ixxmu/mp_duty/issues/3740) 
-3. [单细胞多组学数据分析不会分析](https://github.com/ixxmu/mp_duty/issues/3731) 
-4. [刷了一下历年的中国生物信息学十大进展](https://github.com/ixxmu/mp_duty/issues/3730) 
-5. [看完还不会来揍/找我 | TCGA 与 GTEx 数据库联合分析 | 附完整代码 + 注释](https://github.com/ixxmu/mp_duty/issues/3727) 
+1. [关闭利用Mfuzz包对转录变化的时间趋势进行分析（学徒作业参考）](https://github.com/ixxmu/mp_duty/issues/3784) 
+2. [药物预测之差异基因为什么不行](https://github.com/ixxmu/mp_duty/issues/3742) 
+3. [3款经典转录组测序差异分析R包的一致性如何](https://github.com/ixxmu/mp_duty/issues/3740) 
+4. [单细胞多组学数据分析不会分析](https://github.com/ixxmu/mp_duty/issues/3731) 
+5. [刷了一下历年的中国生物信息学十大进展](https://github.com/ixxmu/mp_duty/issues/3730) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
