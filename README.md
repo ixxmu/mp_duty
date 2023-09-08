@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [使用单细胞技术发文章不要纠结于样品数量](https://github.com/ixxmu/mp_duty/issues/3796) 
-2. [学术交流一定要以SCI文章为前提吗?试试Octopus](https://github.com/ixxmu/mp_duty/issues/3794) 
-3. [cytoscape中文手册推荐（配视频）](https://github.com/ixxmu/mp_duty/issues/3793) 
-4. [关闭利用Mfuzz包对转录变化的时间趋势进行分析（学徒作业参考）](https://github.com/ixxmu/mp_duty/issues/3784) 
-5. [药物预测之差异基因为什么不行](https://github.com/ixxmu/mp_duty/issues/3742) 
+1. [学徒作业完成！多个单细胞亚群各自差异分析后如何汇总可视化](https://github.com/ixxmu/mp_duty/issues/3821) 
+2. [使用单细胞技术发文章不要纠结于样品数量](https://github.com/ixxmu/mp_duty/issues/3796) 
+3. [学术交流一定要以SCI文章为前提吗?试试Octopus](https://github.com/ixxmu/mp_duty/issues/3794) 
+4. [cytoscape中文手册推荐（配视频）](https://github.com/ixxmu/mp_duty/issues/3793) 
+5. [关闭利用Mfuzz包对转录变化的时间趋势进行分析（学徒作业参考）](https://github.com/ixxmu/mp_duty/issues/3784) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
