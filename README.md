@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [3种EMT打分算法](https://github.com/ixxmu/mp_duty/issues/3887) 
-2. [chatGPT帮助我搞定肿瘤样本EMTscore计算](https://github.com/ixxmu/mp_duty/issues/3886) 
-3. [单细胞水平看生存分析相关基因](https://github.com/ixxmu/mp_duty/issues/3885) 
-4. [两种筛选和分析特定的细胞亚群的技术你pick谁（GFP报告系统和抗体标记）](https://github.com/ixxmu/mp_duty/issues/3882) 
-5. [Python转录组学分析框架：Omicverse的安装以及差异分析](https://github.com/ixxmu/mp_duty/issues/3859) 
+1. [单细胞转录组拿到的基因如何去做生存分析](https://github.com/ixxmu/mp_duty/issues/3890) 
+2. [3种EMT打分算法](https://github.com/ixxmu/mp_duty/issues/3887) 
+3. [chatGPT帮助我搞定肿瘤样本EMTscore计算](https://github.com/ixxmu/mp_duty/issues/3886) 
+4. [单细胞水平看生存分析相关基因](https://github.com/ixxmu/mp_duty/issues/3885) 
+5. [两种筛选和分析特定的细胞亚群的技术你pick谁（GFP报告系统和抗体标记）](https://github.com/ixxmu/mp_duty/issues/3882) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
