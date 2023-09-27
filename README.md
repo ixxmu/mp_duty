@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [单核巨噬系统这样的髓系免疫细胞命名有点随意了哦](https://github.com/ixxmu/mp_duty/issues/3898) 
-2. [网页工具可能没必要使用，但它很适合学习底层原理](https://github.com/ixxmu/mp_duty/issues/3897) 
-3. [单细胞转录组拿到的基因如何去做生存分析](https://github.com/ixxmu/mp_duty/issues/3890) 
-4. [3种EMT打分算法](https://github.com/ixxmu/mp_duty/issues/3887) 
-5. [chatGPT帮助我搞定肿瘤样本EMTscore计算](https://github.com/ixxmu/mp_duty/issues/3886) 
+1. [超大文本文件如何快速读取以及写入到硬盘](https://github.com/ixxmu/mp_duty/issues/3915) 
+2. [单细胞各个亚群特异性高表达基因的数据库注释（包括GO,KEGG,ReactomePA）](https://github.com/ixxmu/mp_duty/issues/3914) 
+3. [构建seurat对象之初就应该是把基因名字转换好](https://github.com/ixxmu/mp_duty/issues/3913) 
+4. [单细胞数量太多可以抽样也可以](https://github.com/ixxmu/mp_duty/issues/3912) 
+5. [十分钟完成上周的Science杂志的玉米单细胞文章的数据处理](https://github.com/ixxmu/mp_duty/issues/3911) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
