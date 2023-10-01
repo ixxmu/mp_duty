@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [用R比小心心天花板](https://github.com/ixxmu/mp_duty/issues/3760) 
-2. [文章发表：MicrobiotaProcess - 微生物组数据分析新工具](https://github.com/ixxmu/mp_duty/issues/3751) 
-3. [ggplot2版本的oncoplot来了](https://github.com/ixxmu/mp_duty/issues/3701) 
-4. [clusterProfiler开始支持Pathway Common](https://github.com/ixxmu/mp_duty/issues/3691) 
-5. [简简单单讲insertion size](https://github.com/ixxmu/mp_duty/issues/3642) 
+1. [听说你要在长城内装github包](https://github.com/ixxmu/mp_duty/issues/3926) 
+2. [用R比小心心天花板](https://github.com/ixxmu/mp_duty/issues/3760) 
+3. [文章发表：MicrobiotaProcess - 微生物组数据分析新工具](https://github.com/ixxmu/mp_duty/issues/3751) 
+4. [ggplot2版本的oncoplot来了](https://github.com/ixxmu/mp_duty/issues/3701) 
+5. [clusterProfiler开始支持Pathway Common](https://github.com/ixxmu/mp_duty/issues/3691) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
