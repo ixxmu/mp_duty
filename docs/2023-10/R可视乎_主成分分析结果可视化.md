@@ -1,6 +1,6 @@
 ---
 title: "R可视乎｜主成分分析结果可视化"
-date: 2023-10-02T13:41:45Z
+date: 2023-10-02T13:43:28Z
 draft: ["false"]
 tags: [
   "fetched",
