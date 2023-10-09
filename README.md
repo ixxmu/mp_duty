@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [免疫反应R包IMvigor210CoreBiologies的安装以及数据获取](https://github.com/ixxmu/mp_duty/issues/3795) 
-2. [又是神器！基于单基因批量相关性分析的GSEA](https://github.com/ixxmu/mp_duty/issues/3772) 
-3. [科研利器：如何使用CRISPR screening实现精准的大海捞针？](https://github.com/ixxmu/mp_duty/issues/3684) 
-4. [精彩！洲更的Linux服务器管理直播课来了！](https://github.com/ixxmu/mp_duty/issues/3659) 
-5. [enrichKEGG咋又不能用了？](https://github.com/ixxmu/mp_duty/issues/3499) 
+1. [天哪！GSEA运行可以这么快！](https://github.com/ixxmu/mp_duty/issues/3953) 
+2. [免疫反应R包IMvigor210CoreBiologies的安装以及数据获取](https://github.com/ixxmu/mp_duty/issues/3795) 
+3. [又是神器！基于单基因批量相关性分析的GSEA](https://github.com/ixxmu/mp_duty/issues/3772) 
+4. [科研利器：如何使用CRISPR screening实现精准的大海捞针？](https://github.com/ixxmu/mp_duty/issues/3684) 
+5. [精彩！洲更的Linux服务器管理直播课来了！](https://github.com/ixxmu/mp_duty/issues/3659) 
 <!-- 3issueTable -->
