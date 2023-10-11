@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [单细胞水平的拟时序分析看肿瘤进化关系](https://github.com/ixxmu/mp_duty/issues/3958) 
-2. [癌症研究中单细胞数据分析的5个难点](https://github.com/ixxmu/mp_duty/issues/3957) 
-3. [癌症研究中单细胞数据分析的5个难点](https://github.com/ixxmu/mp_duty/issues/3956) 
-4. [基于R语言的ggplot2绘图体系知识点合辑](https://github.com/ixxmu/mp_duty/issues/3938) 
-5. [BD单细胞转录组分析怕不是一个笑话吧](https://github.com/ixxmu/mp_duty/issues/3928) 
+1. [学徒作业-2021-专辑目录](https://github.com/ixxmu/mp_duty/issues/3964) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
+2. [生信游民-专辑目录](https://github.com/ixxmu/mp_duty/issues/3963) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
+3. [学徒作业-2022-专辑目录](https://github.com/ixxmu/mp_duty/issues/3962) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
+4. [使用DecontX预测和去除单细胞转录组的环境游离RNA污染](https://github.com/ixxmu/mp_duty/issues/3961) 
+5. [单细胞水平的拟时序分析看肿瘤进化关系](https://github.com/ixxmu/mp_duty/issues/3958) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
