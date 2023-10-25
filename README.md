@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [执行系统指令：小如麻雀的函数](https://github.com/ixxmu/mp_duty/issues/3960) 
-2. [加载包顺道把包给安装了](https://github.com/ixxmu/mp_duty/issues/3933) 
-3. [听说你要在长城内装github包](https://github.com/ixxmu/mp_duty/issues/3926) 
-4. [用R比小心心天花板](https://github.com/ixxmu/mp_duty/issues/3760) 
-5. [文章发表：MicrobiotaProcess - 微生物组数据分析新工具](https://github.com/ixxmu/mp_duty/issues/3751) 
+1. [KEGG的富集分析终于真的本地化了。](https://github.com/ixxmu/mp_duty/issues/4013) 
+2. [执行系统指令：小如麻雀的函数](https://github.com/ixxmu/mp_duty/issues/3960) 
+3. [加载包顺道把包给安装了](https://github.com/ixxmu/mp_duty/issues/3933) 
+4. [听说你要在长城内装github包](https://github.com/ixxmu/mp_duty/issues/3926) 
+5. [用R比小心心天花板](https://github.com/ixxmu/mp_duty/issues/3760) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
