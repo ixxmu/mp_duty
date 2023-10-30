@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [快来使用EcoTyper进行单细胞数据挖掘吧](https://github.com/ixxmu/mp_duty/issues/3993) 
-2. [单细胞数据挖掘的内卷时代](https://github.com/ixxmu/mp_duty/issues/3982) 
-3. [100个单细胞转录组数据降维聚类分群图表复现](https://github.com/ixxmu/mp_duty/issues/3981) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
-4. [学徒作业-单基因的tcga数据挖掘分析](https://github.com/ixxmu/mp_duty/issues/3967) 
-5. [学徒作业-2021-专辑目录](https://github.com/ixxmu/mp_duty/issues/3964) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
+1. [关键单细胞亚群辅助判定之生存分析](https://github.com/ixxmu/mp_duty/issues/4038) 
+2. [图表代码复现是否有意义先不谈但是它起码有钱拿啊](https://github.com/ixxmu/mp_duty/issues/4037) 
+3. [快来使用EcoTyper进行单细胞数据挖掘吧](https://github.com/ixxmu/mp_duty/issues/3993) 
+4. [单细胞数据挖掘的内卷时代](https://github.com/ixxmu/mp_duty/issues/3982) 
+5. [100个单细胞转录组数据降维聚类分群图表复现](https://github.com/ixxmu/mp_duty/issues/3981) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
