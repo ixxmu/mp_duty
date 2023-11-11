@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [表达量芯片的代码当然是可以移植到转录组测序数据分析](https://github.com/ixxmu/mp_duty/issues/4066) 
-2. [时间序列转录组多次差异分析以及时序分析](https://github.com/ixxmu/mp_duty/issues/4064) 
-3. [殊路同归的关键单细胞亚群鉴定算法](https://github.com/ixxmu/mp_duty/issues/4050) 
-4. [细胞通讯分析结果的解读](https://github.com/ixxmu/mp_duty/issues/4047) 
-5. [给学徒的ATAC-seq数据实战（附上收费视频）](https://github.com/ixxmu/mp_duty/issues/4043) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+1. [任意物种的go和kegg数据库注释（视频号直播互动答疑）](https://github.com/ixxmu/mp_duty/issues/4074) 
+2. [表达量芯片的代码当然是可以移植到转录组测序数据分析](https://github.com/ixxmu/mp_duty/issues/4066) 
+3. [时间序列转录组多次差异分析以及时序分析](https://github.com/ixxmu/mp_duty/issues/4064) 
+4. [殊路同归的关键单细胞亚群鉴定算法](https://github.com/ixxmu/mp_duty/issues/4050) 
+5. [细胞通讯分析结果的解读](https://github.com/ixxmu/mp_duty/issues/4047) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
