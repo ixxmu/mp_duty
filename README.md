@@ -1,20 +1,20 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [给你一个病毒感染与否的时间序列采样的转录组你能挖掘出什么](https://github.com/ixxmu/mp_duty/issues/4086) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
-2. [任意物种的go和kegg数据库注释（视频号直播互动答疑）](https://github.com/ixxmu/mp_duty/issues/4074) 
-3. [表达量芯片的代码当然是可以移植到转录组测序数据分析](https://github.com/ixxmu/mp_duty/issues/4066) 
-4. [时间序列转录组多次差异分析以及时序分析](https://github.com/ixxmu/mp_duty/issues/4064) 
-5. [殊路同归的关键单细胞亚群鉴定算法](https://github.com/ixxmu/mp_duty/issues/4050) 
+1. [假如你不喜欢最新版的Seurat包的单细胞理念](https://github.com/ixxmu/mp_duty/issues/4093) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
+2. [单细胞差异分析之pseudobulk的3种实现方法](https://github.com/ixxmu/mp_duty/issues/4089) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
+3. [给你一个病毒感染与否的时间序列采样的转录组你能挖掘出什么](https://github.com/ixxmu/mp_duty/issues/4086) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
+4. [任意物种的go和kegg数据库注释（视频号直播互动答疑）](https://github.com/ixxmu/mp_duty/issues/4074) 
+5. [表达量芯片的代码当然是可以移植到转录组测序数据分析](https://github.com/ixxmu/mp_duty/issues/4066) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [高亮某些通路？](https://github.com/ixxmu/mp_duty/issues/4060) 
-2. [ggsc：用ggplot语法来画你的单细胞数据](https://github.com/ixxmu/mp_duty/issues/4021) 
-3. [KEGG的富集分析终于真的本地化了。](https://github.com/ixxmu/mp_duty/issues/4013) 
-4. [执行系统指令：小如麻雀的函数](https://github.com/ixxmu/mp_duty/issues/3960) 
-5. [加载包顺道把包给安装了](https://github.com/ixxmu/mp_duty/issues/3933) 
+1. [YuLab Journal Club | 20231107 多模态数据整合构建人类妊娠早期滋养细胞发育图谱](https://github.com/ixxmu/mp_duty/issues/4096) 
+2. [高亮某些通路？](https://github.com/ixxmu/mp_duty/issues/4060) 
+3. [ggsc：用ggplot语法来画你的单细胞数据](https://github.com/ixxmu/mp_duty/issues/4021) 
+4. [KEGG的富集分析终于真的本地化了。](https://github.com/ixxmu/mp_duty/issues/4013) 
+5. [执行系统指令：小如麻雀的函数](https://github.com/ixxmu/mp_duty/issues/3960) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
