@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [YuLab Journal Club | 20231107 多模态数据整合构建人类妊娠早期滋养细胞发育图谱](https://github.com/ixxmu/mp_duty/issues/4096) 
-2. [高亮某些通路？](https://github.com/ixxmu/mp_duty/issues/4060) 
-3. [ggsc：用ggplot语法来画你的单细胞数据](https://github.com/ixxmu/mp_duty/issues/4021) 
-4. [KEGG的富集分析终于真的本地化了。](https://github.com/ixxmu/mp_duty/issues/4013) 
-5. [执行系统指令：小如麻雀的函数](https://github.com/ixxmu/mp_duty/issues/3960) 
+1. [和降维图保持一致的细胞类群统计图](https://github.com/ixxmu/mp_duty/issues/4105) 
+2. [YuLab Journal Club | 20231107 多模态数据整合构建人类妊娠早期滋养细胞发育图谱](https://github.com/ixxmu/mp_duty/issues/4096) 
+3. [高亮某些通路？](https://github.com/ixxmu/mp_duty/issues/4060) 
+4. [ggsc：用ggplot语法来画你的单细胞数据](https://github.com/ixxmu/mp_duty/issues/4021) 
+5. [KEGG的富集分析终于真的本地化了。](https://github.com/ixxmu/mp_duty/issues/4013) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
