@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [假如你不喜欢最新版的Seurat包的单细胞理念](https://github.com/ixxmu/mp_duty/issues/4093) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
-2. [单细胞差异分析之pseudobulk的3种实现方法](https://github.com/ixxmu/mp_duty/issues/4089) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
-3. [给你一个病毒感染与否的时间序列采样的转录组你能挖掘出什么](https://github.com/ixxmu/mp_duty/issues/4086) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
-4. [任意物种的go和kegg数据库注释（视频号直播互动答疑）](https://github.com/ixxmu/mp_duty/issues/4074) 
-5. [表达量芯片的代码当然是可以移植到转录组测序数据分析](https://github.com/ixxmu/mp_duty/issues/4066) 
+1. [NAR | STOmicsDB：用于时空组数据共享、分析和可视化的综合数据库](https://github.com/ixxmu/mp_duty/issues/4112) 
+2. [scanpy和Seurat单细胞分析对比](https://github.com/ixxmu/mp_duty/issues/4111) 
+3. [假如你不喜欢最新版的Seurat包的单细胞理念](https://github.com/ixxmu/mp_duty/issues/4093) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
+4. [单细胞差异分析之pseudobulk的3种实现方法](https://github.com/ixxmu/mp_duty/issues/4089) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
+5. [给你一个病毒感染与否的时间序列采样的转录组你能挖掘出什么](https://github.com/ixxmu/mp_duty/issues/4086) [![差异](https://img.shields.io/github/labels/ixxmu/mp_duty/差异)](https://github.com/ixxmu/mp_duty/labels/差异)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
