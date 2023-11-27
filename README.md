@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [爬虫的10种思路](https://github.com/ixxmu/mp_duty/issues/4144) 
-2. [亚群细分及表型相关的关键亚群鉴定](https://github.com/ixxmu/mp_duty/issues/4133) [![源码](https://img.shields.io/github/labels/ixxmu/mp_duty/源码)](https://github.com/ixxmu/mp_duty/labels/源码)
-3. [是否有必要对癌症病人的血液采样做单细胞转录组呢](https://github.com/ixxmu/mp_duty/issues/4132) [![思路](https://img.shields.io/github/labels/ixxmu/mp_duty/思路)](https://github.com/ixxmu/mp_duty/labels/思路)
-4. [NAR | STOmicsDB：用于时空组数据共享、分析和可视化的综合数据库](https://github.com/ixxmu/mp_duty/issues/4112) 
-5. [scanpy和Seurat单细胞分析对比](https://github.com/ixxmu/mp_duty/issues/4111) 
+1. [任意单细胞转录组的细胞通讯结果都是CAF和TAM的信号最多吧](https://github.com/ixxmu/mp_duty/issues/4158) 
+2. [中国科学院大学的2023的基因组学授课视频和PPT](https://github.com/ixxmu/mp_duty/issues/4157) 
+3. [爬虫的10种思路](https://github.com/ixxmu/mp_duty/issues/4144) 
+4. [亚群细分及表型相关的关键亚群鉴定](https://github.com/ixxmu/mp_duty/issues/4133) [![源码](https://img.shields.io/github/labels/ixxmu/mp_duty/源码)](https://github.com/ixxmu/mp_duty/labels/源码)
+5. [是否有必要对癌症病人的血液采样做单细胞转录组呢](https://github.com/ixxmu/mp_duty/issues/4132) [![思路](https://img.shields.io/github/labels/ixxmu/mp_duty/思路)](https://github.com/ixxmu/mp_duty/labels/思路)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
