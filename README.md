@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [irGSEA：基于秩次的单细胞基因集富集分析整合框架](https://github.com/ixxmu/mp_duty/issues/4193) 
-2. [生物学功能注释三板斧](https://github.com/ixxmu/mp_duty/issues/4181) 
-3. [甲基化芯片的3种bioconductor包有什么区别](https://github.com/ixxmu/mp_duty/issues/4177) 
-4. [癌症研究几百年了难道连疾病进展过程的细胞比例变化都搞不清楚吗](https://github.com/ixxmu/mp_duty/issues/4176) 
-5. [肿瘤相关成纤维单细胞亚群的iCAF和myCAF迷思](https://github.com/ixxmu/mp_duty/issues/4169) 
+1. [生信分析和实验结果哪个更可靠（我和y叔的回答）](https://github.com/ixxmu/mp_duty/issues/4199) 
+2. [irGSEA：基于秩次的单细胞基因集富集分析整合框架](https://github.com/ixxmu/mp_duty/issues/4193) 
+3. [生物学功能注释三板斧](https://github.com/ixxmu/mp_duty/issues/4181) 
+4. [甲基化芯片的3种bioconductor包有什么区别](https://github.com/ixxmu/mp_duty/issues/4177) 
+5. [癌症研究几百年了难道连疾病进展过程的细胞比例变化都搞不清楚吗](https://github.com/ixxmu/mp_duty/issues/4176) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
