@@ -1,0 +1,15 @@
+---
+title: "Nature Methods | scATAC分析第一步怎么做最佳？"
+date: 2023-12-08T01:59:47Z
+draft: ["false"]
+tags: [
+  "fetched",
+  "生信编程自修室"
+]
+categories: ["Acdemic"]
+---
+Nature Methods | scATAC分析第一步怎么做最佳？ by 生信编程自修室
+------
+<div><p><span>这是一期文献速递，分享一篇Brief Communications~~</span></p><p>在我们上一期 scATAC 的推文（<a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MzU3MTY3ODA2Mw==&amp;mid=2247485693&amp;idx=1&amp;sn=f1b36c2e033a0aaad446b24606108cc6&amp;chksm=fcddc4fdcbaa4debd2dec8d17a1eaef6e3cb97b3f2b802add69ad05ee326fdef080b25d5f5d6&amp;scene=21#wechat_redirect" textvalue="单细胞 ATAC 测序 | Why &amp; How？" linktype="text" imgurl="" imgdata="null" data-itemshowtype="0" tab="innerlink" data-linktype="2">单细胞 ATAC 测序 | Why &amp; How？</a>）中，我们提到 scATAC-seq 数据的数据特征。其中，不同的算法流程定义 count matrix 有很大的不同：</p><ul><li><section>10X Cellranger: read-counting</section></li><li><section>Signac: Fragment-counting</section></li><li><section>ArchR: insertion-counting(默认还会进行二值化，1 代表 open，0 代表 closed)</section></li></ul><blockquote><p>ArchR 中的 insertion counts 类似于 Fragment count。但是，它是经过正链+4 负链-5 校正后的切割位点（insertion），然后通过切割位点与 Peak/Window 的重叠来进行 count。</p></blockquote><section><span>近日， 一篇有趣的短文“Modeling fragment counts improves single-cell ATAC-seq analysis”在</span><em>Nature Methods</em><span>发表，结论是：fragment counts 最优，比二值化更具有信息量，比 read count 的数据分布更符合 Poisson 分布。</span></section><section><span><img data-imgfileid="100002089" data-ratio="0.6342592592592593" data-src="https://mmbiz.qpic.cn/mmbiz_png/rWiaFvFngFbTQBdh7W7UQDDibquUFxuva0UFa3PXibcKUnHvYiblGvW2mPzsg5F6DLpyJ3MHXCs6ad0SnI3sPcNulg/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_png/rWiaFvFngFbTQBdh7W7UQDDibquUFxuva0UFa3PXibcKUnHvYiblGvW2mPzsg5F6DLpyJ3MHXCs6ad0SnI3sPcNulg/640?wx_fmt=png&amp;from=appmsg"></span></section><section><span><span>该论文具体信息可点击下方<strong>阅读原文</strong>！</span></span></section><section><span><span><strong>scATAC-seq视频教程： <br></strong></span></span></section><ul data-tool="markdown.com.cn编辑器"><li><section><p>第三期，Signac分析scATAC-seq数据，视频地址: https://www.bilibili.com/video/BV1ig4y1j7eC</p></section></li></ul><section><span><span></span></span></section><ul data-tool="markdown.com.cn编辑器"><li><section><p>第二期，scATAC-seq 单细胞染色质可及性数据全流程分析-最佳实践，视频地址: https://www.bilibili.com/video/BV1Pe4y187eU</p></section></li><li><section><p>第一期，单细胞染色质可及性 (scATAC-seq) 数据分析概述，视频地址: https://www.bilibili.com/video/BV1MV4y1777Y</p></section></li></ul><section><span><span>我们持续专注单细胞多组学测序等领域！欢迎关注下方公众号，下回更新不迷路~</span></span></section><section><span><span></span></span></section><section><mp-common-profile data-pluginname="mpprofile" data-id="MzU3MTY3ODA2Mw==" data-headimg="http://mmbiz.qpic.cn/mmbiz_png/rWiaFvFngFbQynpMRF2zxfbyAAKD7HObpc4ewnMg5WRK5u69FSRHb6aZreFxa2T6mKOKNKoltuuFDQtvh9VFdibQ/0?wx_fmt=png" data-nickname="生信编程自修室" data-alias="bio-informatics" data-signature="专注python、R语言编程、数据可视化、生物信息多组学分析" data-from="0" data-is_biz_ban="0"></mp-common-profile></section><p><mp-style-type data-value="3"></mp-style-type></p></div>  
+<hr>
+<a href="https://mp.weixin.qq.com/s/53mX55v8qYpbUMhBobLCPQ",target="_blank" rel="noopener noreferrer">原文链接</a>
