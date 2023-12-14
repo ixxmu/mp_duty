@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [YuLab JC | HPV插入分析](https://github.com/ixxmu/mp_duty/issues/4205) 
-2. [和降维图保持一致的细胞类群统计图](https://github.com/ixxmu/mp_duty/issues/4173) 
-3. [让我们把细胞类群功能刻画与数目统计画在一起吧](https://github.com/ixxmu/mp_duty/issues/4172) 
-4. [YuLab JC | 小鼠大脑皮层细胞多样化的分子逻辑](https://github.com/ixxmu/mp_duty/issues/4164) 
-5. [文章发表：ggbreak让你更好地利用画图空间](https://github.com/ixxmu/mp_duty/issues/4149) 
+1. [YuLab JC | 空间转录组学描绘了肺腺癌进展中的分子特征和细胞可塑性](https://github.com/ixxmu/mp_duty/issues/4234) [![套路](https://img.shields.io/github/labels/ixxmu/mp_duty/套路)](https://github.com/ixxmu/mp_duty/labels/套路)
+2. [YuLab JC | HPV插入分析](https://github.com/ixxmu/mp_duty/issues/4205) 
+3. [和降维图保持一致的细胞类群统计图](https://github.com/ixxmu/mp_duty/issues/4173) 
+4. [让我们把细胞类群功能刻画与数目统计画在一起吧](https://github.com/ixxmu/mp_duty/issues/4172) 
+5. [YuLab JC | 小鼠大脑皮层细胞多样化的分子逻辑](https://github.com/ixxmu/mp_duty/issues/4164) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
