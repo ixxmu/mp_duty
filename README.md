@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [从计算机行业看生物信息学行业的发展规律](https://github.com/ixxmu/mp_duty/issues/4281) 
-2. [为什么CD4和CD8两个不同T细胞亚群需要各自内部独立做拟时序分析](https://github.com/ixxmu/mp_duty/issues/4278) 
-3. [使用topGO增强你的GO数据库注释结果的可视化](https://github.com/ixxmu/mp_duty/issues/4212) 
-4. [你的时薪是自己弄低的](https://github.com/ixxmu/mp_duty/issues/4203) 
-5. [单细胞亚群细分这样弄可能不妥](https://github.com/ixxmu/mp_duty/issues/4202) 
+1. [完成任意癌症的任意基因突变与否分组后的转录组测序的差异分析](https://github.com/ixxmu/mp_duty/issues/4290) 
+2. [从计算机行业看生物信息学行业的发展规律](https://github.com/ixxmu/mp_duty/issues/4281) 
+3. [为什么CD4和CD8两个不同T细胞亚群需要各自内部独立做拟时序分析](https://github.com/ixxmu/mp_duty/issues/4278) 
+4. [使用topGO增强你的GO数据库注释结果的可视化](https://github.com/ixxmu/mp_duty/issues/4212) 
+5. [你的时薪是自己弄低的](https://github.com/ixxmu/mp_duty/issues/4203) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
