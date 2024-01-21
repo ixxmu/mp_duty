@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [新冠感染死亡患者的肺部单细胞图谱Python全流程](https://github.com/ixxmu/mp_duty/issues/4389) 
-2. [单细胞水平的肿瘤异质性可以如何计算？](https://github.com/ixxmu/mp_duty/issues/4385) 
-3. [辣鸡科研搞一次就算了吧](https://github.com/ixxmu/mp_duty/issues/4338) 
-4. [Python初体验之你可能需要Jupter的Notebook](https://github.com/ixxmu/mp_duty/issues/4310) 
-5. [使用Seurat的v5来读取多个不是10x标准文件的单细胞项目](https://github.com/ixxmu/mp_duty/issues/4298) [![v5](https://img.shields.io/github/labels/ixxmu/mp_duty/v5)](https://github.com/ixxmu/mp_duty/labels/v5)
+1. [能从源头解决数据分析的瑕疵吗](https://github.com/ixxmu/mp_duty/issues/4403) [![源码](https://img.shields.io/github/labels/ixxmu/mp_duty/源码)](https://github.com/ixxmu/mp_duty/labels/源码)
+2. [新冠感染死亡患者的肺部单细胞图谱Python全流程](https://github.com/ixxmu/mp_duty/issues/4389) 
+3. [单细胞水平的肿瘤异质性可以如何计算？](https://github.com/ixxmu/mp_duty/issues/4385) 
+4. [辣鸡科研搞一次就算了吧](https://github.com/ixxmu/mp_duty/issues/4338) 
+5. [Python初体验之你可能需要Jupter的Notebook](https://github.com/ixxmu/mp_duty/issues/4310) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
