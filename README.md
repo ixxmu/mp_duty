@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [假如你的两个分组真的就是都有且仅有一个样品该如何做差异分析呢](https://github.com/ixxmu/mp_duty/issues/4430) 
-2. [把火山图做成烟花图](https://github.com/ixxmu/mp_duty/issues/4429) 
-3. [配对肝癌病人的拷贝数变异数据揭示癌症相关基因](https://github.com/ixxmu/mp_duty/issues/4428) 
-4. [ATAC-seq(下)](https://github.com/ixxmu/mp_duty/issues/4407) 
-5. [能从源头解决数据分析的瑕疵吗](https://github.com/ixxmu/mp_duty/issues/4403) [![源码](https://img.shields.io/github/labels/ixxmu/mp_duty/源码)](https://github.com/ixxmu/mp_duty/labels/源码)
+1. [我以为300万个单细胞已经很牛](https://github.com/ixxmu/mp_duty/issues/4439) 
+2. [假如你的两个分组真的就是都有且仅有一个样品该如何做差异分析呢](https://github.com/ixxmu/mp_duty/issues/4430) 
+3. [把火山图做成烟花图](https://github.com/ixxmu/mp_duty/issues/4429) 
+4. [配对肝癌病人的拷贝数变异数据揭示癌症相关基因](https://github.com/ixxmu/mp_duty/issues/4428) 
+5. [ATAC-seq(下)](https://github.com/ixxmu/mp_duty/issues/4407) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
