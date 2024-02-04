@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [漫画介绍孟德尔随机化](https://github.com/ixxmu/mp_duty/issues/4462) 
-2. [我以为300万个单细胞已经很牛](https://github.com/ixxmu/mp_duty/issues/4439) 
-3. [假如你的两个分组真的就是都有且仅有一个样品该如何做差异分析呢](https://github.com/ixxmu/mp_duty/issues/4430) 
-4. [把火山图做成烟花图](https://github.com/ixxmu/mp_duty/issues/4429) 
-5. [配对肝癌病人的拷贝数变异数据揭示癌症相关基因](https://github.com/ixxmu/mp_duty/issues/4428) 
+1. [先差异后GSEA呢还是先ssGSEA后差异呢](https://github.com/ixxmu/mp_duty/issues/4472) 
+2. [9步骤完成单细胞数据挖掘文章全部图表复现](https://github.com/ixxmu/mp_duty/issues/4471) 
+3. [漫画介绍孟德尔随机化](https://github.com/ixxmu/mp_duty/issues/4462) 
+4. [我以为300万个单细胞已经很牛](https://github.com/ixxmu/mp_duty/issues/4439) 
+5. [假如你的两个分组真的就是都有且仅有一个样品该如何做差异分析呢](https://github.com/ixxmu/mp_duty/issues/4430) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
