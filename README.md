@@ -10,11 +10,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [YuLab JC | 免疫细胞图谱揭示了产前发育过程中人类巨噬细胞的特化动态](https://github.com/ixxmu/mp_duty/issues/4465) [![文献解读](https://img.shields.io/github/labels/ixxmu/mp_duty/文献解读)](https://github.com/ixxmu/mp_duty/labels/文献解读)
-2. [YuLab JC |  单细胞数据去批次效应](https://github.com/ixxmu/mp_duty/issues/4424) 
-3. [不仅仅是翻译的fanyi包](https://github.com/ixxmu/mp_duty/issues/4347) 
-4. [文章发表：MMINP-微生物相关代谢物预测工具](https://github.com/ixxmu/mp_duty/issues/4279) 
-5. [YuLab JC | 空间转录组学描绘了肺腺癌进展中的分子特征和细胞可塑性](https://github.com/ixxmu/mp_duty/issues/4234) [![套路](https://img.shields.io/github/labels/ixxmu/mp_duty/套路)](https://github.com/ixxmu/mp_duty/labels/套路)
+1. [ggbreak：你们要的坐标轴截断，它来了](https://github.com/ixxmu/mp_duty/issues/4496) 
+2. [YuLab JC | 免疫细胞图谱揭示了产前发育过程中人类巨噬细胞的特化动态](https://github.com/ixxmu/mp_duty/issues/4465) [![文献解读](https://img.shields.io/github/labels/ixxmu/mp_duty/文献解读)](https://github.com/ixxmu/mp_duty/labels/文献解读)
+3. [YuLab JC |  单细胞数据去批次效应](https://github.com/ixxmu/mp_duty/issues/4424) 
+4. [不仅仅是翻译的fanyi包](https://github.com/ixxmu/mp_duty/issues/4347) 
+5. [文章发表：MMINP-微生物相关代谢物预测工具](https://github.com/ixxmu/mp_duty/issues/4279) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
