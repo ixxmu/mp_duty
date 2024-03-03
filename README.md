@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [巨噬细胞新分类体系（放弃传统M1和M2）](https://github.com/ixxmu/mp_duty/issues/4609) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
-2. [我的巨噬细胞少了一个亚群吗，我错了吗](https://github.com/ixxmu/mp_duty/issues/4607) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
-3. [跑一个肝癌的单细胞转录组10x数据定量流程](https://github.com/ixxmu/mp_duty/issues/4603) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
-4. [100篇泛癌研究文献解读之肿瘤免疫浸润情况](https://github.com/ixxmu/mp_duty/issues/4601) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
-5. [单细胞转录组数据的批量GSVA代码](https://github.com/ixxmu/mp_duty/issues/4600) 
+1. [单细胞水平的肿瘤异质性可以如何计算？](https://github.com/ixxmu/mp_duty/issues/4614) 
+2. [单细胞转录组的3种常规数据分析思路](https://github.com/ixxmu/mp_duty/issues/4613) 
+3. [巨噬细胞新分类体系（放弃传统M1和M2）](https://github.com/ixxmu/mp_duty/issues/4609) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
+4. [我的巨噬细胞少了一个亚群吗，我错了吗](https://github.com/ixxmu/mp_duty/issues/4607) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
+5. [跑一个肝癌的单细胞转录组10x数据定量流程](https://github.com/ixxmu/mp_duty/issues/4603) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
