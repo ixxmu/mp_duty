@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [你离在science发表文章还差4个单细胞数据项目](https://github.com/ixxmu/mp_duty/issues/4631) 
-2. [一份单细胞数据多篇顶刊文章（这就是生信大神课题组实力吧）](https://github.com/ixxmu/mp_duty/issues/4623) 
-3. [不走寻常路的单细胞表达量矩阵读取](https://github.com/ixxmu/mp_duty/issues/4615) 
-4. [单细胞水平的肿瘤异质性可以如何计算？](https://github.com/ixxmu/mp_duty/issues/4614) 
-5. [单细胞转录组的3种常规数据分析思路](https://github.com/ixxmu/mp_duty/issues/4613) 
+1. [10x技术空间单细胞上游定量案例分享（E-MTAB-12043）](https://github.com/ixxmu/mp_duty/issues/4637) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+2. [你离在science发表文章还差4个单细胞数据项目](https://github.com/ixxmu/mp_duty/issues/4631) 
+3. [一份单细胞数据多篇顶刊文章（这就是生信大神课题组实力吧）](https://github.com/ixxmu/mp_duty/issues/4623) 
+4. [不走寻常路的单细胞表达量矩阵读取](https://github.com/ixxmu/mp_duty/issues/4615) 
+5. [单细胞水平的肿瘤异质性可以如何计算？](https://github.com/ixxmu/mp_duty/issues/4614) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
