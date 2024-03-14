@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [强行找差异越来越成为了主流](https://github.com/ixxmu/mp_duty/issues/4658) 
-2. [取单细胞亚群子集细分的时候一定会出现干扰亚群（所以不要惊慌）](https://github.com/ixxmu/mp_duty/issues/4653) 
-3. [为什么做拟时序（拟时序一本通01）](https://github.com/ixxmu/mp_duty/issues/4648) 
-4. [10x技术空间单细胞上游定量案例分享（E-MTAB-12043）](https://github.com/ixxmu/mp_duty/issues/4637) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-5. [你离在science发表文章还差4个单细胞数据项目](https://github.com/ixxmu/mp_duty/issues/4631) 
+1. [明明是可以省下这两三百万科研经费](https://github.com/ixxmu/mp_duty/issues/4665) 
+2. [强行找差异越来越成为了主流](https://github.com/ixxmu/mp_duty/issues/4658) 
+3. [取单细胞亚群子集细分的时候一定会出现干扰亚群（所以不要惊慌）](https://github.com/ixxmu/mp_duty/issues/4653) 
+4. [为什么做拟时序（拟时序一本通01）](https://github.com/ixxmu/mp_duty/issues/4648) 
+5. [10x技术空间单细胞上游定量案例分享（E-MTAB-12043）](https://github.com/ixxmu/mp_duty/issues/4637) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
