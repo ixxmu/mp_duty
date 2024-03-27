@@ -1,0 +1,51 @@
+name: push md files to source branch
+on:
+  workflow_run:
+    workflows: ["generate a Markdown file"]
+    types:
+      - completed
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4.1.1
+        
+    - name: Pushes test file to bk
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.PUSH_MD }}
+      with:
+        source_file: 'posts'
+        destination_repo: 'ixxmu/duty_bk'
+        destination_branch: 'main'
+        destination_folder: 'mp_duty/'
+        user_email: ${{ secrets.MY_EMAIL }}
+        user_name: 'ixxmu'
+        commit_message: 'A custom message for the commit'
+
+    - name: Wait for file pushing
+      run: sleep 10 & pwd
+
+    - name: Delete Source Files
+      run: |
+        rm -rf posts # 删除源文件夹
+      
+    - name: Delete Source Files
+      run: |
+        echo "Deleting posts directory..."
+        ls -alh # 打印当前目录结构以供检查
+        rm -rf posts # 删除posts文件夹
+        echo "After deletion:"
+        ls -alh # 再次打印当前目录结构确认删除
+      shell: bash
+      
+    - name: Commit and Push Deletion
+      run: |
+        git config --global user.email ${{ secrets.MY_EMAIL }}
+        git config --global user.name "ixxmu"
+        git rm -rf posts
+        git commit -m "A custom message for the commit"
+        git push origin HEAD
+      shell: bash
+      
