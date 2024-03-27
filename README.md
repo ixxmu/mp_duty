@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [论单细胞数据造假的可能性](https://github.com/ixxmu/mp_duty/issues/4704) 
-2. [明明是可以省下这两三百万科研经费](https://github.com/ixxmu/mp_duty/issues/4665) 
-3. [强行找差异越来越成为了主流](https://github.com/ixxmu/mp_duty/issues/4658) 
-4. [取单细胞亚群子集细分的时候一定会出现干扰亚群（所以不要惊慌）](https://github.com/ixxmu/mp_duty/issues/4653) 
-5. [为什么做拟时序（拟时序一本通01）](https://github.com/ixxmu/mp_duty/issues/4648) 
+1. [DRMref——人类耐药机制参考数据库](https://github.com/ixxmu/mp_duty/issues/4736) 
+2. [论单细胞数据造假的可能性](https://github.com/ixxmu/mp_duty/issues/4704) 
+3. [明明是可以省下这两三百万科研经费](https://github.com/ixxmu/mp_duty/issues/4665) 
+4. [强行找差异越来越成为了主流](https://github.com/ixxmu/mp_duty/issues/4658) 
+5. [取单细胞亚群子集细分的时候一定会出现干扰亚群（所以不要惊慌）](https://github.com/ixxmu/mp_duty/issues/4653) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
