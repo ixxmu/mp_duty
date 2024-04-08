@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [终于过上了半年不需要培养实习生的神仙日子](https://github.com/ixxmu/mp_duty/issues/4753) 
-2. [DRMref——人类耐药机制参考数据库](https://github.com/ixxmu/mp_duty/issues/4748) 
-3. [一行代码就能发生信顶刊的GPTCelltype做单细胞亚群注释](https://github.com/ixxmu/mp_duty/issues/4739) 
-4. [论单细胞数据造假的可能性](https://github.com/ixxmu/mp_duty/issues/4704) 
-5. [明明是可以省下这两三百万科研经费](https://github.com/ixxmu/mp_duty/issues/4665) 
+1. [建议生信工程师没事多面试看看](https://github.com/ixxmu/mp_duty/issues/4803) 
+2. [基于Seurat的TransferData函数自动化迁移单细胞转录组亚群的注释信息](https://github.com/ixxmu/mp_duty/issues/4802) 
+3. [使用singleR基于自建数据库来自动化注释单细胞转录组亚群](https://github.com/ixxmu/mp_duty/issues/4800) 
+4. [终于过上了半年不需要培养实习生的神仙日子](https://github.com/ixxmu/mp_duty/issues/4753) 
+5. [DRMref——人类耐药机制参考数据库](https://github.com/ixxmu/mp_duty/issues/4748) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
