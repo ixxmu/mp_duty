@@ -21,8 +21,8 @@
 <!-- 3issueTable -->
 
 1. [TGCA数据的标准化以及差异分析](https://github.com/ixxmu/mp_duty/issues/4829) 
-2. [TGCA数据的标准化以及差异分析](https://github.com/ixxmu/mp_duty/issues/4828) 
-3. [动态确定线粒体过滤阈值筛选细胞](https://github.com/ixxmu/mp_duty/issues/4754) 
-4. [天哪！GSEA运行可以这么快！](https://github.com/ixxmu/mp_duty/issues/4602) 
-5. [介绍一种简单可行的V4的Seruat安装方案](https://github.com/ixxmu/mp_duty/issues/4134) 
+2. [动态确定线粒体过滤阈值筛选细胞](https://github.com/ixxmu/mp_duty/issues/4754) 
+3. [天哪！GSEA运行可以这么快！](https://github.com/ixxmu/mp_duty/issues/4602) 
+4. [介绍一种简单可行的V4的Seruat安装方案](https://github.com/ixxmu/mp_duty/issues/4134) 
+5. [一张神图，解决科研统计80%的问题。](https://github.com/ixxmu/mp_duty/issues/4125) 
 <!-- 3issueTable -->
