@@ -1,6 +1,6 @@
 ---
 title: "GSEA只看排序吗？"
-date: 2024-05-08T03:35:15Z
+date: 2024-05-08T03:25:29Z
 draft: ["false"]
 tags: [
   "fetched",
