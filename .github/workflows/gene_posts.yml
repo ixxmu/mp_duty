@@ -7,7 +7,7 @@ jobs:
     if: ${{ contains(github.event.issue.labels.*.name, 'fetched') }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.1.0
+      - uses: actions/checkout@v4.1.1
       - name: Find Comment
         uses: peter-evans/find-comment@v2.0.1
         id: bot
