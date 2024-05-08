@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [生物医药寒冬下那些被裁员的年轻人](https://github.com/ixxmu/mp_duty/issues/4870) 
-2. [非模式生物构建10x单细胞转录组CellRanger参考文件](https://github.com/ixxmu/mp_duty/issues/4841) 
-3. [两个基因组合起来对样品分组后差异分析和生存分析](https://github.com/ixxmu/mp_duty/issues/4835) 
-4. [数据处理过程中的合理的质量控制是很有必要的](https://github.com/ixxmu/mp_duty/issues/4826) 
-5. [建议生信工程师没事多面试看看](https://github.com/ixxmu/mp_duty/issues/4803) 
+1. [不同形式的基因排序方法会影响gsea富集分析结果](https://github.com/ixxmu/mp_duty/issues/4906) 
+2. [生物医药寒冬下那些被裁员的年轻人](https://github.com/ixxmu/mp_duty/issues/4870) 
+3. [非模式生物构建10x单细胞转录组CellRanger参考文件](https://github.com/ixxmu/mp_duty/issues/4841) 
+4. [两个基因组合起来对样品分组后差异分析和生存分析](https://github.com/ixxmu/mp_duty/issues/4835) 
+5. [数据处理过程中的合理的质量控制是很有必要的](https://github.com/ixxmu/mp_duty/issues/4826) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
