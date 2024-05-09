@@ -1,7 +1,7 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [不同形式的基因排序方法会影响gsea富集分析结果](https://github.com/ixxmu/mp_duty/issues/4906) 
+1. [不同形式的基因排序方法会影响gsea富集分析结果](https://github.com/ixxmu/mp_duty/issues/4906) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
 2. [生物医药寒冬下那些被裁员的年轻人](https://github.com/ixxmu/mp_duty/issues/4870) 
 3. [非模式生物构建10x单细胞转录组CellRanger参考文件](https://github.com/ixxmu/mp_duty/issues/4841) 
 4. [两个基因组合起来对样品分组后差异分析和生存分析](https://github.com/ixxmu/mp_duty/issues/4835) 
@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [TGCA数据的标准化以及差异分析](https://github.com/ixxmu/mp_duty/issues/4829) 
-2. [动态确定线粒体过滤阈值筛选细胞](https://github.com/ixxmu/mp_duty/issues/4754) 
-3. [天哪！GSEA运行可以这么快！](https://github.com/ixxmu/mp_duty/issues/4602) 
-4. [介绍一种简单可行的V4的Seruat安装方案](https://github.com/ixxmu/mp_duty/issues/4134) 
-5. [一张神图，解决科研统计80%的问题。](https://github.com/ixxmu/mp_duty/issues/4125) 
+1. [GSEA只看排序吗？](https://github.com/ixxmu/mp_duty/issues/4920) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
+2. [TGCA数据的标准化以及差异分析](https://github.com/ixxmu/mp_duty/issues/4829) 
+3. [动态确定线粒体过滤阈值筛选细胞](https://github.com/ixxmu/mp_duty/issues/4754) 
+4. [天哪！GSEA运行可以这么快！](https://github.com/ixxmu/mp_duty/issues/4602) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
+5. [介绍一种简单可行的V4的Seruat安装方案](https://github.com/ixxmu/mp_duty/issues/4134) 
 <!-- 3issueTable -->
