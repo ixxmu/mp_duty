@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [公共数据库验证出来了就是对的吗](https://github.com/ixxmu/mp_duty/issues/4949) 
-2. [不同形式的基因排序方法会影响gsea富集分析结果](https://github.com/ixxmu/mp_duty/issues/4906) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
-3. [生物医药寒冬下那些被裁员的年轻人](https://github.com/ixxmu/mp_duty/issues/4870) 
-4. [非模式生物构建10x单细胞转录组CellRanger参考文件](https://github.com/ixxmu/mp_duty/issues/4841) 
-5. [两个基因组合起来对样品分组后差异分析和生存分析](https://github.com/ixxmu/mp_duty/issues/4835) 
+1. [两个神经退行性疾病的单细胞核转录组队列的细胞亚群及其标记基因的比较](https://github.com/ixxmu/mp_duty/issues/4965) 
+2. [轻轻松松在R里面拿捏这130万单细胞的数据集](https://github.com/ixxmu/mp_duty/issues/4964) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker)
+3. [公共数据库验证出来了就是对的吗](https://github.com/ixxmu/mp_duty/issues/4949) 
+4. [不同形式的基因排序方法会影响gsea富集分析结果](https://github.com/ixxmu/mp_duty/issues/4906) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
+5. [生物医药寒冬下那些被裁员的年轻人](https://github.com/ixxmu/mp_duty/issues/4870) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
