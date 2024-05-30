@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [单细胞，单细胞，我要diss你！](https://github.com/ixxmu/mp_duty/issues/4968) 
-2. [两个神经退行性疾病的单细胞核转录组队列的细胞亚群及其标记基因的比较](https://github.com/ixxmu/mp_duty/issues/4965) 
-3. [轻轻松松在R里面拿捏这130万单细胞的数据集](https://github.com/ixxmu/mp_duty/issues/4964) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker)
-4. [公共数据库验证出来了就是对的吗](https://github.com/ixxmu/mp_duty/issues/4949) 
-5. [不同形式的基因排序方法会影响gsea富集分析结果](https://github.com/ixxmu/mp_duty/issues/4906) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
+1. [合并两个不同物种的单细胞转录组数据集注意harmony的参数](https://github.com/ixxmu/mp_duty/issues/5014) 
+2. [单细胞，单细胞，我要diss你！](https://github.com/ixxmu/mp_duty/issues/4968) 
+3. [两个神经退行性疾病的单细胞核转录组队列的细胞亚群及其标记基因的比较](https://github.com/ixxmu/mp_duty/issues/4965) 
+4. [轻轻松松在R里面拿捏这130万单细胞的数据集](https://github.com/ixxmu/mp_duty/issues/4964) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker)
+5. [公共数据库验证出来了就是对的吗](https://github.com/ixxmu/mp_duty/issues/4949) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
