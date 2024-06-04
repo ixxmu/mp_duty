@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [两个表达量矩阵去除批次效应之前是否需要归一化](https://github.com/ixxmu/mp_duty/issues/5018) 
-2. [合并两个不同物种的单细胞转录组数据集注意harmony的参数](https://github.com/ixxmu/mp_duty/issues/5014) 
-3. [单细胞，单细胞，我要diss你！](https://github.com/ixxmu/mp_duty/issues/4968) 
-4. [两个神经退行性疾病的单细胞核转录组队列的细胞亚群及其标记基因的比较](https://github.com/ixxmu/mp_duty/issues/4965) 
-5. [轻轻松松在R里面拿捏这130万单细胞的数据集](https://github.com/ixxmu/mp_duty/issues/4964) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker)
+1. [肿瘤相关成纤维单细胞亚群的iCAF和myCAF迷思](https://github.com/ixxmu/mp_duty/issues/5032) 
+2. [两个表达量矩阵去除批次效应之前是否需要归一化](https://github.com/ixxmu/mp_duty/issues/5018) 
+3. [合并两个不同物种的单细胞转录组数据集注意harmony的参数](https://github.com/ixxmu/mp_duty/issues/5014) 
+4. [单细胞，单细胞，我要diss你！](https://github.com/ixxmu/mp_duty/issues/4968) 
+5. [两个神经退行性疾病的单细胞核转录组队列的细胞亚群及其标记基因的比较](https://github.com/ixxmu/mp_duty/issues/4965) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
