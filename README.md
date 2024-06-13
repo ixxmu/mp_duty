@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [Python转录组学分析框架：Omicverse的安装以及差异分析](https://github.com/ixxmu/mp_duty/issues/5072) 
-2. [作者仅提供了fpkm格式表达量矩阵的转录组测序数据集该如何重新分析呢](https://github.com/ixxmu/mp_duty/issues/5047) 
-3. [肿瘤相关成纤维单细胞亚群的iCAF和myCAF迷思](https://github.com/ixxmu/mp_duty/issues/5032) 
-4. [两个表达量矩阵去除批次效应之前是否需要归一化](https://github.com/ixxmu/mp_duty/issues/5018) 
-5. [合并两个不同物种的单细胞转录组数据集注意harmony的参数](https://github.com/ixxmu/mp_duty/issues/5014) 
+1. [100篇泛癌研究文献解读之上皮细胞-间充质细胞转化](https://github.com/ixxmu/mp_duty/issues/5089) 
+2. [多时间点连续的药物处理看转录变化经典例子](https://github.com/ixxmu/mp_duty/issues/5088) 
+3. [Python转录组学分析框架：Omicverse的安装以及差异分析](https://github.com/ixxmu/mp_duty/issues/5072) 
+4. [作者仅提供了fpkm格式表达量矩阵的转录组测序数据集该如何重新分析呢](https://github.com/ixxmu/mp_duty/issues/5047) 
+5. [肿瘤相关成纤维单细胞亚群的iCAF和myCAF迷思](https://github.com/ixxmu/mp_duty/issues/5032) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
