@@ -20,9 +20,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [GSEA只看排序吗？](https://github.com/ixxmu/mp_duty/issues/4920) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
-2. [TGCA数据的标准化以及差异分析](https://github.com/ixxmu/mp_duty/issues/4829) 
-3. [动态确定线粒体过滤阈值筛选细胞](https://github.com/ixxmu/mp_duty/issues/4754) 
-4. [天哪！GSEA运行可以这么快！](https://github.com/ixxmu/mp_duty/issues/4602) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
-5. [介绍一种简单可行的V4的Seruat安装方案](https://github.com/ixxmu/mp_duty/issues/4134) 
+1. [简单几步构建一个单细胞转录组浏览器](https://github.com/ixxmu/mp_duty/issues/5103) 
+2. [GSEA只看排序吗？](https://github.com/ixxmu/mp_duty/issues/4920) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
+3. [TGCA数据的标准化以及差异分析](https://github.com/ixxmu/mp_duty/issues/4829) 
+4. [动态确定线粒体过滤阈值筛选细胞](https://github.com/ixxmu/mp_duty/issues/4754) 
+5. [天哪！GSEA运行可以这么快！](https://github.com/ixxmu/mp_duty/issues/4602) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
 <!-- 3issueTable -->
