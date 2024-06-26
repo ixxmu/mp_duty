@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [3个分组的表达量矩阵的两两之间差异分析](https://github.com/ixxmu/mp_duty/issues/5137) 
-2. [拟时序的多种算法大比拼（拟时序一本通03）](https://github.com/ixxmu/mp_duty/issues/5096) 
-3. [拟时序的正确姿势（拟时序一本通02）](https://github.com/ixxmu/mp_duty/issues/5095) 
-4. [100篇泛癌研究文献解读之上皮细胞-间充质细胞转化](https://github.com/ixxmu/mp_duty/issues/5089) 
-5. [多时间点连续的药物处理看转录变化经典例子](https://github.com/ixxmu/mp_duty/issues/5088) 
+1. [monocle多样本拟时序分析](https://github.com/ixxmu/mp_duty/issues/5147) 
+2. [monocle单样本拟时序分析](https://github.com/ixxmu/mp_duty/issues/5146) 
+3. [3个分组的表达量矩阵的两两之间差异分析](https://github.com/ixxmu/mp_duty/issues/5137) 
+4. [拟时序的多种算法大比拼（拟时序一本通03）](https://github.com/ixxmu/mp_duty/issues/5096) 
+5. [拟时序的正确姿势（拟时序一本通02）](https://github.com/ixxmu/mp_duty/issues/5095) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
