@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [monocle多样本拟时序分析](https://github.com/ixxmu/mp_duty/issues/5147) 
-2. [monocle单样本拟时序分析](https://github.com/ixxmu/mp_duty/issues/5146) 
-3. [3个分组的表达量矩阵的两两之间差异分析](https://github.com/ixxmu/mp_duty/issues/5137) 
-4. [拟时序的多种算法大比拼（拟时序一本通03）](https://github.com/ixxmu/mp_duty/issues/5096) 
-5. [拟时序的正确姿势（拟时序一本通02）](https://github.com/ixxmu/mp_duty/issues/5095) 
+1. [拆分你的百万级别单细胞数据集后做降维聚类分群](https://github.com/ixxmu/mp_duty/issues/5150) 
+2. [monocle多样本拟时序分析](https://github.com/ixxmu/mp_duty/issues/5147) 
+3. [monocle单样本拟时序分析](https://github.com/ixxmu/mp_duty/issues/5146) 
+4. [3个分组的表达量矩阵的两两之间差异分析](https://github.com/ixxmu/mp_duty/issues/5137) 
+5. [拟时序的多种算法大比拼（拟时序一本通03）](https://github.com/ixxmu/mp_duty/issues/5096) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
