@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [拆分你的百万级别单细胞数据集后做降维聚类分群](https://github.com/ixxmu/mp_duty/issues/5164) 
-2. [单细胞umap图绘制教程|也许是全网最好看的](https://github.com/ixxmu/mp_duty/issues/5162) 
-3. [拆分你的百万级别单细胞数据集后做降维聚类分群](https://github.com/ixxmu/mp_duty/issues/5150) 
-4. [monocle多样本拟时序分析](https://github.com/ixxmu/mp_duty/issues/5147) 
-5. [monocle单样本拟时序分析](https://github.com/ixxmu/mp_duty/issues/5146) 
+1. [CellPhoneDB的单细胞通讯结果的可视化之气泡图](https://github.com/ixxmu/mp_duty/issues/5216) 
+2. [CellCommuNet—细胞通讯网络数据库（人和小鼠单细胞转录组）](https://github.com/ixxmu/mp_duty/issues/5215) 
+3. [拆分你的百万级别单细胞数据集后做降维聚类分群](https://github.com/ixxmu/mp_duty/issues/5164) 
+4. [单细胞umap图绘制教程|也许是全网最好看的](https://github.com/ixxmu/mp_duty/issues/5162) 
+5. [拆分你的百万级别单细胞数据集后做降维聚类分群](https://github.com/ixxmu/mp_duty/issues/5150) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
