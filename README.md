@@ -1,11 +1,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [小鼠的5个样品的10x技术单细胞转录组上游定量（文末赠送全套代码）](https://github.com/ixxmu/mp_duty/issues/5225) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-2. [使用人工智能优化一个数据库文件批量下载脚本](https://github.com/ixxmu/mp_duty/issues/5223) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-3. [CellPhoneDB的单细胞通讯结果的可视化之气泡图](https://github.com/ixxmu/mp_duty/issues/5216) 
-4. [CellCommuNet—细胞通讯网络数据库（人和小鼠单细胞转录组）](https://github.com/ixxmu/mp_duty/issues/5215) 
-5. [拆分你的百万级别单细胞数据集后做降维聚类分群](https://github.com/ixxmu/mp_duty/issues/5164) 
+1. [代码分享|| Nature肝脏疾病进展单细胞分析超详细代码：上游分析+下游，详细到fq文件重命名，数据预处理等！快上车！](https://github.com/ixxmu/mp_duty/issues/5229) 
+2. [单细胞GSVA分析专用R包](https://github.com/ixxmu/mp_duty/issues/5227) 
+3. [小鼠的5个样品的10x技术单细胞转录组上游定量（文末赠送全套代码）](https://github.com/ixxmu/mp_duty/issues/5225) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+4. [使用人工智能优化一个数据库文件批量下载脚本](https://github.com/ixxmu/mp_duty/issues/5223) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+5. [CellPhoneDB的单细胞通讯结果的可视化之气泡图](https://github.com/ixxmu/mp_duty/issues/5216) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
