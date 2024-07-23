@@ -1,5 +1,7 @@
 
-<h3 align="center">可以加入我们的 [Telegram群组](https://t.me/BioInfoTalk) 第一时间获取更多生信学习资料。</h3>
+<h3 align="center">
+  可以加入我们的<a href="https://t.me/BioInfoTalk">Telegram群组</a> 第一时间获取更多生信学习资料。
+</h3>
 
 ------------------
 
