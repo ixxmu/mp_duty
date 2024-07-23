@@ -1,6 +1,6 @@
-//
+
 // 可以加入我们的[Telegram群组](https://t.me/BioInfoRSS)第一时间获取更多生信学习资料。
-//
+
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
