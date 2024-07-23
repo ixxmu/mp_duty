@@ -1,5 +1,5 @@
 
-### 可以加入我们的[Telegram群组](https://t.me/BioInfoTalk)第一时间获取更多生信学习资料。  
+### 可以加入我们的 [Telegram群组](https://t.me/BioInfoTalk) 第一时间获取更多生信学习资料。  
 
 ------------------
 
