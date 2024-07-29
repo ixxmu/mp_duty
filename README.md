@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [你的肿瘤单细胞肿瘤数据能区分这7种巨噬细胞吧](https://github.com/ixxmu/mp_duty/issues/5274) 
-2. [转录组测序的表达量的两个归一化方向会影响差异分析吗](https://github.com/ixxmu/mp_duty/issues/5269) 
-3. [代码分享|| Nature肝脏疾病进展单细胞分析超详细代码：上游分析+下游，详细到fq文件重命名，数据预处理等！快上车！](https://github.com/ixxmu/mp_duty/issues/5267) 
-4. [一行代码就能发生信顶刊的GPTCelltype做单细胞亚群注释](https://github.com/ixxmu/mp_duty/issues/5237) 
-5. [代码分享|| Nature肝脏疾病进展单细胞分析超详细代码：上游分析+下游，详细到fq文件重命名，数据预处理等！快上车！](https://github.com/ixxmu/mp_duty/issues/5229) 
+1. [关于r包安装到哪里了以及如何看自己的r包数量](https://github.com/ixxmu/mp_duty/issues/5334) 
+2. [我为什么不卖生信套路](https://github.com/ixxmu/mp_duty/issues/5333) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
+3. [不装了，摊牌了，转录组测序表达量矩阵就这么简单！](https://github.com/ixxmu/mp_duty/issues/5332) 
+4. [你的肿瘤单细胞肿瘤数据能区分这7种巨噬细胞吧](https://github.com/ixxmu/mp_duty/issues/5274) 
+5. [转录组测序的表达量的两个归一化方向会影响差异分析吗](https://github.com/ixxmu/mp_duty/issues/5269) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
