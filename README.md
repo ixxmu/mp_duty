@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [AD星形胶质细胞与小胶质细胞的snRNA-seq数据分析](https://github.com/ixxmu/mp_duty/issues/5341) 
-2. [关于r包安装到哪里了以及如何看自己的r包数量](https://github.com/ixxmu/mp_duty/issues/5334) 
-3. [我为什么不卖生信套路](https://github.com/ixxmu/mp_duty/issues/5333) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
-4. [不装了，摊牌了，转录组测序表达量矩阵就这么简单！](https://github.com/ixxmu/mp_duty/issues/5332) 
-5. [你的肿瘤单细胞肿瘤数据能区分这7种巨噬细胞吧](https://github.com/ixxmu/mp_duty/issues/5274) 
+1. [生信数据分析可靠与否是一个伪命题](https://github.com/ixxmu/mp_duty/issues/5354) 
+2. [AD星形胶质细胞与小胶质细胞的snRNA-seq数据分析](https://github.com/ixxmu/mp_duty/issues/5341) 
+3. [关于r包安装到哪里了以及如何看自己的r包数量](https://github.com/ixxmu/mp_duty/issues/5334) 
+4. [我为什么不卖生信套路](https://github.com/ixxmu/mp_duty/issues/5333) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
+5. [不装了，摊牌了，转录组测序表达量矩阵就这么简单！](https://github.com/ixxmu/mp_duty/issues/5332) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
