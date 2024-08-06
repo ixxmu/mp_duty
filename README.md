@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  可以加入我们的 <a href="https://t.me/BioInfoTalk">Telegram群组</a> 第一时间获取更多生信学习资料。
+  可以加入我们的 <a href="https://t.me/BioInfoTalk">Telegram群组</a> 第一时间获取更多生信学习资料。你也可以在 <a href="https://bioinforss-channel.vercel.app/">这里</a> 订阅我们的频道。
 </h3>
 
 ------------------
