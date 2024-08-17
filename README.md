@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [GLIBCXX_3.4.22 not found 类似的问题3种解决方案（B站满10万粉丝啦）](https://github.com/ixxmu/mp_duty/issues/5439) 
-2. [十多万个细胞数量就顶不住了吗](https://github.com/ixxmu/mp_duty/issues/5429) 
-3. [花二十万做的大队列转录组告诉你不能这样设计课题啊！](https://github.com/ixxmu/mp_duty/issues/5420) 
-4. [热图到底是横向基因层面归一化还是依据纵向的样品呢？](https://github.com/ixxmu/mp_duty/issues/5394) 
-5. [每个样品搞这么多细胞干什么啊（这样谁相信你的数据分析结论？）](https://github.com/ixxmu/mp_duty/issues/5393) 
+1. [就离谱啊，是私藏一半的基因吗？](https://github.com/ixxmu/mp_duty/issues/5448) 
+2. [非模式生物构建10x单细胞转录组CellRanger参考文件](https://github.com/ixxmu/mp_duty/issues/5445) 
+3. [就离谱啊，是私藏一半的基因吗？](https://github.com/ixxmu/mp_duty/issues/5443) 
+4. [并不是得到文献那样的分群才是正确的单细胞分析](https://github.com/ixxmu/mp_duty/issues/5441) 
+5. [癌症转移到肝脏后是肝细胞还是胆管上皮细胞会恶化呢](https://github.com/ixxmu/mp_duty/issues/5440) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
