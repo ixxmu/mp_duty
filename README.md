@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [让单细胞差异更加明显你需要调整配色方案](https://github.com/ixxmu/mp_duty/issues/5476) 
-2. [纯粹靠单细胞转录组数据是很难区分CD4和CD8阳性T细胞](https://github.com/ixxmu/mp_duty/issues/5468) 
-3. [T细胞状态打分R包应用于单细胞转录组数据](https://github.com/ixxmu/mp_duty/issues/5467) 
-4. [单细胞水平的肿瘤拷贝数分析新方法](https://github.com/ixxmu/mp_duty/issues/5466) 
-5. [就离谱啊，是私藏一半的基因吗？](https://github.com/ixxmu/mp_duty/issues/5448) 
+1. [单细胞转录组降维聚类分群过滤基因和过滤细胞的区别](https://github.com/ixxmu/mp_duty/issues/5507) 
+2. [让单细胞差异更加明显你需要调整配色方案](https://github.com/ixxmu/mp_duty/issues/5476) 
+3. [纯粹靠单细胞转录组数据是很难区分CD4和CD8阳性T细胞](https://github.com/ixxmu/mp_duty/issues/5468) 
+4. [T细胞状态打分R包应用于单细胞转录组数据](https://github.com/ixxmu/mp_duty/issues/5467) 
+5. [单细胞水平的肿瘤拷贝数分析新方法](https://github.com/ixxmu/mp_duty/issues/5466) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
