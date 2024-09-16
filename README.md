@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [单细胞亚群绝对数量和相对比例的探索](https://github.com/ixxmu/mp_duty/issues/5585) 
-2. [有监督的挑选了特征之后的无监督的分析还可靠吗](https://github.com/ixxmu/mp_duty/issues/5575) 
-3. [上下调基因列表各自独立去做功能注释为什么就不能重叠呢](https://github.com/ixxmu/mp_duty/issues/5551) 
-4. [超400病人的临床实验结果还需要生信验证](https://github.com/ixxmu/mp_duty/issues/5534) 
-5. [单细胞转录组降维聚类分群过滤基因和过滤细胞的区别](https://github.com/ixxmu/mp_duty/issues/5507) 
+1. [上皮细胞里面混入了淋巴系和髓系免疫细胞呢](https://github.com/ixxmu/mp_duty/issues/5588) 
+2. [走inferCNV流程的时候只需要针对上皮细胞即可](https://github.com/ixxmu/mp_duty/issues/5587) 
+3. [单细胞亚群绝对数量和相对比例的探索](https://github.com/ixxmu/mp_duty/issues/5585) 
+4. [有监督的挑选了特征之后的无监督的分析还可靠吗](https://github.com/ixxmu/mp_duty/issues/5575) 
+5. [上下调基因列表各自独立去做功能注释为什么就不能重叠呢](https://github.com/ixxmu/mp_duty/issues/5551) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
