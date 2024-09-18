@@ -17,11 +17,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [YuLab JC | 细胞互作方法测评](https://github.com/ixxmu/mp_duty/issues/5383) 
-2. [Seurat过滤数据？](https://github.com/ixxmu/mp_duty/issues/5376) 
-3. [R语言的N种打开方式](https://github.com/ixxmu/mp_duty/issues/5300) 
-4. [你想在GSEA可视化图中标注几个基因？](https://github.com/ixxmu/mp_duty/issues/5242) 
-5. [YuLab JC | 单细胞及单核细胞 RNA 测序总结](https://github.com/ixxmu/mp_duty/issues/4934) 
+1. [左志向/张迪/余光创-开发肿瘤免疫治疗转录组数据分析R包tigeR](https://github.com/ixxmu/mp_duty/issues/5600) 
+2. [YuLab JC | 细胞互作方法测评](https://github.com/ixxmu/mp_duty/issues/5383) 
+3. [Seurat过滤数据？](https://github.com/ixxmu/mp_duty/issues/5376) 
+4. [R语言的N种打开方式](https://github.com/ixxmu/mp_duty/issues/5300) 
+5. [你想在GSEA可视化图中标注几个基因？](https://github.com/ixxmu/mp_duty/issues/5242) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
