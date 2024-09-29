@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [癌症和癌旁的差异基因能在单细胞层面区分上皮细胞的恶性与否吗](https://github.com/ixxmu/mp_duty/issues/5620) 
-2. [bulk层面的癌症和癌旁的表达量差异主要是因为？](https://github.com/ixxmu/mp_duty/issues/5619) 
-3. [癌症和癌旁的差异基因能在单细胞层面区分上皮细胞的恶性与否吗](https://github.com/ixxmu/mp_duty/issues/5615) 
-4. [算不上什么大错误的成纤维细胞亚群的细分操作](https://github.com/ixxmu/mp_duty/issues/5614) 
-5. [单细胞亚群取子集后的细分亚群再命名的两个难题](https://github.com/ixxmu/mp_duty/issues/5611) 
+1. [不是造假胜似造假的单细胞降维聚类分群](https://github.com/ixxmu/mp_duty/issues/5664) 
+2. [癌症和癌旁的差异基因能在单细胞层面区分上皮细胞的恶性与否吗](https://github.com/ixxmu/mp_duty/issues/5620) 
+3. [bulk层面的癌症和癌旁的表达量差异主要是因为？](https://github.com/ixxmu/mp_duty/issues/5619) 
+4. [癌症和癌旁的差异基因能在单细胞层面区分上皮细胞的恶性与否吗](https://github.com/ixxmu/mp_duty/issues/5615) 
+5. [算不上什么大错误的成纤维细胞亚群的细分操作](https://github.com/ixxmu/mp_duty/issues/5614) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
