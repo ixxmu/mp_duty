@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [卖这个公共数据合理合法吗](https://github.com/ixxmu/mp_duty/issues/5706) 
-2. [不是造假胜似造假的单细胞降维聚类分群](https://github.com/ixxmu/mp_duty/issues/5664) 
-3. [癌症和癌旁的差异基因能在单细胞层面区分上皮细胞的恶性与否吗](https://github.com/ixxmu/mp_duty/issues/5620) 
-4. [bulk层面的癌症和癌旁的表达量差异主要是因为？](https://github.com/ixxmu/mp_duty/issues/5619) 
-5. [癌症和癌旁的差异基因能在单细胞层面区分上皮细胞的恶性与否吗](https://github.com/ixxmu/mp_duty/issues/5615) 
+1. [学习单细胞亚群命名的层次结构](https://github.com/ixxmu/mp_duty/issues/5721) 
+2. [学习单细胞亚群命名的层次结构](https://github.com/ixxmu/mp_duty/issues/5720) 
+3. [在你的髓系里面加上中性粒吧](https://github.com/ixxmu/mp_duty/issues/5719) 
+4. [每个单细胞亚群取子集后继续降维聚类分群标准操作（以b细胞为例）](https://github.com/ixxmu/mp_duty/issues/5718) 
+5. [上皮细胞里面混入了淋巴系和髓系免疫细胞呢](https://github.com/ixxmu/mp_duty/issues/5717) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
