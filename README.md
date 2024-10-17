@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [单细胞注释记不住marker怎么办--让AI帮你解释差异基因](https://github.com/ixxmu/mp_duty/issues/5735) 
-2. [学习单细胞亚群命名的层次结构](https://github.com/ixxmu/mp_duty/issues/5721) 
-3. [学习单细胞亚群命名的层次结构](https://github.com/ixxmu/mp_duty/issues/5720) 
-4. [在你的髓系里面加上中性粒吧](https://github.com/ixxmu/mp_duty/issues/5719) 
-5. [每个单细胞亚群取子集后继续降维聚类分群标准操作（以b细胞为例）](https://github.com/ixxmu/mp_duty/issues/5718) 
+1. [ggplot2热图扩展包（ggalign）的细节](https://github.com/ixxmu/mp_duty/issues/5739) 
+2. [单细胞注释记不住marker怎么办--让AI帮你解释差异基因](https://github.com/ixxmu/mp_duty/issues/5735) 
+3. [学习单细胞亚群命名的层次结构](https://github.com/ixxmu/mp_duty/issues/5721) 
+4. [学习单细胞亚群命名的层次结构](https://github.com/ixxmu/mp_duty/issues/5720) 
+5. [在你的髓系里面加上中性粒吧](https://github.com/ixxmu/mp_duty/issues/5719) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
