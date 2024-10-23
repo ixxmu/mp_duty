@@ -8,11 +8,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [再不学生信就来不及了](https://github.com/ixxmu/mp_duty/issues/5778) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
-2. [每个生信小白都应该避坑的小细节！](https://github.com/ixxmu/mp_duty/issues/5762) 
-3. [ggplot2热图扩展包（ggalign）的细节](https://github.com/ixxmu/mp_duty/issues/5739) 
-4. [单细胞注释记不住marker怎么办--让AI帮你解释差异基因](https://github.com/ixxmu/mp_duty/issues/5735) 
-5. [学习单细胞亚群命名的层次结构](https://github.com/ixxmu/mp_duty/issues/5721) 
+1. [数据分析能力确实是跟能发表的期刊质量有关](https://github.com/ixxmu/mp_duty/issues/5783) 
+2. [再不学生信就来不及了](https://github.com/ixxmu/mp_duty/issues/5778) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
+3. [每个生信小白都应该避坑的小细节！](https://github.com/ixxmu/mp_duty/issues/5762) 
+4. [ggplot2热图扩展包（ggalign）的细节](https://github.com/ixxmu/mp_duty/issues/5739) 
+5. [单细胞注释记不住marker怎么办--让AI帮你解释差异基因](https://github.com/ixxmu/mp_duty/issues/5735) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
