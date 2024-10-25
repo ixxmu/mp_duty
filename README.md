@@ -1,6 +1,8 @@
 
-<h3 align="center">
- 加入 <a href="https://t.me/BioInfoTalk">Telegram群组</a> 第一时间获取更多生信学习资料。你也可以在 <a href="https://bioinforss-channel.vercel.app/">这里</a> 订阅我们的RSS。也可以 <a href="https://kyplus.092420.xyz/">在此</a> 订阅我们的GPT Plus服务。
+<h3 align="right">   
+ <li> <a href="https://t.me/BioInfoTalk">加入Telegram群组</a> 获取更多生信资讯</li>
+ <li> <a href="https://bioinforss-channel.vercel.app/">在此订阅</a> 我们的RSS</li>
+ <li> <a href="https://kyplus.092420.xyz/">在此体验</a> 我们的GPT Plus服务</li>
 </h3>
 
 ------------------
