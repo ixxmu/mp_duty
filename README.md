@@ -10,11 +10,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [单细胞测序不同亚群的特异性基因的计算新选择 starTracer](https://github.com/ixxmu/mp_duty/issues/5835) 
-2. [玩转服务器—共享服务器登录指北](https://github.com/ixxmu/mp_duty/issues/5830) 
-3. [数据分析能力确实是跟能发表的期刊质量有关](https://github.com/ixxmu/mp_duty/issues/5783) 
-4. [再不学生信就来不及了](https://github.com/ixxmu/mp_duty/issues/5778) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
-5. [每个生信小白都应该避坑的小细节！](https://github.com/ixxmu/mp_duty/issues/5762) 
+1. [基于VlnPlot参数及ggplot2美化小提琴图](https://github.com/ixxmu/mp_duty/issues/5843) 
+2. [单细胞测序不同亚群的特异性基因的计算新选择 starTracer](https://github.com/ixxmu/mp_duty/issues/5835) 
+3. [玩转服务器—共享服务器登录指北](https://github.com/ixxmu/mp_duty/issues/5830) 
+4. [数据分析能力确实是跟能发表的期刊质量有关](https://github.com/ixxmu/mp_duty/issues/5783) 
+5. [再不学生信就来不及了](https://github.com/ixxmu/mp_duty/issues/5778) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
