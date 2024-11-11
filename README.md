@@ -10,11 +10,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [人工智能大模型会以为是错误的PCA图](https://github.com/ixxmu/mp_duty/issues/5886) 
-2. [基于VlnPlot参数及ggplot2美化小提琴图](https://github.com/ixxmu/mp_duty/issues/5843) 
-3. [单细胞测序不同亚群的特异性基因的计算新选择 starTracer](https://github.com/ixxmu/mp_duty/issues/5835) 
-4. [玩转服务器—共享服务器登录指北](https://github.com/ixxmu/mp_duty/issues/5830) 
-5. [数据分析能力确实是跟能发表的期刊质量有关](https://github.com/ixxmu/mp_duty/issues/5783) 
+1. [重要的并不是整合与否，而应该是质量控制](https://github.com/ixxmu/mp_duty/issues/5914) 
+2. [cox可以火山图为什么gsea结果不行](https://github.com/ixxmu/mp_duty/issues/5905) 
+3. [cox可以火山图为什么gsea结果不行](https://github.com/ixxmu/mp_duty/issues/5904) 
+4. [人工智能大模型会以为是错误的PCA图](https://github.com/ixxmu/mp_duty/issues/5886) 
+5. [基于VlnPlot参数及ggplot2美化小提琴图](https://github.com/ixxmu/mp_duty/issues/5843) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
