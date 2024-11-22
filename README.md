@@ -10,11 +10,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [生信不好找工作可能是因为你点错了技能树](https://github.com/ixxmu/mp_duty/issues/5970) 
-2. [不要简单的相信作者提供的表达量矩阵](https://github.com/ixxmu/mp_duty/issues/5940) 
-3. [重要的并不是整合与否，而应该是质量控制](https://github.com/ixxmu/mp_duty/issues/5914) 
-4. [cox可以火山图为什么gsea结果不行](https://github.com/ixxmu/mp_duty/issues/5905) 
-5. [cox可以火山图为什么gsea结果不行](https://github.com/ixxmu/mp_duty/issues/5904) 
+1. [CROST——空间转录组学的综合数据库](https://github.com/ixxmu/mp_duty/issues/6000) 
+2. [生信不好找工作可能是因为你点错了技能树](https://github.com/ixxmu/mp_duty/issues/5970) 
+3. [不要简单的相信作者提供的表达量矩阵](https://github.com/ixxmu/mp_duty/issues/5940) 
+4. [重要的并不是整合与否，而应该是质量控制](https://github.com/ixxmu/mp_duty/issues/5914) 
+5. [cox可以火山图为什么gsea结果不行](https://github.com/ixxmu/mp_duty/issues/5905) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
