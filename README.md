@@ -10,11 +10,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [不想用代码做单细胞转录组降维聚类分群，试试看网页工具呢？](https://github.com/ixxmu/mp_duty/issues/6104) 
-2. [使用decoupleR一次性实现11种基因集的活性打分（R与Python我都要）](https://github.com/ixxmu/mp_duty/issues/6089) 
-3. [玩转服务器—数据上传与下载](https://github.com/ixxmu/mp_duty/issues/6088) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-4. [四句话代码GSEA](https://github.com/ixxmu/mp_duty/issues/6032) 
-5. [使用aspera加速从中国的GSA数据库下载测序文件](https://github.com/ixxmu/mp_duty/issues/6027) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
+1. [那些自带全套图表复现代码的单细胞文章](https://github.com/ixxmu/mp_duty/issues/6117) 
+2. [不想用代码做单细胞转录组降维聚类分群，试试看网页工具呢？](https://github.com/ixxmu/mp_duty/issues/6104) 
+3. [使用decoupleR一次性实现11种基因集的活性打分（R与Python我都要）](https://github.com/ixxmu/mp_duty/issues/6089) 
+4. [玩转服务器—数据上传与下载](https://github.com/ixxmu/mp_duty/issues/6088) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+5. [四句话代码GSEA](https://github.com/ixxmu/mp_duty/issues/6032) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
