@@ -1,7 +1,7 @@
 
 <h3 align="center">   
 <li> <a href="https://app.follow.is/share/feeds/86231884517090304">🌈打开 Follow </a>订阅我们</li>
-<li> <a href="https://bioinforss-channel.vercel.app/">🎈在此订阅</a> 我们的RSS</li>
+<li> <a href="https://bioinforss-channel.vercel.app/">🎈在此订阅</a> 我们的 RSS</li>
 <li> <a href="https://kyplus.092420.xyz/">🌟在此体验</a> 我们的 ChatGPT Plus </li>
 <li> <a href="https://t.me/BioInfoTalk">✨加入 Telegram 群组</a> 获取更多生信资讯</li>
 </h3>
