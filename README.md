@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [承包你2025全部的单细胞转录组降维聚类分群](https://github.com/ixxmu/mp_duty/issues/6252) 
-2. [正常组织与癌旁组织可以一视同仁吗？](https://github.com/ixxmu/mp_duty/issues/6194) 
-3. [听说WGCNA官网崩了？那还能做基因共表达分析吗？](https://github.com/ixxmu/mp_duty/issues/6155) 
-4. [那些自带全套图表复现代码的单细胞文章](https://github.com/ixxmu/mp_duty/issues/6117) 
-5. [不想用代码做单细胞转录组降维聚类分群，试试看网页工具呢？](https://github.com/ixxmu/mp_duty/issues/6104) 
+1. [百万级单细胞GSVA如何提速？](https://github.com/ixxmu/mp_duty/issues/6259) 
+2. [承包你2025全部的单细胞转录组降维聚类分群](https://github.com/ixxmu/mp_duty/issues/6252) 
+3. [正常组织与癌旁组织可以一视同仁吗？](https://github.com/ixxmu/mp_duty/issues/6194) 
+4. [听说WGCNA官网崩了？那还能做基因共表达分析吗？](https://github.com/ixxmu/mp_duty/issues/6155) 
+5. [那些自带全套图表复现代码的单细胞文章](https://github.com/ixxmu/mp_duty/issues/6117) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
