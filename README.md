@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [百万级单细胞GSVA如何提速？](https://github.com/ixxmu/mp_duty/issues/6259) 
-2. [承包你2025全部的单细胞转录组降维聚类分群](https://github.com/ixxmu/mp_duty/issues/6252) 
-3. [正常组织与癌旁组织可以一视同仁吗？](https://github.com/ixxmu/mp_duty/issues/6194) 
-4. [听说WGCNA官网崩了？那还能做基因共表达分析吗？](https://github.com/ixxmu/mp_duty/issues/6155) 
-5. [那些自带全套图表复现代码的单细胞文章](https://github.com/ixxmu/mp_duty/issues/6117) 
+1. [10X单细胞转录组原始测序数据的Cell Ranger流程（仅需800元）](https://github.com/ixxmu/mp_duty/issues/6264) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+2. [明码标价之转录组下游分析仅需800元](https://github.com/ixxmu/mp_duty/issues/6263) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+3. [普通转录组上游定量分析服务（仅需800每个项目）](https://github.com/ixxmu/mp_duty/issues/6262) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+4. [在什么情况下癌症样本与正常样本是分不开的呢？](https://github.com/ixxmu/mp_duty/issues/6261) 
+5. [百万级单细胞GSVA如何提速？](https://github.com/ixxmu/mp_duty/issues/6259) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
