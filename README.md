@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [TCGA样本barcode详细介绍](https://github.com/ixxmu/mp_duty/issues/6280) 
-2. [复杂相关性散点图复现（ggplot2绘图的层层递进）](https://github.com/ixxmu/mp_duty/issues/6279) 
-3. [10X单细胞转录组原始测序数据的Cell Ranger流程（仅需800元）](https://github.com/ixxmu/mp_duty/issues/6264) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-4. [明码标价之转录组下游分析仅需800元](https://github.com/ixxmu/mp_duty/issues/6263) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-5. [普通转录组上游定量分析服务（仅需800每个项目）](https://github.com/ixxmu/mp_duty/issues/6262) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+1. [做COX生存分析是否需要把连续值变成高低二分组?](https://github.com/ixxmu/mp_duty/issues/6301) 
+2. [你没见过的两种高颜值单细胞亚群相关性热图](https://github.com/ixxmu/mp_duty/issues/6297) 
+3. [TCGA样本barcode详细介绍](https://github.com/ixxmu/mp_duty/issues/6280) 
+4. [复杂相关性散点图复现（ggplot2绘图的层层递进）](https://github.com/ixxmu/mp_duty/issues/6279) 
+5. [10X单细胞转录组原始测序数据的Cell Ranger流程（仅需800元）](https://github.com/ixxmu/mp_duty/issues/6264) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
