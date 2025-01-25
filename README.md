@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [给你的单细胞umap图加个cell杂志同款的圈](https://github.com/ixxmu/mp_duty/issues/6353) 
-2. [一种很新的功能富集结果展示方法](https://github.com/ixxmu/mp_duty/issues/6336) 
-3. [KEGG富集结果7大分类展示](https://github.com/ixxmu/mp_duty/issues/6305) 
-4. [做COX生存分析是否需要把连续值变成高低二分组?](https://github.com/ixxmu/mp_duty/issues/6301) 
-5. [你没见过的两种高颜值单细胞亚群相关性热图](https://github.com/ixxmu/mp_duty/issues/6297) 
+1. [生存分析新技能:小洁老师带你全代码实现生存曲线与风险表的完美融合](https://github.com/ixxmu/mp_duty/issues/6359) 
+2. [给你的单细胞umap图加个cell杂志同款的圈](https://github.com/ixxmu/mp_duty/issues/6353) 
+3. [一种很新的功能富集结果展示方法](https://github.com/ixxmu/mp_duty/issues/6336) 
+4. [KEGG富集结果7大分类展示](https://github.com/ixxmu/mp_duty/issues/6305) 
+5. [做COX生存分析是否需要把连续值变成高低二分组?](https://github.com/ixxmu/mp_duty/issues/6301) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
