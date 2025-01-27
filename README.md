@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [生存分析新技能:小洁老师带你全代码实现生存曲线与风险表的完美融合](https://github.com/ixxmu/mp_duty/issues/6359) 
-2. [给你的单细胞umap图加个cell杂志同款的圈](https://github.com/ixxmu/mp_duty/issues/6353) 
-3. [一种很新的功能富集结果展示方法](https://github.com/ixxmu/mp_duty/issues/6336) 
-4. [KEGG富集结果7大分类展示](https://github.com/ixxmu/mp_duty/issues/6305) 
-5. [做COX生存分析是否需要把连续值变成高低二分组?](https://github.com/ixxmu/mp_duty/issues/6301) 
+1. [cellchat细胞通讯中 prob 与 pval 的含义是什么?](https://github.com/ixxmu/mp_duty/issues/6368) 
+2. [单个基因在单细胞里面如何分析呢？](https://github.com/ixxmu/mp_duty/issues/6365) 
+3. [单个基因在单细胞里面如何分析呢？](https://github.com/ixxmu/mp_duty/issues/6364) 
+4. [生存分析新技能:小洁老师带你全代码实现生存曲线与风险表的完美融合](https://github.com/ixxmu/mp_duty/issues/6359) 
+5. [给你的单细胞umap图加个cell杂志同款的圈](https://github.com/ixxmu/mp_duty/issues/6353) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
