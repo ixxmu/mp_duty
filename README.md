@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [cellchat细胞通讯中 prob 与 pval 的含义是什么?](https://github.com/ixxmu/mp_duty/issues/6368) 
-2. [单个基因在单细胞里面如何分析呢？](https://github.com/ixxmu/mp_duty/issues/6365) 
-3. [单个基因在单细胞里面如何分析呢？](https://github.com/ixxmu/mp_duty/issues/6364) 
-4. [生存分析新技能:小洁老师带你全代码实现生存曲线与风险表的完美融合](https://github.com/ixxmu/mp_duty/issues/6359) 
-5. [给你的单细胞umap图加个cell杂志同款的圈](https://github.com/ixxmu/mp_duty/issues/6353) 
+1. [maftools（r包）绘制棒棒图等](https://github.com/ixxmu/mp_duty/issues/6395) 
+2. [Python应该要会一点吧](https://github.com/ixxmu/mp_duty/issues/6394) 
+3. [再牛叉的技术也无法解决你网络问题（但是政策可以啊）](https://github.com/ixxmu/mp_duty/issues/6392) 
+4. [春节期间单细胞转录组数据分析全免费](https://github.com/ixxmu/mp_duty/issues/6390) 
+5. [生信技能树2025年展望](https://github.com/ixxmu/mp_duty/issues/6388) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
