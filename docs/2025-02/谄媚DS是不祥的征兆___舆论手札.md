@@ -1,0 +1,15 @@
+---
+title: "谄媚DS是不祥的征兆 | 舆论手札"
+date: 2025-02-04T16:39:39Z
+draft: ["false"]
+tags: [
+  "fetched",
+  "旧闻评论"
+]
+categories: ["Acdemic"]
+---
+谄媚DS是不祥的征兆 | 舆论手札 by 旧闻评论
+------
+<div><section><mp-common-clmusic data-pluginname="insertaudio" type="1" music_name="堕落" albumurl="http://wx.y.gtimg.cn/music/photo_new/T002R500x500M0000002oEts1trJQd_4.jpg" singer="王菲" duration="222000" username="" music_source="1" is_vip="0" listenid="78221626609332032" count="0" avatar=""></mp-common-clmusic></section><p><img data-galleryid="" data-imgfileid="504529214" data-ratio="1.5148148148148148" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/PqhR4gaaOVheQR388khfTGicx5yyVsoRiav0icVZOXkx4usA4wo0Gxe94zLPfmaPMicQgiagF6ichCIHlaJGhbrQCHkQ/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/PqhR4gaaOVheQR388khfTGicx5yyVsoRiav0icVZOXkx4usA4wo0Gxe94zLPfmaPMicQgiagF6ichCIHlaJGhbrQCHkQ/640?wx_fmt=jpeg&amp;from=appmsg"></p><section><span>人工智能模型DeepSeek一夜之间爆得大名，在尚不能确定它能为人们做什么正确事情之前，一些狂热的支持者抗拒接受任何不同意见，肆意攻击那些试图更多理解DS、没有公开赞美DS的人。<br></span></section><section><span>透过这些支持者聚集的评论区言论，以及分析他们的逻辑与思维，可以看出他们与华为用户、黑悟空游戏的玩家、周鸿祎的粉丝高度重叠。<p></p></span></section><section><span>他们似乎是醉心于中美对抗想象的民族主义分子，是坚定站在科技国产化立场的激进人士，以及深信凭借这一款DS模型，中国人工智能已实现弯道超美的前地下室爱国者。因为他们的网络人数庞大，以至于相互激荡出更大的舆论声势，他们像复读机一样重复一个流行观点，亦即DS足以称得上“国运级的科技成果”。<p></p></span></section><section><span>簇拥在这个夸张比喻周围的，是一张张告别了温饱历史的黄皮肤脸庞，它们洋溢着自豪的喜悦，眼睛灼热，轮廓饱满——如果能有一台超级相机拍下他们欢庆DS伟大诞生的画面，你会从中看见“亩产万斤”的宣传画重影。<p></p></span></section><section><span>假如你再深入地寻找他们亢奋的源头，以及他们定义DS伟大的理论依据，很难掩盖的一个事实是：这些人念兹在兹的，并给DS描上的那圈中国红，连成七个熟悉的大字，师夷长技以制夷。<p></p></span></section><section><span>与洋务运动承认西洋“船坚炮利”不同的是，DS的狂热支持者要么拒绝承认它涉嫌抄袭OpenAi的指控，将其扭曲为美国人的嫉妒；要么用“所有AI模型都是开源的”诡辩修辞，将一个脱胎于美方既有成就的模型渲染成纯粹的国货精品。<p></p></span></section><section><span>DS所启发的方法论，成为中美人工智能竞赛中的崭新赛道，受到美国顶级AI制造商的评估。这种同业评判产生了让狂热支持者愤怒的一些结论，他们因为无法与之争论，进而在国内舆论场上搜寻那些援引美方观点与论据的人，用人身攻击代替必要争论，然后单方面宣布他们赢得了DS的名誉之战。<p></p></span></section><section><span>全面拥抱人工智能模型，或者无条件拜倒在DS脚下的人，早已经服膺这样一种观点（或明知而不以为意）：简中语料的先天缺陷并不妨碍中国大模型的伟大与超越。可是，DS在宣扬其可疑的成本优势后，对于各种基础的测试要求，经常是沉默不予回答，常见的情况则是它会用捏造代替求证，用谎言制造文本。<p></p></span></section><section><span>DS似乎与它的狂热支持者一样，陷入了妄人妄言的泥潭。这样的妄人特征与谵语人格，表面上是将中文的人工智能文本推向深度伪造的深渊，实际危害更大更深远，因为在此种规模与广度的伪造浪潮冲刷下，几代人的头脑会被格式化。<p></p></span></section><section><span>以DS的深度伪造功能而言，所谓师夷长技以制夷，最终是师夷长技以制民，人工智能模型对于弱民、贫民（使民视野狭窄而丧失生命的丰富性）、贱民（轻贱人文人性）的致命影响无法躲避，不可小觑。<p></p></span></section><section><span>越来越多的从DS文本汇集而来的缺陷强有力地证明，在特定限定的使用场景下，AI并非你我的玩物，甚至它们不只是乐观者口中的工具，它是一种混合权力。如果它得不到恰当、有力的监督——实际上无从寻找这种监督——那包括DS在内的AI模型会将吾国斯民的缺陷，以难以想象的规模复刻并渗透到吾国斯民的运行与血脉中。<p></p></span></section><section><span>这，是不是也称得上“国运级”的科技灾难呢？<p></p></span></section><section><span>当国民被裹挟进长驱直入的人工智能发展政策中，在与人工智能模型的接触中徒劳地做求真的抗争，而更多人全无防备地将人文主义精神交付给狡猾的DS，并且因技术鸿沟而无法与面目一新的数字权力搏斗，一个全新的时间大门开启了。一个不受节制、不被干涉的DS及其同类所制造的代价，不再是恒河沙数的中文垃圾，更关键是脸上充满着豪情、将满目废墟视作黄金时代的数字难民。<p></p></span></section><p><br></p><p><span>【引用图已经艺术家秃头倔人授权】</span><span>‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍</span></p><p><mp-style-type data-value="3"></mp-style-type></p></div>  
+<hr>
+<a href="https://mp.weixin.qq.com/s/3G6gNEViZKrKQObPbsdASQ",target="_blank" rel="noopener noreferrer">原文链接</a>
