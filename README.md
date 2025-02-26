@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [转录组测序的表达量的两个归一化方向会影响差异分析吗](https://github.com/ixxmu/mp_duty/issues/6443) 
-2. [用流星图/彗星图（在此之前还不认识这种图呢！）展示富集分析结果](https://github.com/ixxmu/mp_duty/issues/6430) 
-3. [画出像烟花一样的单细胞umap图，原因竟然是？](https://github.com/ixxmu/mp_duty/issues/6399) 
-4. [maftools（r包）绘制棒棒图等](https://github.com/ixxmu/mp_duty/issues/6395) 
-5. [Python应该要会一点吧](https://github.com/ixxmu/mp_duty/issues/6394) 
+1. [画个同款新奇的“Galaxy”星系UMAP图（Nat Immunol：IF27.8）](https://github.com/ixxmu/mp_duty/issues/6478) [![热图](https://img.shields.io/github/labels/ixxmu/mp_duty/热图)](https://github.com/ixxmu/mp_duty/labels/热图)
+2. [转录组测序的表达量的两个归一化方向会影响差异分析吗](https://github.com/ixxmu/mp_duty/issues/6443) 
+3. [用流星图/彗星图（在此之前还不认识这种图呢！）展示富集分析结果](https://github.com/ixxmu/mp_duty/issues/6430) 
+4. [画出像烟花一样的单细胞umap图，原因竟然是？](https://github.com/ixxmu/mp_duty/issues/6399) 
+5. [maftools（r包）绘制棒棒图等](https://github.com/ixxmu/mp_duty/issues/6395) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
