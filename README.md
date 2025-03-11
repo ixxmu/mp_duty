@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [一篇致谢生信技能树的转录组文章](https://github.com/ixxmu/mp_duty/issues/6512) 
-2. [如何批量查询单个基因的功能通路？](https://github.com/ixxmu/mp_duty/issues/6508) 
-3. [单细胞组间差异分析组内细胞数太少如何判断且跳过不报错](https://github.com/ixxmu/mp_duty/issues/6501) 
-4. [突出你的新发现：高亮富集结果中的关键通路绘制](https://github.com/ixxmu/mp_duty/issues/6496) 
-5. [画个同款新奇的“Galaxy”星系UMAP图（Nat Immunol：IF27.8）](https://github.com/ixxmu/mp_duty/issues/6478) [![热图](https://img.shields.io/github/labels/ixxmu/mp_duty/热图)](https://github.com/ixxmu/mp_duty/labels/热图)
+1. [展示你的特征基因：带"辣椒粉"的markers基因umap图](https://github.com/ixxmu/mp_duty/issues/6533) 
+2. [一篇致谢生信技能树的转录组文章](https://github.com/ixxmu/mp_duty/issues/6512) 
+3. [如何批量查询单个基因的功能通路？](https://github.com/ixxmu/mp_duty/issues/6508) 
+4. [单细胞组间差异分析组内细胞数太少如何判断且跳过不报错](https://github.com/ixxmu/mp_duty/issues/6501) 
+5. [突出你的新发现：高亮富集结果中的关键通路绘制](https://github.com/ixxmu/mp_duty/issues/6496) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
