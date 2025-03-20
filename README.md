@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [这种明显错误的单细胞数据分析结果也能发文章吗？](https://github.com/ixxmu/mp_duty/issues/6552) 
-2. [首篇TCellAtlas 数据库以及T细胞自动注释工具 STCAT（郭安源团队）](https://github.com/ixxmu/mp_duty/issues/6534) 
-3. [展示你的特征基因：带"辣椒粉"的markers基因umap图](https://github.com/ixxmu/mp_duty/issues/6533) 
-4. [一篇致谢生信技能树的转录组文章](https://github.com/ixxmu/mp_duty/issues/6512) 
-5. [如何批量查询单个基因的功能通路？](https://github.com/ixxmu/mp_duty/issues/6508) 
+1. [4个NC杂志的空间转录组数据分析(GSE190811)](https://github.com/ixxmu/mp_duty/issues/6565) 
+2. [创建Seurat对象时忽略的两个参数竟然有这样的功能？](https://github.com/ixxmu/mp_duty/issues/6561) 
+3. [这种明显错误的单细胞数据分析结果也能发文章吗？](https://github.com/ixxmu/mp_duty/issues/6552) 
+4. [首篇TCellAtlas 数据库以及T细胞自动注释工具 STCAT（郭安源团队）](https://github.com/ixxmu/mp_duty/issues/6534) 
+5. [展示你的特征基因：带"辣椒粉"的markers基因umap图](https://github.com/ixxmu/mp_duty/issues/6533) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
