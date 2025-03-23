@@ -23,11 +23,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [ggbreak：你们要的坐标轴截断，它来了](https://github.com/ixxmu/mp_duty/issues/6328) 
-2. [阳谋一则](https://github.com/ixxmu/mp_duty/issues/6277) 
-3. [我为什么是个ggpubr黑？](https://github.com/ixxmu/mp_duty/issues/5947) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
-4. [pubmed年度趋势，你的开题报告需要它！](https://github.com/ixxmu/mp_duty/issues/5946) 
-5. [突然就想起一篇老文！](https://github.com/ixxmu/mp_duty/issues/5945) 
+1. [站在PhD的大门前](https://github.com/ixxmu/mp_duty/issues/6578) 
+2. [当你在写论文的时候，你在做什么？](https://github.com/ixxmu/mp_duty/issues/6577) 
+3. [ggbreak：你们要的坐标轴截断，它来了](https://github.com/ixxmu/mp_duty/issues/6328) 
+4. [阳谋一则](https://github.com/ixxmu/mp_duty/issues/6277) 
+5. [我为什么是个ggpubr黑？](https://github.com/ixxmu/mp_duty/issues/5947) [![索引](https://img.shields.io/github/labels/ixxmu/mp_duty/索引)](https://github.com/ixxmu/mp_duty/labels/索引)
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
