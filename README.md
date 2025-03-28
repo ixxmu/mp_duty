@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [NC杂志同款秀气小提琴图](https://github.com/ixxmu/mp_duty/issues/6605) 
-2. [空间转录组数据注释分析：SPOTlight反卷积](https://github.com/ixxmu/mp_duty/issues/6593) 
-3. [4个NC杂志的空间转录组数据分析(GSE190811)](https://github.com/ixxmu/mp_duty/issues/6565) [![空转](https://img.shields.io/github/labels/ixxmu/mp_duty/空转)](https://github.com/ixxmu/mp_duty/labels/空转)
-4. [创建Seurat对象时忽略的两个参数竟然有这样的功能？](https://github.com/ixxmu/mp_duty/issues/6561) 
-5. [这种明显错误的单细胞数据分析结果也能发文章吗？](https://github.com/ixxmu/mp_duty/issues/6552) 
+1. [除了SPP1+Macro，还有其他亚型可分析吗？看看Cell杂志分析组织驻留FOLR2+巨噬细胞](https://github.com/ixxmu/mp_duty/issues/6612) [![大事件](https://img.shields.io/github/labels/ixxmu/mp_duty/大事件)](https://github.com/ixxmu/mp_duty/labels/大事件)
+2. [NC杂志同款秀气小提琴图](https://github.com/ixxmu/mp_duty/issues/6605) 
+3. [空间转录组数据注释分析：SPOTlight反卷积](https://github.com/ixxmu/mp_duty/issues/6593) 
+4. [4个NC杂志的空间转录组数据分析(GSE190811)](https://github.com/ixxmu/mp_duty/issues/6565) [![空转](https://img.shields.io/github/labels/ixxmu/mp_duty/空转)](https://github.com/ixxmu/mp_duty/labels/空转)
+5. [创建Seurat对象时忽略的两个参数竟然有这样的功能？](https://github.com/ixxmu/mp_duty/issues/6561) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
