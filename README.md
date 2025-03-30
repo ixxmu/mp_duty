@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [count转TPM/FPKM实战（GSE229904）](https://github.com/ixxmu/mp_duty/issues/6615) 
-2. [除了SPP1+Macro，还有其他亚型可分析吗？看看Cell杂志分析组织驻留FOLR2+巨噬细胞](https://github.com/ixxmu/mp_duty/issues/6612) [![大事件](https://img.shields.io/github/labels/ixxmu/mp_duty/大事件)](https://github.com/ixxmu/mp_duty/labels/大事件)
-3. [NC杂志同款秀气小提琴图](https://github.com/ixxmu/mp_duty/issues/6605) 
-4. [空间转录组数据注释分析：SPOTlight反卷积](https://github.com/ixxmu/mp_duty/issues/6593) 
-5. [4个NC杂志的空间转录组数据分析(GSE190811)](https://github.com/ixxmu/mp_duty/issues/6565) [![空转](https://img.shields.io/github/labels/ixxmu/mp_duty/空转)](https://github.com/ixxmu/mp_duty/labels/空转)
+1. [从入门到高分文章复现，一站式掌握微生物组数据分析（新课内测啦）](https://github.com/ixxmu/mp_duty/issues/6617) 
+2. [count转TPM/FPKM实战（GSE229904）](https://github.com/ixxmu/mp_duty/issues/6615) 
+3. [除了SPP1+Macro，还有其他亚型可分析吗？看看Cell杂志分析组织驻留FOLR2+巨噬细胞](https://github.com/ixxmu/mp_duty/issues/6612) [![大事件](https://img.shields.io/github/labels/ixxmu/mp_duty/大事件)](https://github.com/ixxmu/mp_duty/labels/大事件)
+4. [NC杂志同款秀气小提琴图](https://github.com/ixxmu/mp_duty/issues/6605) 
+5. [空间转录组数据注释分析：SPOTlight反卷积](https://github.com/ixxmu/mp_duty/issues/6593) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
