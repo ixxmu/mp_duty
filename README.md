@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [一个PBMC的scATAC-seq基础分析：Signac](https://github.com/ixxmu/mp_duty/issues/6637) 
-2. [空间转录组数据注释分析：Cell2location反卷积(Nature Biotechnology IF: 33.1)](https://github.com/ixxmu/mp_duty/issues/6633) 
-3. [从入门到高分文章复现，一站式掌握微生物组数据分析（新课内测啦）](https://github.com/ixxmu/mp_duty/issues/6617) 
-4. [count转TPM/FPKM实战（GSE229904）](https://github.com/ixxmu/mp_duty/issues/6615) 
-5. [除了SPP1+Macro，还有其他亚型可分析吗？看看Cell杂志分析组织驻留FOLR2+巨噬细胞](https://github.com/ixxmu/mp_duty/issues/6612) [![大事件](https://img.shields.io/github/labels/ixxmu/mp_duty/大事件)](https://github.com/ixxmu/mp_duty/labels/大事件)
+1. [巨噬细胞的Marker基因](https://github.com/ixxmu/mp_duty/issues/6644) 
+2. [一个PBMC的scATAC-seq基础分析：Signac](https://github.com/ixxmu/mp_duty/issues/6637) 
+3. [空间转录组数据注释分析：Cell2location反卷积(Nature Biotechnology IF: 33.1)](https://github.com/ixxmu/mp_duty/issues/6633) 
+4. [从入门到高分文章复现，一站式掌握微生物组数据分析（新课内测啦）](https://github.com/ixxmu/mp_duty/issues/6617) 
+5. [count转TPM/FPKM实战（GSE229904）](https://github.com/ixxmu/mp_duty/issues/6615) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
