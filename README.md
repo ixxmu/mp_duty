@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [python单细胞学习笔记-day9(发在Science的celltypist软件注释)](https://github.com/ixxmu/mp_duty/issues/6668) 
-2. [单细胞h5ad转成seurat对象后metadata信息丢失怎么办？(GSE156625)](https://github.com/ixxmu/mp_duty/issues/6667) 
-3. [单细胞层面的表达量差异分析到底如何做](https://github.com/ixxmu/mp_duty/issues/6649) 
-4. [单细胞差异分析之pseudobulk的3种实现方法](https://github.com/ixxmu/mp_duty/issues/6648) 
-5. [巨噬细胞的Marker基因](https://github.com/ixxmu/mp_duty/issues/6644) 
+1. [抽风的ggplot2版本让我排查bug到半夜！！！](https://github.com/ixxmu/mp_duty/issues/6694) 
+2. [python单细胞学习笔记-day9(发在Science的celltypist软件注释)](https://github.com/ixxmu/mp_duty/issues/6668) 
+3. [单细胞h5ad转成seurat对象后metadata信息丢失怎么办？(GSE156625)](https://github.com/ixxmu/mp_duty/issues/6667) 
+4. [单细胞层面的表达量差异分析到底如何做](https://github.com/ixxmu/mp_duty/issues/6649) 
+5. [单细胞差异分析之pseudobulk的3种实现方法](https://github.com/ixxmu/mp_duty/issues/6648) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
