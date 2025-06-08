@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [小鼠单细胞转录组数据之PRJNA604055](https://github.com/ixxmu/mp_duty/issues/6759) 
-2. [优秀学员笔记2：生信入门——Day1-2](https://github.com/ixxmu/mp_duty/issues/6752) [![基础入门](https://img.shields.io/github/labels/ixxmu/mp_duty/基础入门)](https://github.com/ixxmu/mp_duty/labels/基础入门)
-3. [抽风的ggplot2版本让我排查bug到半夜！！！](https://github.com/ixxmu/mp_duty/issues/6694) 
-4. [python单细胞学习笔记-day9(发在Science的celltypist软件注释)](https://github.com/ixxmu/mp_duty/issues/6668) 
-5. [单细胞h5ad转成seurat对象后metadata信息丢失怎么办？(GSE156625)](https://github.com/ixxmu/mp_duty/issues/6667) 
+1. [套娃似的找了四个文献才找到的巨噬细胞 M1 和 M2 signatures，不来看一下吗？](https://github.com/ixxmu/mp_duty/issues/6770) 
+2. [空间转录组细胞邻域(Cellular Neighborhood)分析](https://github.com/ixxmu/mp_duty/issues/6769) 
+3. [超详细T细胞亚群标记基因列表](https://github.com/ixxmu/mp_duty/issues/6768) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker)
+4. [小鼠单细胞转录组数据之PRJNA604055](https://github.com/ixxmu/mp_duty/issues/6759) 
+5. [优秀学员笔记2：生信入门——Day1-2](https://github.com/ixxmu/mp_duty/issues/6752) [![基础入门](https://img.shields.io/github/labels/ixxmu/mp_duty/基础入门)](https://github.com/ixxmu/mp_duty/labels/基础入门)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
