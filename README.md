@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [bulk RNA-seq反卷积新包：granulator，来看看！](https://github.com/ixxmu/mp_duty/issues/6831) 
-2. [区区7个肿瘤病人单细胞样品就近20万细胞吗](https://github.com/ixxmu/mp_duty/issues/6797) 
-3. [套娃似的找了四个文献才找到的巨噬细胞 M1 和 M2 signatures，不来看一下吗？](https://github.com/ixxmu/mp_duty/issues/6770) 
-4. [空间转录组细胞邻域(Cellular Neighborhood)分析](https://github.com/ixxmu/mp_duty/issues/6769) 
-5. [超详细T细胞亚群标记基因列表](https://github.com/ixxmu/mp_duty/issues/6768) [![marker](https://img.shields.io/github/labels/ixxmu/mp_duty/marker)](https://github.com/ixxmu/mp_duty/labels/marker)
+1. [新的单细胞数据分析方法：DA-seq算法识别在两种状态之间丰度差异最显著的细胞亚群（IF9.1/Q1）](https://github.com/ixxmu/mp_duty/issues/6834) 
+2. [bulk RNA-seq反卷积新包：granulator，来看看！](https://github.com/ixxmu/mp_duty/issues/6831) 
+3. [区区7个肿瘤病人单细胞样品就近20万细胞吗](https://github.com/ixxmu/mp_duty/issues/6797) 
+4. [套娃似的找了四个文献才找到的巨噬细胞 M1 和 M2 signatures，不来看一下吗？](https://github.com/ixxmu/mp_duty/issues/6770) 
+5. [空间转录组细胞邻域(Cellular Neighborhood)分析](https://github.com/ixxmu/mp_duty/issues/6769) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
