@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [python实战：学习生信大牛Sarah A. Teichmann发在Science上的单细胞分析](https://github.com/ixxmu/mp_duty/issues/6853) 
-2. [bulk RNA-seq反卷积新包：granulator，来看看！](https://github.com/ixxmu/mp_duty/issues/6852) 
-3. [新的单细胞数据分析方法：DA-seq算法识别在两种状态之间丰度差异最显著的细胞亚群（IF9.1/Q1）](https://github.com/ixxmu/mp_duty/issues/6834) 
-4. [bulk RNA-seq反卷积新包：granulator，来看看！](https://github.com/ixxmu/mp_duty/issues/6831) 
-5. [区区7个肿瘤病人单细胞样品就近20万细胞吗](https://github.com/ixxmu/mp_duty/issues/6797) 
+1. [count转TPM/FPKM实战（GSE229904）](https://github.com/ixxmu/mp_duty/issues/6862) 
+2. [python实战：学习生信大牛Sarah A. Teichmann发在Science上的单细胞分析](https://github.com/ixxmu/mp_duty/issues/6853) 
+3. [bulk RNA-seq反卷积新包：granulator，来看看！](https://github.com/ixxmu/mp_duty/issues/6852) 
+4. [新的单细胞数据分析方法：DA-seq算法识别在两种状态之间丰度差异最显著的细胞亚群（IF9.1/Q1）](https://github.com/ixxmu/mp_duty/issues/6834) 
+5. [bulk RNA-seq反卷积新包：granulator，来看看！](https://github.com/ixxmu/mp_duty/issues/6831) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
