@@ -12,11 +12,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [为什么长度差异如此大的染色体的基因数量反而差不多](https://github.com/ixxmu/mp_duty/issues/6929) 
-2. [高分杂志同款cellchat细胞通讯结果气泡图绘制（IF=25.083）](https://github.com/ixxmu/mp_duty/issues/6921) 
-3. [一行代码转换h5ad为seurat：超简单](https://github.com/ixxmu/mp_duty/issues/6915) 
-4. [细胞程序性死亡相关基因都一两千个了啊](https://github.com/ixxmu/mp_duty/issues/6908) 
-5. [CNS大刊超爱用的CD8+ T cells亚群的gene signatures](https://github.com/ixxmu/mp_duty/issues/6906) 
+1. [Psichomics：一个选择性可变剪切分析的R包](https://github.com/ixxmu/mp_duty/issues/6939) 
+2. [为什么长度差异如此大的染色体的基因数量反而差不多](https://github.com/ixxmu/mp_duty/issues/6929) 
+3. [高分杂志同款cellchat细胞通讯结果气泡图绘制（IF=25.083）](https://github.com/ixxmu/mp_duty/issues/6921) 
+4. [一行代码转换h5ad为seurat：超简单](https://github.com/ixxmu/mp_duty/issues/6915) 
+5. [细胞程序性死亡相关基因都一两千个了啊](https://github.com/ixxmu/mp_duty/issues/6908) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
