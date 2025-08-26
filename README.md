@@ -12,11 +12,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [纯粹靠单细胞转录组数据是很难区分CD4和CD8阳性T细胞](https://github.com/ixxmu/mp_duty/issues/6946) 
-2. [Psichomics：一个选择性可变剪切分析的R包](https://github.com/ixxmu/mp_duty/issues/6939) 
-3. [为什么长度差异如此大的染色体的基因数量反而差不多](https://github.com/ixxmu/mp_duty/issues/6929) 
-4. [高分杂志同款cellchat细胞通讯结果气泡图绘制（IF=25.083）](https://github.com/ixxmu/mp_duty/issues/6921) 
-5. [一行代码转换h5ad为seurat：超简单](https://github.com/ixxmu/mp_duty/issues/6915) 
+1. [单细胞转录组降维聚类分群过滤基因和过滤细胞的区别](https://github.com/ixxmu/mp_duty/issues/6958) 
+2. [单细胞层面所谓的无效或者干扰基因去除与否有什么影响呢？](https://github.com/ixxmu/mp_duty/issues/6957) 
+3. [python版RNA速率分析：胰腺内分泌生成中的RNA velocity推断](https://github.com/ixxmu/mp_duty/issues/6955) 
+4. [稳健和准确top1的空转反卷积算法RCTD实战：GSE242249](https://github.com/ixxmu/mp_duty/issues/6954) 
+5. [脱离生物学背景的数据分析都是耍流氓](https://github.com/ixxmu/mp_duty/issues/6953) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
