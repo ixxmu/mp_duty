@@ -12,11 +12,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [张泽民院士团队爱用的”云雾感“ UMAP 图](https://github.com/ixxmu/mp_duty/issues/6986) 
-2. [就算内皮细胞确实是有endoMT现象，但是也有免疫化的可能性吗？](https://github.com/ixxmu/mp_duty/issues/6980) 
-3. [（IF=50.0/Q1）顶刊杂志的python代码复现资源分享](https://github.com/ixxmu/mp_duty/issues/6979) 
-4. [2025年最新单细胞中恶性细胞鉴定综述：各类方法优缺点总结](https://github.com/ixxmu/mp_duty/issues/6978) 
-5. [高分杂志同款基因表达相关性图（IF=24.5）](https://github.com/ixxmu/mp_duty/issues/6976) 
+1. [NC高分杂志cellchat细胞通讯结果个性化绘制之弦图](https://github.com/ixxmu/mp_duty/issues/7001) 
+2. [张泽民院士团队爱用的”云雾感“ UMAP 图](https://github.com/ixxmu/mp_duty/issues/6986) 
+3. [就算内皮细胞确实是有endoMT现象，但是也有免疫化的可能性吗？](https://github.com/ixxmu/mp_duty/issues/6980) 
+4. [（IF=50.0/Q1）顶刊杂志的python代码复现资源分享](https://github.com/ixxmu/mp_duty/issues/6979) 
+5. [2025年最新单细胞中恶性细胞鉴定综述：各类方法优缺点总结](https://github.com/ixxmu/mp_duty/issues/6978) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
