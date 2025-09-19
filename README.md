@@ -12,11 +12,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [跟着张泽民院士学习NK细胞亚群分类：一文了解NK的前世今生](https://github.com/ixxmu/mp_duty/issues/7030) [![张泽民](https://img.shields.io/github/labels/ixxmu/mp_duty/张泽民)](https://github.com/ixxmu/mp_duty/labels/张泽民)
-2. [除了SPP1+Macro，还有其他亚型可分析吗？看看Cell杂志分析组织驻留FOLR2+巨噬细胞](https://github.com/ixxmu/mp_duty/issues/7029) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
-3. [套娃似的找了四个文献才找到的巨噬细胞 M1 和 M2 signatures，不来看一下吗？](https://github.com/ixxmu/mp_duty/issues/7028) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
-4. [巨噬细胞的Marker基因](https://github.com/ixxmu/mp_duty/issues/7027) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
-5. [顶刊杂志 （IF=27.2）同款自带“仙气”的单细胞亚群高表达基因热图](https://github.com/ixxmu/mp_duty/issues/7017) 
+1. [Science杂志高颜值GSEA打分排序图](https://github.com/ixxmu/mp_duty/issues/7036) 
+2. [跟着张泽民院士学习NK细胞亚群分类：一文了解NK的前世今生](https://github.com/ixxmu/mp_duty/issues/7030) [![张泽民](https://img.shields.io/github/labels/ixxmu/mp_duty/张泽民)](https://github.com/ixxmu/mp_duty/labels/张泽民)
+3. [除了SPP1+Macro，还有其他亚型可分析吗？看看Cell杂志分析组织驻留FOLR2+巨噬细胞](https://github.com/ixxmu/mp_duty/issues/7029) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
+4. [套娃似的找了四个文献才找到的巨噬细胞 M1 和 M2 signatures，不来看一下吗？](https://github.com/ixxmu/mp_duty/issues/7028) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
+5. [巨噬细胞的Marker基因](https://github.com/ixxmu/mp_duty/issues/7027) [![巨噬细胞](https://img.shields.io/github/labels/ixxmu/mp_duty/巨噬细胞)](https://github.com/ixxmu/mp_duty/labels/巨噬细胞)
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
