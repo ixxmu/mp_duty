@@ -4,7 +4,9 @@
 
 <li> <a href="https://kyplus.092420.xyz/">🌟在此体验</a> 我们的 ChatGPT Plus </li>  
 
-<li> <a href="https://t.me/BioInfoTalk">✨加入群组</a> 获取更多生信资讯</li>  
+<li> <a href="https://t.me/BioInfoTalk">✨加入群组</a> 获取更多生信资讯</li> 
+
+<li> <a href="https://github.com/ixxmu/FigureYa">🎨323套生物医学科学问题生信代码全收录</a> 近十年最值得上手的生信代码</li>  
 </h3>
 
 ------------------
