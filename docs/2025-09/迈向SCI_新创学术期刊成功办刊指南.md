@@ -1,6 +1,6 @@
 ---
 title: "迈向SCI：新创学术期刊成功办刊指南"
-date: 2025-09-24T23:07:01Z
+date: 2025-09-25T00:20:50Z
 draft: ["false"]
 tags: [
   "fetched",
