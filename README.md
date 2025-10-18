@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [看看Nature文献新发现的一群中间态上皮细胞KACs：是中间态还是双细胞？](https://github.com/ixxmu/mp_duty/issues/7052) 
-2. [给我那刚入门R的朋友写一个Visium HD数据分析教程](https://github.com/ixxmu/mp_duty/issues/7051) 
-3. [Nature杂志同款高颜值单细胞星云+圈款UMAP图](https://github.com/ixxmu/mp_duty/issues/7044) 
-4. [烦请停止使用M1和M2这样的简单的二元分类体系（加入全球髓系细胞学术俱乐部吧！）](https://github.com/ixxmu/mp_duty/issues/7040) 
-5. [Science杂志高颜值GSEA打分排序图](https://github.com/ixxmu/mp_duty/issues/7036) 
+1. [以为上传到中国的测序数据库就安全了吗？](https://github.com/ixxmu/mp_duty/issues/7088) 
+2. [看看Nature文献新发现的一群中间态上皮细胞KACs：是中间态还是双细胞？](https://github.com/ixxmu/mp_duty/issues/7052) 
+3. [给我那刚入门R的朋友写一个Visium HD数据分析教程](https://github.com/ixxmu/mp_duty/issues/7051) 
+4. [Nature杂志同款高颜值单细胞星云+圈款UMAP图](https://github.com/ixxmu/mp_duty/issues/7044) 
+5. [烦请停止使用M1和M2这样的简单的二元分类体系（加入全球髓系细胞学术俱乐部吧！）](https://github.com/ixxmu/mp_duty/issues/7040) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
