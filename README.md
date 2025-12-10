@@ -23,11 +23,11 @@
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [我的挣扎 与 TBtools 的开发](https://github.com/ixxmu/mp_duty/issues/7130) 
-2. [文章发表：aplot让你轻松画出复杂的图](https://github.com/ixxmu/mp_duty/issues/6973) 
-3. [关于排序那点事](https://github.com/ixxmu/mp_duty/issues/6920) 
-4. [一个新版本的geom_xspline](https://github.com/ixxmu/mp_duty/issues/6858) 
-5. [sclet：新手入门R单细胞分析的正确打开方式？](https://github.com/ixxmu/mp_duty/issues/6588) 
+1. [太费叔了，肿么办？](https://github.com/ixxmu/mp_duty/issues/7145) 
+2. [我的挣扎 与 TBtools 的开发](https://github.com/ixxmu/mp_duty/issues/7130) 
+3. [文章发表：aplot让你轻松画出复杂的图](https://github.com/ixxmu/mp_duty/issues/6973) 
+4. [关于排序那点事](https://github.com/ixxmu/mp_duty/issues/6920) 
+5. [一个新版本的geom_xspline](https://github.com/ixxmu/mp_duty/issues/6858) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
