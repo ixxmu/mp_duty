@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [使用python来分析一下张泽民院士2018年的单细胞数据](https://github.com/ixxmu/mp_duty/issues/7195) 
-2. [单细胞数据不同亚群间的拉丝到底是不是双包体？](https://github.com/ixxmu/mp_duty/issues/7169) 
-3. [顶刊杂志同款高颜值UpSet图展示多组交集结果](https://github.com/ixxmu/mp_duty/issues/7159) 
-4. [介绍一个单细胞转录组专属的数据包：TENxPBMCData](https://github.com/ixxmu/mp_duty/issues/7138) 
-5. [肝脏单细胞注释：8亚群和t细胞在一起但不表达cd3和常见的maker可能是什么细胞？](https://github.com/ixxmu/mp_duty/issues/7115) 
+1. [两篇泛癌类的单细胞成纤维细胞亚群细分：结果一致性有多高呢？](https://github.com/ixxmu/mp_duty/issues/7218) 
+2. [使用python来分析一下张泽民院士2018年的单细胞数据](https://github.com/ixxmu/mp_duty/issues/7195) 
+3. [单细胞数据不同亚群间的拉丝到底是不是双包体？](https://github.com/ixxmu/mp_duty/issues/7169) 
+4. [顶刊杂志同款高颜值UpSet图展示多组交集结果](https://github.com/ixxmu/mp_duty/issues/7159) 
+5. [介绍一个单细胞转录组专属的数据包：TENxPBMCData](https://github.com/ixxmu/mp_duty/issues/7138) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
