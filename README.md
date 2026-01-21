@@ -14,20 +14,20 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [两篇泛癌类的单细胞成纤维细胞亚群细分：结果一致性有多高呢？](https://github.com/ixxmu/mp_duty/issues/7218) 
-2. [使用python来分析一下张泽民院士2018年的单细胞数据](https://github.com/ixxmu/mp_duty/issues/7195) 
-3. [单细胞数据不同亚群间的拉丝到底是不是双包体？](https://github.com/ixxmu/mp_duty/issues/7169) 
-4. [顶刊杂志同款高颜值UpSet图展示多组交集结果](https://github.com/ixxmu/mp_duty/issues/7159) 
-5. [介绍一个单细胞转录组专属的数据包：TENxPBMCData](https://github.com/ixxmu/mp_duty/issues/7138) 
+1. [跟着Nature学习scATAC-seq数据分析](https://github.com/ixxmu/mp_duty/issues/7224) 
+2. [单核细胞消失之谜](https://github.com/ixxmu/mp_duty/issues/7221) 
+3. [使用4个高颜值单细胞tsne图绘制你的Figure1](https://github.com/ixxmu/mp_duty/issues/7219) 
+4. [两篇泛癌类的单细胞成纤维细胞亚群细分：结果一致性有多高呢？](https://github.com/ixxmu/mp_duty/issues/7218) 
+5. [使用python来分析一下张泽民院士2018年的单细胞数据](https://github.com/ixxmu/mp_duty/issues/7195) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
 
-1. [YuLab的2025](https://github.com/ixxmu/mp_duty/issues/7154) 
-2. [太费叔了，肿么办？](https://github.com/ixxmu/mp_duty/issues/7145) 
-3. [我的挣扎 与 TBtools 的开发](https://github.com/ixxmu/mp_duty/issues/7130) 
-4. [文章发表：aplot让你轻松画出复杂的图](https://github.com/ixxmu/mp_duty/issues/6973) 
-5. [关于排序那点事](https://github.com/ixxmu/mp_duty/issues/6920) 
+1. [肿瘤微环境分析神器：一行代码调用CIBERSORT、TIMER等10大主流算法](https://github.com/ixxmu/mp_duty/issues/7226) 
+2. [YuLab的2025](https://github.com/ixxmu/mp_duty/issues/7154) 
+3. [太费叔了，肿么办？](https://github.com/ixxmu/mp_duty/issues/7145) 
+4. [我的挣扎 与 TBtools 的开发](https://github.com/ixxmu/mp_duty/issues/7130) 
+5. [文章发表：aplot让你轻松画出复杂的图](https://github.com/ixxmu/mp_duty/issues/6973) 
 <!-- 2issueTable -->
 
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
