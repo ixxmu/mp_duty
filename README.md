@@ -14,11 +14,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [跟着张泽民院士学习单细胞：对DC亚群进行细分](https://github.com/ixxmu/mp_duty/issues/7241) 
-2. [组织类型样本中为什么可以同时注释到单核细胞和巨噬细胞呢？](https://github.com/ixxmu/mp_duty/issues/7240) 
-3. [跟着Nature学习scATAC-seq数据分析](https://github.com/ixxmu/mp_duty/issues/7224) 
-4. [单核细胞消失之谜](https://github.com/ixxmu/mp_duty/issues/7221) 
-5. [使用4个高颜值单细胞tsne图绘制你的Figure1](https://github.com/ixxmu/mp_duty/issues/7219) 
+1. [python版单细胞注释：基于已知marker基因注释](https://github.com/ixxmu/mp_duty/issues/7251) 
+2. [跟着张泽民院士学习单细胞：对DC亚群进行细分](https://github.com/ixxmu/mp_duty/issues/7241) 
+3. [组织类型样本中为什么可以同时注释到单核细胞和巨噬细胞呢？](https://github.com/ixxmu/mp_duty/issues/7240) 
+4. [跟着Nature学习scATAC-seq数据分析](https://github.com/ixxmu/mp_duty/issues/7224) 
+5. [单核细胞消失之谜](https://github.com/ixxmu/mp_duty/issues/7221) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
