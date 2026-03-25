@@ -33,9 +33,9 @@
 ## 📝[果子学生信](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E6%9E%9C%E5%AD%90%E5%AD%A6%E7%94%9F%E4%BF%A1+is%3Aclosed)
 <!-- 3issueTable -->
 
-1. [GTF文件有什么用啊？别的不谈，最起码能提lncRNA](https://github.com/ixxmu/mp_duty/issues/6080) 
-2. [简单几步构建一个单细胞转录组浏览器](https://github.com/ixxmu/mp_duty/issues/5103) 
-3. [GSEA只看排序吗？](https://github.com/ixxmu/mp_duty/issues/4920) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
-4. [TGCA数据的标准化以及差异分析](https://github.com/ixxmu/mp_duty/issues/4829) 
-5. [动态确定线粒体过滤阈值筛选细胞](https://github.com/ixxmu/mp_duty/issues/4754) 
+1. [更哥说，题目应该是：「谁不想一边走路一边查文献？」](https://github.com/ixxmu/mp_duty/issues/7329) 
+2. [GTF文件有什么用啊？别的不谈，最起码能提lncRNA](https://github.com/ixxmu/mp_duty/issues/6080) 
+3. [简单几步构建一个单细胞转录组浏览器](https://github.com/ixxmu/mp_duty/issues/5103) 
+4. [GSEA只看排序吗？](https://github.com/ixxmu/mp_duty/issues/4920) [![GSEA](https://img.shields.io/github/labels/ixxmu/mp_duty/GSEA)](https://github.com/ixxmu/mp_duty/labels/GSEA)
+5. [TGCA数据的标准化以及差异分析](https://github.com/ixxmu/mp_duty/issues/4829) 
 <!-- 3issueTable -->
