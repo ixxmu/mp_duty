@@ -11,11 +11,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [bulk转录组分析：可变剪切可以用来研究什么？](https://github.com/ixxmu/mp_duty/issues/7345) 
-2. [有超级好用的单细胞自动化注释工具吗？不需要人工校正那种](https://github.com/ixxmu/mp_duty/issues/7309) 
-3. [两种方法下载 arrayexpress 数据库的单细胞fq数据](https://github.com/ixxmu/mp_duty/issues/7265) 
-4. [python版本的单细胞数据整合分析：scVI整合](https://github.com/ixxmu/mp_duty/issues/7258) 
-5. [python版单细胞注释：基于已知marker基因注释](https://github.com/ixxmu/mp_duty/issues/7251) 
+1. [使用MiXCR进行免疫组库分析：GSE162928](https://github.com/ixxmu/mp_duty/issues/7391) 
+2. [单细胞转录组从bam开始走cellranger定量：GSE136314](https://github.com/ixxmu/mp_duty/issues/7390) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+3. [hdWGCNA：单细胞中识别与疾病相关的共表达网络模块](https://github.com/ixxmu/mp_duty/issues/7389) 
+4. [bulk转录组分析：可变剪切可以用来研究什么？](https://github.com/ixxmu/mp_duty/issues/7345) 
+5. [有超级好用的单细胞自动化注释工具吗？不需要人工校正那种](https://github.com/ixxmu/mp_duty/issues/7309) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
