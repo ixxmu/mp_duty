@@ -11,11 +11,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [hdWGCNA：单细胞中识别与疾病相关的共表达网络模块](https://github.com/ixxmu/mp_duty/issues/7404) 
-2. [使用MiXCR进行免疫组库分析：GSE162928](https://github.com/ixxmu/mp_duty/issues/7391) 
-3. [单细胞转录组从bam开始走cellranger定量：GSE136314](https://github.com/ixxmu/mp_duty/issues/7390) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
-4. [hdWGCNA：单细胞中识别与疾病相关的共表达网络模块](https://github.com/ixxmu/mp_duty/issues/7389) 
-5. [bulk转录组分析：可变剪切可以用来研究什么？](https://github.com/ixxmu/mp_duty/issues/7345) 
+1. [泛癌巨噬细胞图谱：使用层次聚类来看亚群相关性](https://github.com/ixxmu/mp_duty/issues/7424) 
+2. [hdWGCNA：单细胞中识别与疾病相关的共表达网络模块](https://github.com/ixxmu/mp_duty/issues/7404) 
+3. [使用MiXCR进行免疫组库分析：GSE162928](https://github.com/ixxmu/mp_duty/issues/7391) 
+4. [单细胞转录组从bam开始走cellranger定量：GSE136314](https://github.com/ixxmu/mp_duty/issues/7390) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+5. [hdWGCNA：单细胞中识别与疾病相关的共表达网络模块](https://github.com/ixxmu/mp_duty/issues/7389) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
