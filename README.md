@@ -11,11 +11,11 @@
 ## 📝[生信技能树](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E7%94%9F%E4%BF%A1%E6%8A%80%E8%83%BD%E6%A0%91+is%3Aclosed)
 <!-- 1issueTable -->
 
-1. [codex版本：初学者也能学会的单细胞h5ad与seurat对象互换（手搓代码也有！）](https://github.com/ixxmu/mp_duty/issues/7437) 
-2. [泛癌巨噬细胞图谱：使用层次聚类来看亚群相关性](https://github.com/ixxmu/mp_duty/issues/7424) 
-3. [hdWGCNA：单细胞中识别与疾病相关的共表达网络模块](https://github.com/ixxmu/mp_duty/issues/7404) 
-4. [使用MiXCR进行免疫组库分析：GSE162928](https://github.com/ixxmu/mp_duty/issues/7391) 
-5. [单细胞转录组从bam开始走cellranger定量：GSE136314](https://github.com/ixxmu/mp_duty/issues/7390) [![上游](https://img.shields.io/github/labels/ixxmu/mp_duty/上游)](https://github.com/ixxmu/mp_duty/labels/上游)
+1. [ascp下载fq又行了？得用这个地址的软件和秘钥key（这是AI做不到的吧，快夸我！）](https://github.com/ixxmu/mp_duty/issues/7464) 
+2. [DEqMS：比 limma 更懂蛋白组的差异分析 R 包](https://github.com/ixxmu/mp_duty/issues/7460) 
+3. [codex版本：初学者也能学会的单细胞h5ad与seurat对象互换（手搓代码也有！）](https://github.com/ixxmu/mp_duty/issues/7437) 
+4. [泛癌巨噬细胞图谱：使用层次聚类来看亚群相关性](https://github.com/ixxmu/mp_duty/issues/7424) 
+5. [hdWGCNA：单细胞中识别与疾病相关的共表达网络模块](https://github.com/ixxmu/mp_duty/issues/7404) 
 <!-- 1issueTable -->
 ## 📝[单细胞天地](https://github.com/ixxmu/mp_duty/issues?q=label%3A%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%A9%E5%9C%B0+is%3Aclosed)
 <!-- 2issueTable -->
